@@ -18,7 +18,12 @@ then:
 sudo dockerd
 ```
 
-3. finally run:
+3. Open new terminal window
+```
+cd django_react_project
+```
+
+5. Finally run:
 ```
 docker compose up
 ```
