@@ -13,25 +13,11 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
@@ -41,19 +27,25 @@
 
 /* Styling for the entire container */
 .container {
-  background-color: #3498db; /* Nice blue background color */
+  background-color: #3498db;
+  /* Nice blue background color */
   text-align: center;
   padding: 20px;
   font-family: Arial, sans-serif;
-  color: white; /* Text color */
+  color: white;
+  /* Text color */
 }
 
 /* Styling for the search bar */
 .Form-control {
-  background-color: #fff; /* White background for search bar */
-  color: #333; /* Text color for search bar */
-  border: 2px solid #3498db; /* Border color for search bar */
-  border-radius: 4px; /* Rounded corners */
+  background-color: #fff;
+  /* White background for search bar */
+  color: #333;
+  /* Text color for search bar */
+  border: 2px solid #3498db;
+  /* Border color for search bar */
+  border-radius: 4px;
+  /* Rounded corners */
   padding: 10px;
   width: 80%;
   margin: 0 auto;
@@ -61,10 +53,13 @@
 
 /* Styling for the search button */
 button {
-  background-color: #3498db; /* Blue background for search button */
-  color: white; /* Text color for search button */
+  background-color: #3498db;
+  /* Blue background for search button */
+  color: white;
+  /* Text color for search button */
   border: none;
-  border-radius: 4px; /* Rounded corners */
+  border-radius: 4px;
+  /* Rounded corners */
   padding: 10px 20px;
   margin-top: 10px;
   cursor: pointer;
@@ -85,5 +80,6 @@ h1 {
   text-align: left;
   overflow: auto;
   max-height: 200px;
-  color: black; /* Set text color to black */
+  color: black;
+  /* Set text color to black */
 }
