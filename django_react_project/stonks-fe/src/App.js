@@ -10,14 +10,15 @@ import memeMan from './assets/Meme Man Outlined HD.png'
 
 function determineImg(goodStock) {
   if (goodStock) {
-    return keepMining
+    return keepMining;
   } else {
-    return giveUp
+    return giveUp;
   }
 }
 
 function App() {
   const [data, setData] = useState([]);
+  const [searchQuery, setSearchQuery] = useState('');
 
   useEffect(() => {
     axios
@@ -31,20 +32,40 @@ function App() {
       });
   }, []);
 
-  // Update this later to change depending on stock status
-  let goodStock = true
-  let currentImg = determineImg(goodStock)
+  const handleSearch = () => {
+    axios
+      .get(`http://localhost:8000/api/search_data/?query=${searchQuery}`)
+      .then((response) => {
+        console.log(response);
+        // Handle the response data as needed
+      })
+      .catch((error) => {
+        console.error('Error fetching search results:', error);
+      });
+
+    setSearchQuery('');
+  };
+
+  let goodStock = true;
+  let currentImg = determineImg(goodStock);
 
   return (
     <div className="container">
-      <img class="App-logo" src={memeMan} alt="Meme Man" />
+      <img className="App-logo" src={memeMan} alt="Meme Man" />
       <h1>Stonks</h1>
-      <Form.Control type="text" placeholder="Enter stock" />
+      <Form.Control
+        className="Form-control"
+        type="text"
+        placeholder="Enter stock"
+        value={searchQuery}
+        onChange={(e) => setSearchQuery(e.target.value)}
+      />
+      <button onClick={handleSearch}>Search</button>
       <div>
         <img src={currentImg} alt="mining" />
       </div>
-      <div>
-        {JSON.stringify(data)}
+      <div className="data-display">
+        {JSON.stringify(data, null, 2)}
       </div>
     </div>
   );

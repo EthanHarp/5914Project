@@ -36,3 +36,54 @@
     transform: rotate(360deg);
   }
 }
+
+/* App.css */
+
+/* Styling for the entire container */
+.container {
+  background-color: #3498db; /* Nice blue background color */
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  color: white; /* Text color */
+}
+
+/* Styling for the search bar */
+.Form-control {
+  background-color: #fff; /* White background for search bar */
+  color: #333; /* Text color for search bar */
+  border: 2px solid #3498db; /* Border color for search bar */
+  border-radius: 4px; /* Rounded corners */
+  padding: 10px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+/* Styling for the search button */
+button {
+  background-color: #3498db; /* Blue background for search button */
+  color: white; /* Text color for search button */
+  border: none;
+  border-radius: 4px; /* Rounded corners */
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+/* Style for the header */
+h1 {
+  font-size: 36px;
+  margin-top: 20px;
+}
+
+/* Style for the JSON data display */
+.data-display {
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 10px;
+  border-radius: 4px;
+  margin-top: 20px;
+  text-align: left;
+  overflow: auto;
+  max-height: 200px;
+  color: black; /* Set text color to black */
+}
