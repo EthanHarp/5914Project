@@ -24,7 +24,7 @@ function App() {
     axios
       .get('http://localhost:8000/api/get_data/')
       .then((response) => {
-        console.log(response);
+        console.log(response.data);
         setData(response.data);
       })
       .catch((error) => {
@@ -34,8 +34,9 @@ function App() {
 
   const handleSearch = () => {
     axios
-      .get(`http://localhost:8000/api/search_data/?query=${searchQuery}`)
+      .get(`http://localhost:8000/api/get_data/${searchQuery}`)
       .then((response) => {
+        // setData(response.data);
         console.log(response);
         // Handle the response data as needed
       })

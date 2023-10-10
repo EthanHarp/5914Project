@@ -1,9 +1,10 @@
 from django.shortcuts import render
 from django.http import JsonResponse
+from django.http import HttpResponse
 import json
 import os
 
-def get_data(request):
+def get_data(request, ticker):
     # # Read the JSON file and parse its contents
     # with open('./data/response1.json', 'r') as json_file:
     #     data = json.load(json_file)
@@ -23,4 +24,7 @@ def get_data(request):
         # Handle other exceptions (e.g., JSON decoding error)
         print("Exception occurred")
 
+    #print(user)
+
     return JsonResponse(data)
+    #return HttpResponse(f'The parameter is: {ticker}')
