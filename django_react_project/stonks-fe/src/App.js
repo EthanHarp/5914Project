@@ -41,6 +41,7 @@ function App() {
 
   return (
     <div className="container">
+      <div class="Top">
       <img className="App-logo" src={memeMan} alt="Meme Man" />
       <h1>Stonks</h1>
       <Form.Control
@@ -51,12 +52,26 @@ function App() {
         onChange={(e) => setSearchQuery(e.target.value)}
       />
       <button onClick={handleSearch}>Search</button>
-      <div>
-        <img src={currentImg} alt="mining" />
-      </div>
       <div className="data-display">
         {JSON.stringify(data, null, 2)}
       </div>
+      </div>
+      <div class="Name">Name</div>
+      <div class="Ticker">Ticker</div>
+      <div class="Description">Description</div>
+      <div class="Prediction">
+        Prediction
+        <div>
+          <img src={currentImg} alt="mining" />
+        </div>
+      </div>
+      <div class="Articles">
+        Articles
+        <div>
+          <img src={currentImg} alt="mining" />
+        </div>
+      </div>
+      <div class="Stock-Data">StockData</div>
     </div>
   );
 }

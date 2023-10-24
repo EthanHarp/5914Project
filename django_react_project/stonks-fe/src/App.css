@@ -83,3 +83,31 @@ h1 {
   color: black;
   /* Set text color to black */
 }
+
+.container {  display: grid;
+  grid-template-columns: 1fr 0.8fr 1.2fr;
+  grid-template-rows: 1fr 0.5fr 0.8fr 1fr 1.7fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "Top Top Top"
+    "Ticker Name Description"
+    "Prediction Prediction Description"
+    "Prediction Prediction Articles"
+    "Stock-Data Stock-Data Articles";
+}
+
+.Top { grid-area: Top; }
+
+.Name { grid-area: Name; }
+
+.Ticker { grid-area: Ticker; }
+
+.Description { grid-area: Description; }
+
+.Prediction { grid-area: Prediction; }
+
+.Articles { grid-area: Articles; }
+
+.Stock-Data { grid-area: Stock-Data; }
+

@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from django.http import JsonResponse
 from django.http import HttpResponse
-from backend.Polygon import getTickerDetails
+from backend.Polygon import getTickerDetails, getNewsForTicker
 import json
 import os
 
@@ -29,5 +29,5 @@ def get_data(request, ticker):
     
 
 
-    return JsonResponse(getTickerDetails(ticker))
+    return JsonResponse(getTickerDetails(ticker), safe=False)
     #return HttpResponse(f'The parameter is: {ticker}')
