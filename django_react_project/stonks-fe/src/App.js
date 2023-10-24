@@ -20,23 +20,12 @@ function App() {
   const [data, setData] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
 
-  useEffect(() => {
-    axios
-      .get('http://localhost:8000/api/get_data/')
-      .then((response) => {
-        console.log(response.data);
-        setData(response.data);
-      })
-      .catch((error) => {
-        console.error('Error fetching data:', error);
-      });
-  }, []);
 
   const handleSearch = () => {
     axios
       .get(`http://localhost:8000/api/get_data/${searchQuery}`)
       .then((response) => {
-        // setData(response.data);
+        setData(response.data);
         console.log(response);
         // Handle the response data as needed
       })

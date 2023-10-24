@@ -1,7 +1,7 @@
 FROM python:3.11
 #ENV PYTHONUNBUFFERED 1
 WORKDIR /app
-RUN pip install django djangorestframework django-cors-headers
+RUN pip install django djangorestframework django-cors-headers requests
 COPY . /app
 #COPY ./manage.py ./
 

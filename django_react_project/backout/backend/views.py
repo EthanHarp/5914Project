@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from django.http import JsonResponse
 from django.http import HttpResponse
+from backend.Polygon import getTickerDetails
 import json
 import os
 
@@ -24,7 +25,9 @@ def get_data(request, ticker):
         # Handle other exceptions (e.g., JSON decoding error)
         print("Exception occurred")
 
-    #print(user)
 
-    return JsonResponse(data)
+    
+
+
+    return JsonResponse(getTickerDetails(ticker))
     #return HttpResponse(f'The parameter is: {ticker}')
