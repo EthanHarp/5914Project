@@ -1,7 +1,9 @@
 import Form from 'react-bootstrap/Form';
+import Button from 'react-bootstrap/Button';
+import Spinner from 'react-bootstrap/Spinner';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import axios from 'axios';
 // Images
 import giveUp from './assets/give-up.png'
@@ -19,17 +21,21 @@ function determineImg(goodStock) {
 function App() {
   const [data, setData] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
+  const [isLoading, setLoading] = useState(false);
 
 
   const handleSearch = () => {
+    setLoading(true);
     axios
       .get(`http://localhost:8000/api/get_data/${searchQuery}`)
       .then((response) => {
+        setLoading(false);
         setData(response.data);
         console.log(response);
         // Handle the response data as needed
       })
       .catch((error) => {
+        setLoading(false);
         console.error('Error fetching search results:', error);
       });
 
@@ -50,7 +56,20 @@ function App() {
         value={searchQuery}
         onChange={(e) => setSearchQuery(e.target.value)}
       />
-      <button onClick={handleSearch}>Search</button>
+      <Button
+        disabled={isLoading}
+        onClick={!isLoading ? handleSearch : null}
+      >
+        <Spinner
+          as="span"
+          animation="border"
+          size="sm"
+          role="status"
+          aria-hidden="true"
+          hidden={!isLoading}
+        />
+        {!isLoading ? 'Search' : null}
+      </Button>
       <div>
         <img src={currentImg} alt="mining" />
       </div>
