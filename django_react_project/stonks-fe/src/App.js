@@ -40,7 +40,7 @@ function App() {
   let currentImg = determineImg(goodStock);
 
   return (
-    <div className="container">
+    <div className="container-fluid">
       <img className="App-logo" src={memeMan} alt="Meme Man" />
       <h1>Stonks</h1>
       <Form.Control

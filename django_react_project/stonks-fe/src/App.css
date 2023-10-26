@@ -26,7 +26,7 @@
 /* App.css */
 
 /* Styling for the entire container */
-.container {
+.container-fluid {
   background-color: #3498db;
   /* Nice blue background color */
   text-align: center;
