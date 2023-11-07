@@ -40,7 +40,7 @@ function App() {
   let currentImg = determineImg(goodStock);
 
   return (
-    <div className="container">
+    <div className="fluid-container">
       <div class="Top">
         <img className="App-logo" src={memeMan} alt="Meme Man" />
 
