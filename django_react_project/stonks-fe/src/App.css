@@ -85,7 +85,7 @@ h1 {
 }
 
 .container {  display: grid;
-  grid-template-columns: 1fr 0.8fr 1.2fr;
+  grid-template-columns: 0.33fr 0.33fr 0.33fr;
   grid-template-rows: 1fr 0.5fr 0.8fr 1fr 1.7fr;
   gap: 0px 0px;
   grid-auto-flow: row;
@@ -99,15 +99,15 @@ h1 {
 
 .Top { grid-area: Top; }
 
-.Name { grid-area: Name; }
+.Name { grid-area: Name; border: 1px solid #fe0000;}
 
-.Ticker { grid-area: Ticker; }
+.Ticker { grid-area: Ticker; border: 1px solid #fe0000;}
 
-.Description { grid-area: Description; }
+.Description { grid-area: Description; border: 1px solid #fe0000;}
 
-.Prediction { grid-area: Prediction; }
+.Prediction { grid-area: Prediction; border: 1px solid #fe0000;}
 
-.Articles { grid-area: Articles; }
+.Articles { grid-area: Articles; border: 1px solid #fe0000;}
 
-.Stock-Data { grid-area: Stock-Data; }
+.Stock-Data { grid-area: Stock-Data; border: 1px solid #fe0000;}
 

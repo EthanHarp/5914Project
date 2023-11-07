@@ -14,10 +14,14 @@ def getTickerDetails(ticker):
     else:
         return response["results"]
 
-# def getDailyOpenClose(ticker, date=str(date.today() - timedelta(days = 1))):
-#     API_URL = "https://api.polygon.io/v1/open-close/"+ticker+"/"+date+"?adjusted=true&apiKey="+random.choice(API_KEYS)+""
-#     response = requests.get(API_URL).json()
-#     return response
+def getDailyOpenClose(ticker, date=str(date.today() - timedelta(days = 1))):
+    API_URL = "https://api.polygon.io/v1/open-close/"+ticker+"/"+date+"?adjusted=true&apiKey="+random.choice(API_KEYS)+""
+    response = requests.get(API_URL).json()
+    # return response
+    if (response["status"] == "NOT_FOUND"):
+        return {}
+    else:
+        return response
 
 def getNewsForTicker(ticker, order = "desc", limit = "1000"):
     API_URL = "https://api.polygon.io/v2/reference/news?ticker="+ticker.upper()+"&order="+order+"&limit="+limit+"&apiKey="+random.choice(API_KEYS)+""

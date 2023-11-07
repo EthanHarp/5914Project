@@ -1,11 +1,29 @@
 from django.shortcuts import render
 from django.http import JsonResponse
 from django.http import HttpResponse
-from backend.Polygon import getTickerDetails, getNewsForTicker
+from backend.Polygon import getTickerDetails, getNewsForTicker, getDailyOpenClose
 import json
 import os
 
 def get_data(request, ticker):
+    current_directory = os.path.dirname(__file__)
+
+    try:
+        ticker_details = getTickerDetails(ticker)
+        news_for_ticker = getNewsForTicker(ticker)
+        daily_open_close = getDailyOpenClose(ticker)
+
+        combined_response = {
+            "ticker_details": ticker_details,
+            "news_for_ticker": news_for_ticker,
+            "daily_open_close": daily_open_close,
+        }
+
+        return JsonResponse(combined_response)
+    except Exception as e:
+        return JsonResponse({"error": str(e)}, status=500)
+
+def get_data_old(request, ticker):
     # # Read the JSON file and parse its contents
     # with open('./data/response1.json', 'r') as json_file:
     #     data = json.load(json_file)
@@ -29,5 +47,14 @@ def get_data(request, ticker):
     
 
 
-    return JsonResponse(getTickerDetails(ticker), safe=False)
+    return JsonResponse(getDailyOpenClose(ticker), safe=False)
     #return HttpResponse(f'The parameter is: {ticker}')
+
+
+# def getElasticSearch(ticker):
+#     API_URL = "https://api.polygon.io/v3/reference/tickers/"+ticker.upper()+"?apiKey="+random.choice(API_KEYS)+""
+#     response = requests.get(API_URL).json()
+#     if (response["status"] == "NOT_FOUND"):
+#         return {}
+#     else:
+#         return response["results"]
