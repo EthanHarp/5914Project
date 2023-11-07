@@ -23,7 +23,8 @@ function App() {
   const [searchQuery, setSearchQuery] = useState('');
   const [isLoading, setLoading] = useState(false);
 
-  const handleSearch = () => {
+  const handleSearch = (event) => {
+    event.preventDefault();
     setLoading(true);
     axios
       .get(`http://localhost:8000/api/get_data/${searchQuery}`)
@@ -48,27 +49,32 @@ function App() {
       <div class="Top">
         <img className="App-logo" src={memeMan} alt="Meme Man" />
 
-        <Form.Control
-          className="Form-control"
-          type="text"
-          placeholder="Enter stock"
-          value={searchQuery}
-          onChange={(e) => setSearchQuery(e.target.value)}
-        />
-        <Button
-          disabled={isLoading}
-          onClick={!isLoading ? handleSearch : null}
-        >
-          <Spinner
-            as="span"
-            animation="border"
-            size="sm"
-            role="status"
-            aria-hidden="true"
-            hidden={!isLoading}
+        <form onSubmit={handleSearch}>
+          <Form.Control
+            className="Form-control"
+            type="text"
+            placeholder="Enter stock"
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            disabled={isLoading}
           />
-          {!isLoading ? 'Search' : null}
-        </Button>
+
+          <Button
+            disabled={isLoading}
+            onClick={!isLoading ? handleSearch : null}
+          >
+            <Spinner
+              as="span"
+              animation="border"
+              size="sm"
+              role="status"
+              aria-hidden="true"
+              hidden={!isLoading}
+            />
+            {!isLoading ? 'Search' : null}
+          </Button>
+        </form>
+
         <div className="data-display">
           {JSON.stringify(data, null, 2)}
         </div>
