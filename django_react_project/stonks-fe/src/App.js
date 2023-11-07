@@ -1,7 +1,9 @@
 import Form from 'react-bootstrap/Form';
+import Button from 'react-bootstrap/Button';
+import Spinner from 'react-bootstrap/Spinner';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import axios from 'axios';
 // Images
 import giveUp from './assets/give-up.png'
@@ -19,12 +21,15 @@ function determineImg(goodStock) {
 function App() {
   const [data, setData] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
+  const [isLoading, setLoading] = useState(false);
 
-
-  const handleSearch = () => {
+  const handleSearch = (event) => {
+    event.preventDefault();
+    setLoading(true);
     axios
       .get(`http://localhost:8000/api/get_data/${searchQuery}`)
       .then((response) => {
+        setLoading(false);
         setData(response.data);
         console.log(response);
         // Handle the response data as needed
@@ -40,18 +45,36 @@ function App() {
   let currentImg = determineImg(goodStock);
 
   return (
-    <div className="container">
+    <div className="fluid-container">
       <div class="Top">
         <img className="App-logo" src={memeMan} alt="Meme Man" />
 
-        <Form.Control
-          className="Form-control"
-          type="text"
-          placeholder="Enter stock"
-          value={searchQuery}
-          onChange={(e) => setSearchQuery(e.target.value)}
-        />
-        <button onClick={handleSearch}>Search</button>
+        <form onSubmit={handleSearch}>
+          <Form.Control
+            className="Form-control"
+            type="text"
+            placeholder="Enter stock"
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            disabled={isLoading}
+          />
+
+          <Button
+            disabled={isLoading}
+            onClick={!isLoading ? handleSearch : null}
+          >
+            <Spinner
+              as="span"
+              animation="border"
+              size="sm"
+              role="status"
+              aria-hidden="true"
+              hidden={!isLoading}
+            />
+            {!isLoading ? 'Search' : null}
+          </Button>
+        </form>
+
         <div className="data-display">
           {JSON.stringify(data, null, 2)}
         </div>

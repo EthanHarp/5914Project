@@ -26,7 +26,7 @@
 /* App.css */
 
 /* Styling for the entire container */
-.container {
+.fluid-container {
   background-color: #3498db;
   /* Nice blue background color */
   text-align: center;
@@ -84,7 +84,8 @@ h1 {
   /* Set text color to black */
 }
 
-.container {  display: grid;
+.fluid-container {
+  display: grid;
   grid-template-columns: 0.33fr 0.33fr 0.33fr;
   grid-template-rows: 1fr 0.5fr 0.8fr 1fr 1.7fr;
   gap: 0px 0px;
@@ -97,17 +98,36 @@ h1 {
     "Stock-Data Stock-Data Articles";
 }
 
-.Top { grid-area: Top; }
+.Top {
+  grid-area: Top;
+}
 
-.Name { grid-area: Name; border: 1px solid #fe0000;}
+.Name {
+  grid-area: Name;
+  border: 1px solid #fe0000;
+}
 
-.Ticker { grid-area: Ticker; border: 1px solid #fe0000;}
+.Ticker {
+  grid-area: Ticker;
+  border: 1px solid #fe0000;
+}
 
-.Description { grid-area: Description; border: 1px solid #fe0000;}
+.Description {
+  grid-area: Description;
+  border: 1px solid #fe0000;
+}
 
-.Prediction { grid-area: Prediction; border: 1px solid #fe0000;}
+.Prediction {
+  grid-area: Prediction;
+  border: 1px solid #fe0000;
+}
 
-.Articles { grid-area: Articles; border: 1px solid #fe0000;}
+.Articles {
+  grid-area: Articles;
+  border: 1px solid #fe0000;
+}
 
-.Stock-Data { grid-area: Stock-Data; border: 1px solid #fe0000;}
-
+.Stock-Data {
+  grid-area: Stock-Data;
+  border: 1px solid #fe0000;
+}
