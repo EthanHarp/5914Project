@@ -4,6 +4,7 @@ from django.http import HttpResponse
 from backend.Polygon import getTickerDetails, getNewsForTicker, getDailyOpenClose
 import json
 import os
+from backend.sentiment_test import test_sentiment_docked
 
 def get_data(request, ticker):
     current_directory = os.path.dirname(__file__)
@@ -58,3 +59,6 @@ def get_data_old(request, ticker):
 #         return {}
 #     else:
 #         return response["results"]
+
+def test_sentiment(request):
+    test_sentiment_docked()
