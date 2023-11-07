@@ -80,17 +80,17 @@ function App() {
         </div>
       </div>
       <div class="Name">
-        <h2>Apple</h2>
+        <h2>Name: {data?.ticker_details?.name}</h2>
 
       </div>
       <div class="Ticker">
-        <h2>AAPL</h2>
+        <h2>Ticker: {data?.ticker_details?.ticker}</h2>
 
 
       </div>
       <div class="Description">
         <h2>Description</h2>
-        <p>Apple designs a wide variety of consumer electronic devices, including smartphones (iPhone), tablets (iPad), PCs (Mac), smartwatches (Apple Watch), and AirPods, among others. In addition, Apple offers its customers a variety of services such as Apple Music, iCloud, Apple Care, Apple TV+, Apple Arcade, Apple Fitness, Apple Card, and Apple Pay, among others. Apple's products include internally developed software and semiconductors, and the firm is well known for its integration of hardware, software, semiconductors, and services. Apple's products are distributed online as well as through company-owned stores and third-party retailers.</p>
+        <p>{data?.ticker_details?.description}</p>
       </div>
       <div class="Prediction">
         Prediction
