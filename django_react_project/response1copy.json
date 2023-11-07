@@ -1,6 +1,6 @@
-
-    [
-        {
+[
+    {"_op_type": "index", "_index": "newsgroup", 
+        
             "id": "p6kLOJk03AwnfDfoq-UWky-ZRNM-WLnHAt0dsd2SoDs",
             "publisher": {
                 "name": "The Motley Fool",
@@ -26,7 +26,7 @@
                 "investing"
             ]
         },
-        {
+        {"_op_type": "index", "_index": "newsgroup", 
             "id": "gAqjCKzaJ_MgOoYaGV6oN31gXmLIyP9RGGZwgFg0_L0",
             "publisher": {
                 "name": "Zacks Investment Research",
@@ -47,7 +47,7 @@
             "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ff/691.jpg",
             "description": "U.S. stocks finished lower on Wednesday after the Federal Reserve kept interest rates unchanged as widely expected but hinted at another hike in November and indicated that the fight against inflation was far from over."
         },
-        {
+        {"_op_type": "index", "_index": "newsgroup", 
             "id": "7GE2BTYGBDSIsfzXDClcZvnLq_zfjPNd-oYkJcrb_nc",
             "publisher": {
                 "name": "Zacks Investment Research",
@@ -70,7 +70,7 @@
             "image_url": "https://staticx-tuner.zacks.com/images/articles/main/92/476.jpg",
             "description": "Apple, Bank of America, Cisco Systems, Fidelity National Information Services and HP are part of the Zacks top Analyst Blog."
         },
-        {
+        {"_op_type": "index", "_index": "newsgroup", 
             "id": "462oxyeIALxuc7oFP7EAByBPOjvCdPPlJ5HDAvCoPto",
             "publisher": {
                 "name": "Investing.com",
@@ -92,7 +92,7 @@
             "amp_url": "https://m.investing.com/analysis/3-reasons-this-tech-giant-is-going-back-to-highs-200642047?ampMode=1",
             "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg"
         },
-        {
+        {"_op_type": "index", "_index": "newsgroup", 
             "id": "rwsAPdscaPOLyougHOxX3ujmntN3Yd1F1TuhQT4iPBI",
             "publisher": {
                 "name": "The Motley Fool",
@@ -113,7 +113,7 @@
                 "investing"
             ]
         },
-        {
+        {"_op_type": "index", "_index": "newsgroup", 
             "id": "KRHX3jOIZydkqKKFs151QDdErzKPQIMftYMs5h-2kxw",
             "publisher": {
                 "name": "The Motley Fool",
@@ -135,7 +135,7 @@
                 "investing"
             ]
         },
-        {
+        {"_op_type": "index", "_index": "newsgroup", 
             "id": "AFoJEP2z6dTvk2dI9W55rITS5GTQjSUqWL5AZ1--sY8",
             "publisher": {
                 "name": "MarketWatch",
@@ -174,7 +174,7 @@
             "image_url": "https://images.mktw.net/im-855566/social",
             "description": "Investors should lean toward retailers as economic times get tougher, and away from autos, says Goldman Sachs."
         },
-        {
+        {"_op_type": "index", "_index": "newsgroup", 
             "id": "34SCSMQjm4GVi4o9fMP5dQ7iq2Cdj8ECkmVJoEBBb6U",
             "publisher": {
                 "name": "Zacks Investment Research",
@@ -198,7 +198,7 @@
             "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default26.jpg",
             "description": "Sector ETF report for IYW"
         },
-        {
+        {"_op_type": "index", "_index": "newsgroup", 
             "id": "a81EMTBOvdQbvRACyM8Fp7xBEPCxQ19H0o1TqOTNbYQ",
             "publisher": {
                 "name": "Zacks Investment Research",
@@ -222,7 +222,7 @@
             "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default28.jpg",
             "description": "Sector ETF report for PTF"
         },
-        {
+        {"_op_type": "index", "_index": "newsgroup", 
             "id": "0Ip12dP3GSjkKuWfFfiZHt4_W3NzAYHSygG_ncHGzy0",
             "publisher": {
                 "name": "MarketWatch",
@@ -240,4 +240,5 @@
             "image_url": "https://images.mktw.net/im-853165/social",
             "description": "With a supercharged V8 under the hood and modern amenities in the cabin, the 2024 Jaguar F-Type is a modern interpretation of a traditional luxury sports car."
         }
-    ]
+]
+   
