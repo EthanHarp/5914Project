@@ -1,7 +1,7 @@
 FROM python:3.11
 #ENV PYTHONUNBUFFERED 1
 WORKDIR /app
-RUN pip install django djangorestframework django-cors-headers elasticsearch
+RUN pip install django djangorestframework django-cors-headers elasticsearch transformers
 COPY . /app
 #COPY ./data /app/data
 
