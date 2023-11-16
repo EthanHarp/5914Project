@@ -1,0 +1,2840 @@
+{
+    "results": [
+        {
+            "id": "Y9vSKHoXKxu2NYlbSXCJLB6F1r-VujLIbLEKAIjXcD0",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "McDonald's Is Increasing Its Dividend by Almost 10%. Does This Make It a Screaming Buy?",
+            "author": "newsfeedback@fool.com (Eric Volkman)",
+            "published_utc": "2023-11-16T14:30:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/16/mcdonalds-is-increasing-its-dividend-by-almost-10/",
+            "tickers": [
+                "MCD"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/751353/man-displaying-a-hamburger.jpg",
+            "description": "McDonald's signals a major note of confidence with its beefy raise.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "rQQG-Lt0TE8pT3dF9uvxkou4DYn6y3OnJMKH8ypuRgk",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "McDonald's Stock: Buy, Sell, or Hold?",
+            "author": "newsfeedback@fool.com (John Ballard)",
+            "published_utc": "2023-11-16T10:12:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/16/mcdonalds-stock-buy-sell-or-hold/",
+            "tickers": [
+                "MCD"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/755080/restaurant-fast-food.jpg",
+            "description": "Wall Street is worried about a recession hurting its sales growth, but the stock is offering better value.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "mnsNvXjKeyWPu4enJBHPQukcXPykNDstV3xiU2JvT9o",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Should You Invest in the Consumer Discretionary Select Sector SPDR ETF (XLY)?",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-15T11:20:06Z",
+            "article_url": "https://www.zacks.com/stock/news/2184352/should-you-invest-in-the-consumer-discretionary-select-sector-spdr-etf-xly",
+            "tickers": [
+                "XLY",
+                "AMZN",
+                "MCD",
+                "TSLA",
+                "VCR",
+                "FXD"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2184352/should-you-invest-in-the-consumer-discretionary-select-sector-spdr-etf-xly",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default42.jpg",
+            "description": "Sector ETF report for XLY"
+        },
+        {
+            "id": "Pv-2IhlQkDRc06FkDrI00bXJ_cDsSa3v1HwW716oDKA",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "McDonald\u2019s kicks off Crocs collaboration inspired by Grimace and the Hamburgler",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-14T14:10:00Z",
+            "article_url": "https://www.marketwatch.com/story/mcdonalds-kicks-off-crocs-collaboration-inspired-by-grimace-and-the-hamburgler-0a60d649",
+            "tickers": [
+                "CROX",
+                "MCD",
+                "PEP",
+                "UL"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/mcdonalds-kicks-off-crocs-collaboration-inspired-by-grimace-and-the-hamburgler-0a60d649",
+            "image_url": "https://images.mktw.net/im-886638/social",
+            "description": "The collection features Crocs' colorful clogs and socks themed after classic McDonald's characters, which comes after the purple Grimace shake went viral over the summer."
+        },
+        {
+            "id": "l7p0PALpGD-Mcg_BvW5zvCgNAtcoCzFkFHK-8rJMApw",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Morgan Stanley has boosted its S&P 500 target \u2014 but here\u2019s where it sees the real opportunities",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-13T13:32:00Z",
+            "article_url": "https://www.marketwatch.com/story/morgan-stanley-has-boosted-its-s-p-500-target-but-heres-where-it-sees-the-real-opportunities-52c5a920",
+            "tickers": [
+                "COST",
+                "USFD",
+                "WMT",
+                "KDP",
+                "PM",
+                "NKE",
+                "MCD",
+                "HLT",
+                "MAR",
+                "YUM",
+                "NOC",
+                "COP",
+                "MRO",
+                "DAL",
+                "BA",
+                "NVO",
+                "XOM",
+                "TSLA",
+                "NVDA",
+                "AMC",
+                "PLUG",
+                "AAPL",
+                "NIO",
+                "GME",
+                "PLTR",
+                "AMZN",
+                "MSFT"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/morgan-stanley-has-boosted-its-s-p-500-target-but-heres-where-it-sees-the-real-opportunities-52c5a920",
+            "image_url": "https://images.mktw.net/im-886003/social",
+            "description": "What Morgan Stanley likes for 2024 are high-quality stocks and bonds."
+        },
+        {
+            "id": "egbBt05cFgtw2objWuuX_4EFraLWMcknFG_6SoNky5Q",
+            "publisher": {
+                "name": "Seeking Alpha",
+                "homepage_url": "https://seekingalpha.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/seekingalpha.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/seekingalpha.ico"
+            },
+            "title": "Why You Should Aim For $2 Million For Retirement",
+            "author": "Financially Free Investor",
+            "published_utc": "2023-11-11T14:00:00Z",
+            "article_url": "https://seekingalpha.com/article/4649134-why-you-should-aim-for-2-million-for-retirement",
+            "tickers": [
+                "ABBV",
+                "AMGN",
+                "CLX",
+                "FAST",
+                "HD",
+                "JNJ",
+                "MCD",
+                "MSFT",
+                "NEE",
+                "OKTA",
+                "PEP",
+                "TROW",
+                "TXN",
+                "VZ",
+                "ADBE",
+                "ADP",
+                "ANET",
+                "AXON",
+                "DGRO",
+                "NOBL",
+                "NVDA",
+                "SCHD",
+                "SNPS",
+                "V",
+                "VEEV",
+                "VIG",
+                "VRTX",
+                "VYM"
+            ],
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1434277770/image_1434277770.jpg?io=getty-c-w1536",
+            "description": "Retirement goals should be set based on individual situations and factors like your pre-retirement earnings. Explore more details here."
+        },
+        {
+            "id": "I8iOr3koVcNNhR_ObeKfWKHRVutnV-dDOK1KgmBWmGw",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "The Zacks Analyst Blog Highlights McDonald's, ConocoPhillips, RTX, Merck and Emerson Electric",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-10T10:37:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2182092/the-zacks-analyst-blog-highlights-mcdonalds-conocophillips-rtx-merck-and-emerson-electric",
+            "tickers": [
+                "COP",
+                "EMR",
+                "MRK",
+                "MCD",
+                "RTX"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2182092/the-zacks-analyst-blog-highlights-mcdonalds-conocophillips-rtx-merck-and-emerson-electric",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/9f/16064.jpg",
+            "description": "McDonald's, ConocoPhillips, RTX, Merck and Emerson Electric are included in this Analyst Blog."
+        },
+        {
+            "id": "ptO4yOjoFEGudvTnnh2y682JN1NjHok2ivc1GHwkiqY",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Food Trends Worth Chewing Over",
+            "author": "newsfeedback@fool.com (Motley Fool Staff)",
+            "published_utc": "2023-11-09T23:23:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/09/food-trends-worth-chewing-over/",
+            "tickers": [
+                "UBER",
+                "MCD",
+                "CMG",
+                "HSY",
+                "TMDX",
+                "DASH"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754291/mfm_20231030.jpeg",
+            "description": "Before you put your money into restaurants -- their stocks, not their menus -- you'll want to listen to this.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "YACkODCId_9jO3-2ZV81IWHt7y3rUfhBpLM00qSOQyM",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Top Analyst Reports for McDonald's, ConocoPhillips & RTX",
+            "author": "Sheraz Mian",
+            "published_utc": "2023-11-09T17:37:00Z",
+            "article_url": "https://www.zacks.com/research-daily/2181519/top-analyst-reports-for-mcdonalds-conocophillips-rtx",
+            "tickers": [
+                "COP",
+                "MCO",
+                "EMR",
+                "MRK",
+                "MCD",
+                "RTX"
+            ],
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default16.jpg",
+            "description": "Today's Research Daily features new research reports on 16 major stocks, including McDonald's Corporation (MCD), ConocoPhillips (COP) and RTX Corporation (RTX)."
+        },
+        {
+            "id": "ptdSBJdIRYkk3VJyK6lI82fI5IHY6IZqOHFMPq2QViQ",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "1 Big Green Flag For Starbucks Stock",
+            "author": "newsfeedback@fool.com (Demitri Kalogeropoulos)",
+            "published_utc": "2023-11-09T17:03:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/09/1-big-green-flag-for-starbucks-stock/",
+            "tickers": [
+                "SBUX",
+                "MCD"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753931/drinking-hot-chocolate-at-a-coffee-shop-in-winter.jpg",
+            "description": "Customer traffic was a clear bright spot in the chain's latest earnings report.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "nuzE-s_w3wdC84FdvV74v3ZE3Thpbrx69IDFmCK751I",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Better Buy: McDonald's vs. Chipotle",
+            "author": "newsfeedback@fool.com (Will Healy)",
+            "published_utc": "2023-11-09T10:15:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/09/better-buy-mcdonalds-vs-chipotle/",
+            "tickers": [
+                "CMG",
+                "MCD"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753999/customer-pours-sauce-on-a-taco.jpg",
+            "description": "A comparison of two of America's most successful restaurant chains.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "RXTBH5sVATxNi9hYooxMhM_EmEdubM-vYvARwtNFt1Q",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Are You a Growth Investor? This 1 Stock Could Be the Perfect Pick",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-08T14:45:07Z",
+            "article_url": "https://www.zacks.com/stock/news/2180887/are-you-a-growth-investor-this-1-stock-could-be-the-perfect-pick",
+            "tickers": [
+                "MCD"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2180887/are-you-a-growth-investor-this-1-stock-could-be-the-perfect-pick",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default27.jpg",
+            "description": "Whether you're a value, growth, or momentum investor, finding strong stocks becomes easier with the Zacks Style Scores, a top feature of the Zacks Premium research service."
+        },
+        {
+            "id": "vI3EgTyXZeRYiCyEia8qF3qugCfYa7nD_TCT7Km6nsA",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Here is What to Know Beyond Why McDonald's Corporation (MCD) is a Trending Stock",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-08T14:00:12Z",
+            "article_url": "https://www.zacks.com/stock/news/2180744/here-is-what-to-know-beyond-why-mcdonalds-corporation-mcd-is-a-trending-stock",
+            "tickers": [
+                "MCD"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2180744/here-is-what-to-know-beyond-why-mcdonalds-corporation-mcd-is-a-trending-stock",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default22.jpg",
+            "description": "Zacks.com users have recently been watching McDonald's (MCD) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects."
+        },
+        {
+            "id": "LRlCY327PdU8lBYfI1FeU7rBBaZ4vMwIGhq0a4CX418",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "2 Important Takeaways From McDonald's That Could Be a Sign of the Times for Investors",
+            "author": "newsfeedback@fool.com (James Brumley)",
+            "published_utc": "2023-11-06T16:41:23Z",
+            "article_url": "https://www.fool.com/investing/2023/11/06/important-takeaways-mcdonalds-q3-earnings/",
+            "tickers": [
+                "MCD",
+                "WMT",
+                "TGT",
+                "DG"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753779/tracking-investments-wealth-family-planning.jpg",
+            "description": "Costs continue to creep higher, and consumers' willingness to spend is still rather selective.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "fG61W-HeYzLOL_0kXXEpFz-Ips5ZI3j-Ui5Hg4aTveg",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "The Zacks Analyst Blog Highlights Wingstop, Domino's Pizza, Potbelly, Chipotle Mexican Grill and McDonald's",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-06T11:19:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2178888/the-zacks-analyst-blog-highlights-wingstop-dominos-pizza-potbelly-chipotle-mexican-grill-and-mcdonalds",
+            "tickers": [
+                "MCD",
+                "CMG",
+                "DPZ",
+                "PBPB",
+                "WING"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2178888/the-zacks-analyst-blog-highlights-wingstop-dominos-pizza-potbelly-chipotle-mexican-grill-and-mcdonalds",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/c1/2340.jpg",
+            "description": "Wingstop, Domino's Pizza, Potbelly, Chipotle Mexican Grill and McDonald's are included in this Analyst Blog."
+        },
+        {
+            "id": "aI9LaNG97GK1V32G-9HHrjthjH5GCl_9eBwvKYT7Xfw",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "1 Huge Green Flag for McDonald's Stock in 2023",
+            "author": "newsfeedback@fool.com (Demitri Kalogeropoulos)",
+            "published_utc": "2023-11-04T12:30:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/04/1-huge-green-flag-for-mcdonalds-stock-in-2023/",
+            "tickers": [
+                "MCD"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753113/three-friends-eating-burgers-outdoors.jpg",
+            "description": "The fast-food chain is still finding ways to boost profits.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "ioXlxkJN5zNM4jFdtyuH7QJCRLOpydiimANnh0JSDYk",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "4 Restaurant Stocks Setting Up for a Year End Bull Run",
+            "author": "Ethan Feller",
+            "published_utc": "2023-11-03T19:13:00Z",
+            "article_url": "https://www.zacks.com/commentary/2178411/4-restaurant-stocks-setting-up-for-a-year-end-bull-run",
+            "tickers": [
+                "MCD",
+                "CMG",
+                "DPZ",
+                "PBPB",
+                "WING"
+            ],
+            "amp_url": "https://www.zacks.com/amp/commentary/2178411/4-restaurant-stocks-setting-up-for-a-year-end-bull-run",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/c8/48058.jpg",
+            "description": "After a strong start to the year, restaurant stocks languished for several months. But now they look ready to lead the market again"
+        },
+        {
+            "id": "7-R0Xst3NExtygDNqC3OV9KuPzm6eFufmxWauVEneMc",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Papa John's (PZZA) Q3 Earnings Beat Estimates, Revenues Lag",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-03T15:08:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2178283/papa-johns-pzza-q3-earnings-beat-estimates-revenues-lag",
+            "tickers": [
+                "MCD",
+                "YUM",
+                "PZZA",
+                "YUMC"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2178283/papa-johns-pzza-q3-earnings-beat-estimates-revenues-lag",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/46/45482.jpg",
+            "description": "Papa John's (PZZA) fiscal third-quarter 2023 performance benefits from product innovation, operational excellence and a strong value proposition."
+        },
+        {
+            "id": "4eqBueVV6sCaH7Rlq0HhJaflJm76kXLrXJajhnDGSSU",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Wendy's (WEN) Q3 Earnings Surpass, Revenues Lag Estimates",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-03T14:41:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2178206/wendys-wen-q3-earnings-surpass-revenues-lag-estimates",
+            "tickers": [
+                "MCD",
+                "YUM",
+                "WEN",
+                "YUMC"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2178206/wendys-wen-q3-earnings-surpass-revenues-lag-estimates",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/38/2862.jpg",
+            "description": "Wendy's (WEN) third-quarter fiscal 2023 results are aided by solid same-restaurant sales and strength in digital momentum."
+        },
+        {
+            "id": "4f7AmoDh0oDDhjczEZK4GI6FM6Cmyt2TDB6iHuZoSPY",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Beacon (BECN) Q3 Earnings Beat Estimates, Adjusted EBITDA Up",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-03T14:40:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2178258/beacon-becn-q3-earnings-beat-estimates-adjusted-ebitda-up",
+            "tickers": [
+                "MCD",
+                "RRGB",
+                "BECN",
+                "YUMC"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2178258/beacon-becn-q3-earnings-beat-estimates-adjusted-ebitda-up",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/49/44858.jpg",
+            "description": "Beacon's (BECN) third-quarter 2023 results benefit from strong non-discretionary repair and re-roofing demand and the Ambition 2025 initiation."
+        },
+        {
+            "id": "E6AoYOVat1dm1RhtPZoAs055lX4zNcbw_HrSFyDbNbM",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Restaurant Brands (QSR) Q3 Earnings Top, Revenues Lag Estimates",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-03T14:32:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2178187/restaurant-brands-qsr-q3-earnings-top-revenues-lag-estimates",
+            "tickers": [
+                "MCD",
+                "YUM",
+                "QSR",
+                "YUMC"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2178187/restaurant-brands-qsr-q3-earnings-top-revenues-lag-estimates",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/28/1859.jpg",
+            "description": "Restaurant Brands (QSR) third-quarter 2023 results are aided by robust system-wide sales across its segments."
+        },
+        {
+            "id": "c06E1CdMFHGglQGjpp5KPyJLS6gc-lse8Mbt2HE3HVM",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Starbucks (SBUX) Q4 Earnings & Revenues Surpass Estimates",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-03T13:09:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2178164/starbucks-sbux-q4-earnings-revenues-surpass-estimates",
+            "tickers": [
+                "SBUX",
+                "MCD",
+                "YUM",
+                "YUMC"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2178164/starbucks-sbux-q4-earnings-revenues-surpass-estimates",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/05/563.jpg",
+            "description": "Starbucks' (SBUX) fourth-quarter fiscal 2023 results benefit from higher U.S. comparable sales."
+        },
+        {
+            "id": "lD5xftDHFpeSn_3J5lX8WbfhcQn5QuXdnxmdC_ZsWPU",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Better Fast-Food Buy: Chipotle vs. McDonald's Stock",
+            "author": "newsfeedback@fool.com (Demitri Kalogeropoulos)",
+            "published_utc": "2023-11-03T12:15:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/03/better-fast-food-buy-chipotle-vs-mcdonalds-stock/",
+            "tickers": [
+                "MCD",
+                "CMG"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/752946/friends-eating-burgers-and-fries-and-have-fun-in-outdoor-restaurant.jpg",
+            "description": "Both companies are enjoying near-record profit margins today.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "4LqDwsU0qATNzapzlMY2ljZU4JFKU-ZNzSN9Vwy9Vog",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Red Robin (RRGB) Q3 Earnings Beat, Adjusted EBITDA Up Y/Y",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-02T16:16:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2177605/red-robin-rrgb-q3-earnings-beat-adjusted-ebitda-up-yy",
+            "tickers": [
+                "MCD",
+                "YUM",
+                "RRGB",
+                "YUMC"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2177605/red-robin-rrgb-q3-earnings-beat-adjusted-ebitda-up-yy",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/49/44858.jpg",
+            "description": "Red Robin's (RRGB) Q3 performance is hurt by the decline in comps. Yet, a rise in guest checks and increased menu prices aided the company's bottom line."
+        },
+        {
+            "id": "4gkhfZ6QuHfRgED_-5bONvptyy9gJ_FBEz1e1Zsg0eM",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Cheesecake Factory (CAKE) Down on Q3 Earnings & Revenue Miss",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-02T16:05:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2177531/cheesecake-factory-cake-down-on-q3-earnings-revenue-miss",
+            "tickers": [
+                "MCD",
+                "YUM",
+                "CAKE",
+                "YUMC"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2177531/cheesecake-factory-cake-down-on-q3-earnings-revenue-miss",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/79/47198.jpg",
+            "description": "Cheesecake Factory's (CAKE) fiscal third-quarter 2023 results reflect growth in comparable sales. Yet, the soft sales trend hurts."
+        },
+        {
+            "id": "dyVW1ZOryT8a6o2v-uTmfH0t5qZRqPno0EH7kS-VzrE",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "McDonald's (MCD) Beats Overall in Q3: ETFs to Benefit",
+            "author": "Sanghamitra Saha",
+            "published_utc": "2023-11-01T17:00:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2176666/mcdonalds-mcd-beats-overall-in-q3-etfs-to-benefit",
+            "tickers": [
+                "MCD",
+                "DIA",
+                "XLY",
+                "EATZ",
+                "TGLR"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2176666/mcdonalds-mcd-beats-overall-in-q3-etfs-to-benefit",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/37/40759.jpg",
+            "description": "McDonald's Corporation (MCD) reported third-quarter 2023 results, with earnings and revenues beating the Zacks Consensus Estimate."
+        },
+        {
+            "id": "OvFw54bVg_2PD4K6vdAtL6JK6rUQ2utwxeSNTzqVo78",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Is McDonald's Stock a Bargain Buy After Shedding a Year's Worth of Gains?",
+            "author": "newsfeedback@fool.com (Nicholas Robbins)",
+            "published_utc": "2023-11-01T13:45:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/01/is-mcdonalds-stock-a-bargain-buy-after-shedding-a/",
+            "tickers": [
+                "MCD"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/752708/sharing-food-date-night-time-with-friends.jpg",
+            "description": "Navigating the highs, the lows, and the future potential for McDonald's investors.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "QTPyhXn0OlcrPS3mxP7Y2Cr8s5ZJqkpwIiMzcy0gBV0",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "These Analysts Revise Their Forecasts On McDonald's Following Q3 Results",
+            "author": "Lisa Levin",
+            "published_utc": "2023-10-31T17:51:41Z",
+            "article_url": "https://www.benzinga.com/news/earnings/23/10/35521361/these-analysts-revise-their-forecasts-on-mcdonalds-following-q3-results",
+            "tickers": [
+                "MCD"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35521361",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/10/31/mcdonalds_-_logo.jpg?width=1200&height=800&fit=crop",
+            "description": "McDonald's Corp (NYSE: MCD) reported better-than-expected earnings for its third quarter on Monday.\nMcDonald's reported third-quarter FY23 sales growth of 14% year-on-year to $6.692 billion, beating the analyst consensus estimate of $6.577 billion. Adjusted EPS of $3.19 beat the consensus estimate of $3.00.\nMcDonald's sees FY23 operating margin of 46%; Capital expenditure of $2.2 billion - $2.4 billion.\nMcDonald's shares rose 0.7% to trade at $261.95 on Tuesday.\nThese analysts made changes to their price targets on ...",
+            "keywords": [
+                "News",
+                "Earnings",
+                "Price Target",
+                "Intraday Update",
+                "Markets",
+                "Analyst Ratings",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "SGbjzgILn_AYo16C-iumXtvs3wnuuBjWqnbK6uNjnJQ",
+            "publisher": {
+                "name": "Investing.com",
+                "homepage_url": "https://www.investing.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+            },
+            "title": "Earnings Coming in Better-Than-Expected, but Stocks Still Getting Punished",
+            "author": "Christine Short",
+            "published_utc": "2023-10-31T16:15:00Z",
+            "article_url": "https://www.investing.com/analysis/earnings-coming-in-betterthanexpected-but-stocks-still-getting-punished-200643197",
+            "tickers": [
+                "MSFT",
+                "GOOG",
+                "META",
+                "AMZN",
+                "GOOGL",
+                "TSLA",
+                "NVDA",
+                "AAPL",
+                "PYPL",
+                "QCOM",
+                "AMD",
+                "SQ",
+                "MCD",
+                "UA",
+                "CROX",
+                "ABNB",
+                "ALLE",
+                "CAT",
+                "EQR",
+                "HUBB",
+                "IQV",
+                "AEP",
+                "BAX",
+                "SPGI",
+                "SYK",
+                "NCLH",
+                "JBLU",
+                "LUV",
+                "SAVE",
+                "AAL"
+            ],
+            "amp_url": "https://m.investing.com/analysis/earnings-coming-in-betterthanexpected-but-stocks-still-getting-punished-200643197?ampMode=1",
+            "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg"
+        },
+        {
+            "id": "7KdvYXQoBdsrmYkPIogBEzGr_MedXqpuAwaLDjCZwjY",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "How to Find Strong Retail and Wholesale Stocks Slated for Positive Earnings Surprises",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-31T12:50:06Z",
+            "article_url": "https://www.zacks.com/stock/news/2175241/how-to-find-strong-retail-and-wholesale-stocks-slated-for-positive-earnings-surprises",
+            "tickers": [
+                "ANF",
+                "MCD"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2175241/how-to-find-strong-retail-and-wholesale-stocks-slated-for-positive-earnings-surprises",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default39.jpg",
+            "description": "Finding stocks expected to beat quarterly earnings estimates becomes an easier task with our Zacks Earnings ESP."
+        },
+        {
+            "id": "qbodRaZ-F5v3jcaFBIyFdKXp5YErNWiFrAH6jND62c8",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Stock Market News for Oct 31, 2023",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-31T12:47:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2175230/stock-market-news-for-oct-31-2023",
+            "tickers": [
+                "WDC",
+                "MCD",
+                "XPO"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2175230/stock-market-news-for-oct-31-2023",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/9f/16064.jpg",
+            "description": "U.S. stock markets closed sharply higher on Monday following strong third-quarter 2023 earnings results."
+        },
+        {
+            "id": "Lkvd_-6qQJijFTclZazJYgpnPgdbUnrV-CLMKZvfSDs",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Pinterest To Rally Around 48%? Here Are 10 Top Analyst Forecasts For Tuesday",
+            "author": "Lisa Levin",
+            "published_utc": "2023-10-31T11:56:18Z",
+            "article_url": "https://www.benzinga.com/news/23/10/35510918/pinterest-to-rally-around-48-here-are-10-top-analyst-forecasts-for-tuesday",
+            "tickers": [
+                "EXP",
+                "MCD",
+                "VFC",
+                "WDC",
+                "ON",
+                "SRPT",
+                "PINS",
+                "CHGG",
+                "ANET",
+                "LHX"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35510918",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/10/31/pinterest-logo.jpg?width=1200&height=800&fit=crop",
+            "description": "Top Wall Street analysts changed their outlook on these top names. For a complete view of all analyst rating changes, including upgrades and downgrades, please see our analyst ratings page.\n\nRaymond James cut  Eagle Materials Inc.  (NYSE: EXP) price target from $193 to $170. Raymond James analyst Patrick Tyler Brown maintained an Outperform rating. Eagle Materials shares gained 3.6% to close at $153.00 on Monday. See how other analysts view this stock.\nPiper Sandler lowered the price target for  Chegg, Inc.  (NYSE: CHGG) from $13 to $9. Piper Sandler analyst Arvind Ramnani maintained a Neutral rating. Chegg shares gained 4.6% to close at $8.87 on Monday. See how other analysts view this stock.\nNeedham slashed  ON Semiconductor Corporation  (NASDAQ: ON) price target from $120 to $92. Needham analyst Quinn Bolton maintained a ...",
+            "keywords": [
+                "News",
+                "Price Target",
+                "Small Cap",
+                "Pre-Market Outlook",
+                "Markets",
+                "Analyst Ratings",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "23G3UWKw-C8pkBTXkwAxtXf9YjobL-TjBV7KaNWracc",
+            "publisher": {
+                "name": "Investing.com",
+                "homepage_url": "https://www.investing.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+            },
+            "title": "McDonald\u2019s Bottoms, Plus More Good News for Fast Food Stocks",
+            "author": "MarketBeat.com",
+            "published_utc": "2023-10-31T06:28:00Z",
+            "article_url": "https://www.investing.com/analysis/mcdonalds-bottoms-plus-more-good-news-for-fast-food-stocks-200643178",
+            "tickers": [
+                "MCD",
+                "CMG",
+                "WEN",
+                "ARCO",
+                "JACK",
+                "QSR"
+            ],
+            "amp_url": "https://m.investing.com/analysis/mcdonalds-bottoms-plus-more-good-news-for-fast-food-stocks-200643178?ampMode=1",
+            "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg"
+        },
+        {
+            "id": "EmUbBBGxlgc6SrRjXdAQCoerfgZ6z4As-EAh0kB8NSk",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Investor Fear Eases Ahead Of Fed's Decision; Dow Notches Best Day Since June",
+            "author": "Lisa Levin",
+            "published_utc": "2023-10-31T06:16:56Z",
+            "article_url": "https://www.benzinga.com/news/earnings/23/10/35505998/investor-fear-eases-ahead-of-feds-decision-dow-notches-best-day-since-june",
+            "tickers": [
+                "AMD",
+                "CAT",
+                "HUN",
+                "MCD",
+                "PFE",
+                "WDC"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35505998",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/10/31/image9.jpg?width=1200&height=800&fit=crop",
+            "description": "The CNN Money Fear and Greed index showed easing in the overall fear level, with the index moving to the \"Fear\" zone on Monday.\nU.S. stocks closed sharply higher on Monday, with the Dow Jones recording its best session since June 2 ahead of Federal Reserve\u2019s interest rate decision and jobs report, due this week.\nThe Federal Reserve will announce policy decision on Wednesday, with the central bank widely expected to keep its benchmark interest rate unchanged. Data on jobs report for October will be released on Friday.\nWestern Digital Corp (NASDAQ: WDC) reported upbeat first-quarter results and announced a plan to separate ...",
+            "keywords": [
+                "News",
+                "Earnings",
+                "Pre-Market Outlook",
+                "Markets",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "vFrAj6IYkkJkZ-GQ2EIKinNq_AlTEocbDuO7RRPcWkU",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Some Chinese Abandoning Apple, Stock Buying On No Response From Iran, All Eyes On Bank Of Japan",
+            "author": "The Arora Report",
+            "published_utc": "2023-10-30T21:30:02Z",
+            "article_url": "https://www.benzinga.com/23/10/35503167/some-chinese-abandoning-apple-stock-buying-on-no-response-from-iran-all-eyes-on-bank-of-japan",
+            "tickers": [
+                "GLD",
+                "SLV",
+                "SPY",
+                "USO",
+                "AMZN",
+                "GOOG",
+                "MSFT",
+                "NVDA",
+                "MCD",
+                "AAPL",
+                "TSLA",
+                "QQQ",
+                "META"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35503167",
+            "image_url": "https://cdn.benzinga.com/files/laurenz-heymann-vkfhjlz5smq-unsplash_1_1.jpg?width=1200&height=800&fit=crop",
+            "description": "To gain an edge, this is what you need to know today.\nBuying On Iran, Ignoring Apple\nPlease\u00a0click here\u00a0for a chart of Apple Inc (NASDAQ: AAPL).\nNote the following:\n\nThe Morning Capsule is about the big picture, not an individual stock.\u00a0The chart of\u00a0AAPL\u00a0stock is being used to illustrate the point.\nThis morning investors are aggressively buying stocks on no military response from Iran or its proxies over the weekend to Israeli actions in Gaza.\nInvestors are ignoring the potential bad news on Apple.\u00a0Apple is the largest stock and carries a very heavy weight in the indexes.\nThere are reports that many Chinese are abandoning iPhones in favor of Huawei\u2019s Mate 60 Pro.\nThe chart shows when the Morning Capsule read,\n\nAnother challenge to Apple is a chip breakthrough in China leading to Huawei Mate 60 Pro.\u00a0Previously due to the\u00a0U.S. chip sanctions, Huawei was not able to produce a 5G phone.\u00a0In a breakthrough, Semiconductor Manufacturing International, aka SMIC, a Chinese state-owned chip manufacturer was able to produce an advanced chip.\u00a0Before the\u00a0U.S. ban, Huawei had 12% of the smartphone market globally.\u00a0 Especially in China, the ban benefited Apple.\u00a0The\u00a0U.S. government is concerned and investigating how Huawei was able to produce such an advanced phone.\u00a0This is an important subject for investors.\n\n\nAs a member of The Arora Report, you have had an advanced notice of Apple\u2019s trouble in China through various posts.\nChina is also targeting Apple\u2019s largest supplier Foxconn with tax audits and land use audits.\u00a0Foxconn is the main assembler of iPhones.\nThe chart shows that after the iPhone 15 release, attempts to break above the top band of the support/resistance zone have failed.\nThe chart shows that\u00a0AAPL\u00a0stock is currently below the low band of the support/resistance zone.\nThe chart shows that members of The Arora Report were able to buy\u00a0AAPL\u00a0stock last year at a lucrative price when it dipped in the Arora buy zone.\nWhy are investors ignoring the news from China regarding Apple?\u00a0In The Arora Report analysis, the reason appears to be that the ...Full story available on Benzinga.com",
+            "keywords": [
+                "Cryptocurrency",
+                "Asia",
+                "Economics",
+                "Federal Reserve",
+                "Markets",
+                "Tech"
+            ]
+        },
+        {
+            "id": "vbA18RnJUj932Msjc00wdfN_W4_C6MdItEQYKbq8kAc",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Dow Jones surges more than 500 points as stocks snap 3-day losing streak",
+            "author": "MarketWatch",
+            "published_utc": "2023-10-30T19:50:00Z",
+            "article_url": "https://www.marketwatch.com/story/s-p-500-futures-rise-from-five-month-low-with-fed-and-apple-results-in-view-e16907bb",
+            "tickers": [
+                "DJIA",
+                "COMP",
+                "AAPL",
+                "MCD",
+                "SOFI"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/s-p-500-futures-rise-from-five-month-low-with-fed-and-apple-results-in-view-e16907bb",
+            "image_url": "https://images.mktw.net/im-846971/social",
+            "description": "U.S. stocks bounce Monday after a turbulent week as investors await a week packed with jobs data, central bank action and Apple earnings."
+        },
+        {
+            "id": "dJbT2RQWv75-e_6h2a2OVIXQxnbr23Cjo2DXCMvu9JU",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "McDonald\u2019s set up well for 2024 as digital sales, restaurant growth, ramp up: Wells Fargo",
+            "author": "MarketWatch",
+            "published_utc": "2023-10-30T18:54:00Z",
+            "article_url": "https://www.marketwatch.com/story/mcdonalds-set-up-well-for-2024-with-catalysts-ahead-says-wells-fargo-a2b0ac15",
+            "tickers": [
+                "MCD",
+                "CMG"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/mcdonalds-set-up-well-for-2024-with-catalysts-ahead-says-wells-fargo-a2b0ac15",
+            "image_url": "https://images.mktw.net/im-864128/social",
+            "description": "McDonald\u2019s, which reported third-quarter results Monday, is well positioned for 2024, according to Wells Fargo."
+        },
+        {
+            "id": "QAZ2kVxztMS0xwpvA8prRiYrzFO-MVeycHSZg4A0Pm0",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Wall Street Surges As Traders Await End Of Fed Tightening, Crucial Earnings Reports: What's Driving Markets Monday?",
+            "author": "Shanthi Rexaline",
+            "published_utc": "2023-10-30T17:09:14Z",
+            "article_url": "https://www.benzinga.com/news/earnings/23/10/35486931/us-stocks-set-to-bounce-back-strongly-from-oversold-levels-as-earnings-fed-decision-take-the-spotli",
+            "tickers": [
+                "GM",
+                "MCD",
+                "DIA",
+                "RIG",
+                "FEZ",
+                "THC",
+                "FXE",
+                "VNO",
+                "SPY",
+                "WDC",
+                "TLT",
+                "JKS",
+                "USO",
+                "QQQ",
+                "UUP",
+                "XLC",
+                "AAPL",
+                "ENPH",
+                "CHKP",
+                "ON",
+                "LSCC",
+                "PINS",
+                "QCOM",
+                "XLRE",
+                "RMBS",
+                "SOFI",
+                "WOLF",
+                "AMD",
+                "STLA"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35486931",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/commodity_market_3.jpeg?width=1200&height=800&fit=crop",
+            "description": "U.S. stocks opened the week on a positive note, with investor sentiment improving ahead of the expected announcement from the Fed to maintain unchanged interest rates on Wednesday. \nTraders will closely monitor earnings reports from Apple, Inc. (NASDAQ:AAPL) and chipmakers Qualcomm, Inc. (NASDAQ:QCOM) and Advanced Micro Devices, Inc. (NASDAQ:AMD). \nHowever, Treasury yields continue to rise, with the 10-year yield reaching 4.90%, reflecting persistent nervousness in the bond market\nCues From Monday\u2019s Trading\nThe S&P 500 and Nasdaq 100 both gained 0.7%, while blue-chip Dow Jones Industrial Average stocks rallied 1.1%. Small-cap stocks posted a more modest 0.2% increase. \n                                                                US Index Performance on Monday\n\n\n\n\nIndex \nPerformance (+/-)\nValue\n\n\nNasdaq 100\n+0.66%\n14,273.87\n\n\nS&P 500\n+0.74%\n4,151.49\n\n\nDow Industrials\n+1.19%\n32,776.22\n\n\nRussell 2000\n+0.26%\n1,641.32\n\n\n\n\nAnalyst Color\nAn analyst suggested that there could be light at the end of the tunnel for the market. \u201cGiven how bearish the financial markets have become, ...Full story available on Benzinga.com",
+            "keywords": [
+                "News",
+                "Earnings",
+                "Equities",
+                "Top Stories",
+                "Economics",
+                "Federal Reserve",
+                "Markets",
+                "Movers",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "CuDZ_w6yPhkzPz1WWYyrhWFHxs84tXK1tE2hDZxYojk",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "McDonald's CEO says earnings results prove that 'difficult times' for consumers can be a good thing",
+            "author": "MarketWatch",
+            "published_utc": "2023-10-30T15:30:00Z",
+            "article_url": "https://www.marketwatch.com/story/mcdonalds-ceo-says-earnings-results-prove-that-difficult-times-for-consumers-can-be-a-good-thing-19d96a21",
+            "tickers": [
+                "MCD",
+                "WEN",
+                "SHAK",
+                "XLY",
+                "DJIA"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/mcdonalds-ceo-says-earnings-results-prove-that-difficult-times-for-consumers-can-be-a-good-thing-19d96a21",
+            "image_url": "https://images.mktw.net/im-877908/social",
+            "description": "McDonald's CEO Chris Kempczinski said Q3 results prove that difficult times for consumers can be good for the fast-food giant."
+        },
+        {
+            "id": "7Rluj0F61OytU3T-U59WnNPU-mAKOjxgjukZ2RAua5E",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Pre-Markets in Green to Start a Crucial Week of Events",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-30T15:06:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2174622/pre-markets-in-green-to-start-a-crucial-week-of-events",
+            "tickers": [
+                "AAPL",
+                "AMD",
+                "CAT",
+                "COP",
+                "PFE",
+                "LLY",
+                "SBUX",
+                "MCD",
+                "ON"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2174622/pre-markets-in-green-to-start-a-crucial-week-of-events",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/01/36484.jpg",
+            "description": "Pre-Markets in Green to Start a Crucial Week of Events."
+        },
+        {
+            "id": "qcdmIziUKSXUmD0jXRMHdQJp-ShzlMNAoBlynm2bnpI",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Busy Week for Earnings, Fed, Reports; MCD, ON Beat in Q3",
+            "author": "Mark Vickery",
+            "published_utc": "2023-10-30T14:35:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2174606/busy-week-for-earnings-fed-reports-mcd-on-beat-in-q3",
+            "tickers": [
+                "AAPL",
+                "AMD",
+                "CAT",
+                "COP",
+                "PFE",
+                "LLY",
+                "SBUX",
+                "MCD",
+                "ON"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2174606/busy-week-for-earnings-fed-reports-mcd-on-beat-in-q3",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/59/2364.jpg",
+            "description": "Mid-October near-term highs have given way to lower trading levels for the most part in the past couple weeks."
+        },
+        {
+            "id": "3YOKAKbxU-PPlFgVxXsbhZB52V3zp6N6x3-Upa2gTkw",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "McDonald's (MCD) Stock Up on Q3 Earnings & Revenue Beat",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-30T14:17:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2174580/mcdonalds-mcd-stock-up-on-q3-earnings-revenue-beat",
+            "tickers": [
+                "MCD",
+                "ARCO",
+                "LOCO",
+                "FAT"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2174580/mcdonalds-mcd-stock-up-on-q3-earnings-revenue-beat",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/72/1111.jpg",
+            "description": "McDonald's (MCD) third-quarter 2023 results are aided by robust comparable sales."
+        },
+        {
+            "id": "BYreN8TZ30hl2IzvAqNpxIMzCZPZvv9nrHopgbEEEnQ",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Penalty Warranted For Southwest Airlines' Flight Fiasco, Amazon Leverages Generative AI for Holiday Ad Boost, McDonald's Q3 Earnings: Today's Top Stories",
+            "author": "Vandana Singh",
+            "published_utc": "2023-10-30T14:07:30Z",
+            "article_url": "https://www.benzinga.com/news/23/10/35491125/penalty-warranted-for-southwest-airlines-flight-fiasco-amazon-leverages-generative-ai-for-holiday-ad",
+            "tickers": [
+                "DOC",
+                "RIVN",
+                "XPO",
+                "AMZN",
+                "GOOG",
+                "ALV",
+                "DIS",
+                "LUV",
+                "MCD",
+                "TM",
+                "TRP",
+                "WDC",
+                "HSBC",
+                "PEAK",
+                "GOOGL"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35491125",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/10/30/southwest_airlines.jpg?width=1200&height=800&fit=crop",
+            "description": "Benzinga\n'Penalty Is Warranted' - DoT Notifies Southwest Airlines Over Holiday Flight Fiasco\n\nSouthwest Airlines Co.\u00a0(NYSE: LUV) has received a warning from the U.S. Department of Transportation that it may face a fine due to significant operational disruptions last December that caused widespread flight cancellations and passenger distress.\nThis disruption and subsequent recovery efforts resulted in the cancellation of more than 16,700 flights from December 21 through December 31, 2022.\n\nHealthcare Property Firms Healthpeak Properties And Physicians Realty Trust To Merge In $21B Deal\n\nHealthpeak Properties Inc\u00a0(NYSE:\u00a0PEAK) and\u00a0Physicians Realty Trust\u00a0(NYSE:\u00a0DOC) have agreed to merge in an all-stock merger of equals valued at approximately $21 billion.\u00a0\nUnder the terms of the agreement, each Physicians Realty Trust common share will be converted into 0.674 of a newly issued Healthpeak common share.\n\nGoogle Could Turn Your Wireless Earbuds Into Heart Rate Monitors With A Simple Software Update\n\nAlphabet Inc.'s\u00a0(NASDAQ:\u00a0GOOG) (NASDAQ:\u00a0GOOGL)\u00a0Google\u00a0has revealed that it can turn active noise cancellation (ANC) headphones and wireless earbuds into heart rate monitors without additional hardware.\nGoogle says its approach sends an \"ultrasound probing signal\" through the speakers of ANC headphones or earbuds.\n\nToyota's September Sales Grow Aided By Strong Demand; 1H Sales Jump As Semiconductor Shortage Eases\n\nToyota Motor Corporation\u00a0(NYSE:\u00a0TM) said its total global production remained flat in September to 1.037 million vehicles, including subsidiaries\u00a0Daihatsu Motor Co\u00a0and\u00a0Hino Motors Ltd.\nFor Toyota, September's global production rose 1.5% to 900,919 vehicles, and sales improved 11.6% to 921,308 vehicles.\n\nRivian To Start Billing For Its Charging Network\n\nEV maker\u00a0Rivian Automotive Inc\u00a0(NASDAQ:\u00a0RIVN) will begin charging users of its fast-charging network starting in November.\nThough the company provided free charging to its earliest owners, it will begin billing at all of Rivian Adventure Network's charging sites. Charging fees will be billed to the payment information saved in the account, the company said in an email to its customers.\n\nGM, ...",
+            "keywords": [
+                "News",
+                "Top Stories",
+                "Markets",
+                "General"
+            ]
+        },
+        {
+            "id": "7IpiBS5cRL3cGcrhY6wAAKquXJEIlFE_kf1Ruhx7p8Y",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Nasdaq Gains Over 1%; McDonald's Reports Upbeat Earnings",
+            "author": "Lisa Levin",
+            "published_utc": "2023-10-30T13:46:09Z",
+            "article_url": "https://www.benzinga.com/news/earnings/23/10/35490803/nasdaq-gains-over-1-mcdonalds-reports-upbeat-earnings",
+            "tickers": [
+                "EAR",
+                "MCD",
+                "COMM",
+                "TENX",
+                "VYNE",
+                "ALZN",
+                "MIRO"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35490803",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/10/30/image21.jpg?width=1200&height=800&fit=crop",
+            "description": "U.S. stocks traded higher this morning, with the Dow Jones index gaining more than 250 points on Monday.\nFollowing the market opening Monday, the Dow traded up 0.85% to 32,695.89 while the NASDAQ rose 1.20% to 12,794.11. The S&P 500 also rose, gaining, 0.95% to 4,156.53.\nCheck This Out:  Top 4 Consumer Stocks That Could Blast Off This Quarter \n\u00a0\nLeading and Lagging Sectors\n\u00a0\nCommunication services shares jumped by 1.9% on Monday.\nIn trading on Monday, health care shares rose by just 0.4%.\n\u00a0\nTop Headline\n\u00a0\nMcDonald's Corp  (NYSE: MCD) reported better-than-expected earnings for its third quarter.\nMcDonald's reported third-quarter FY23 sales growth of 14% year-on-year to $6.692 billion, beating the analyst consensus estimate of $6.577 billion. Adjusted EPS of $3.19 beat the consensus estimate of $3.00.\nMcDonald's sees FY23 operating margin of 46%; Capital expenditure of $2.2 billion - $2.4 billion.\n\u00a0\nEquities Trading UP\n\u00a0\nMiromatrix Medical Inc.  (NASDAQ: MIRO) shares shot up 231% to $3.34 after United Therapeutics agreed ...",
+            "keywords": [
+                "News",
+                "Earnings",
+                "Penny Stocks",
+                "Eurozone",
+                "Commodities",
+                "Small Cap",
+                "Global",
+                "Intraday Update",
+                "Markets",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "LzMMTpoYHgXUfPWJQJrGyf-_dLtBDoEEkxt-3Y6yBPA",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "McDonald's (MCD) Tops Q3 Earnings and Revenue Estimates",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-30T12:15:05Z",
+            "article_url": "https://www.zacks.com/stock/news/2174282/mcdonalds-mcd-tops-q3-earnings-and-revenue-estimates",
+            "tickers": [
+                "MCD",
+                "PTLO"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2174282/mcdonalds-mcd-tops-q3-earnings-and-revenue-estimates",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default0.jpg",
+            "description": "McDonald's (MCD) delivered earnings and revenue surprises of 6.33% and 1.79%, respectively, for the quarter ended September 2023. Do the numbers hold clues to what lies ahead for the stock?"
+        },
+        {
+            "id": "2wqn29arP7fRs7xZIq4AMaAJv5OUiH5-OoFCPLr3RoQ",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Why now is an attractive entry point for long-term investors, says JPMorgan strategist.",
+            "author": "MarketWatch",
+            "published_utc": "2023-10-30T11:41:00Z",
+            "article_url": "https://www.marketwatch.com/story/the-markets-in-a-funk-why-now-is-an-attractive-entry-point-for-long-term-investors-says-jpmorgan-strategist-67dd989a",
+            "tickers": [
+                "DIS",
+                "MCD",
+                "PFE",
+                "AMD",
+                "AAPL",
+                "SRC",
+                "O",
+                "TSLA",
+                "AMC",
+                "NVDA",
+                "AMZN",
+                "NIO",
+                "GME",
+                "MULN",
+                "MSFT",
+                "META",
+                "SPY",
+                "IEF"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/the-markets-in-a-funk-why-now-is-an-attractive-entry-point-for-long-term-investors-says-jpmorgan-strategist-67dd989a",
+            "image_url": "https://images.mktw.net/im-877706/social",
+            "description": "If you can overlook the danger, it's looking like a good entry point for long-term investors, says a private bank strategist."
+        },
+        {
+            "id": "YQ2ySzXZDMhgmEPEILAWxDH5VhjF9j0HNyydFhFJinM",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "McDonald's stock climbs after earnings and sales rise above expectations",
+            "author": "MarketWatch",
+            "published_utc": "2023-10-30T10:52:00Z",
+            "article_url": "https://www.marketwatch.com/story/mcdonals-stock-jumps-after-profit-revenue-and-same-store-sales-all-beat-expectations-6955ace3",
+            "tickers": [
+                "MCD",
+                "DJIA"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/mcdonals-stock-jumps-after-profit-revenue-and-same-store-sales-all-beat-expectations-6955ace3",
+            "image_url": "https://images.mktw.net/im-877732/social",
+            "description": "McDonald's stock rallied Monday, after the fast-food giant reported quarterly results that beat expectations, as U.S. sales were boosted by price increases."
+        },
+        {
+            "id": "FwHcv_iNUvLM0NI3G-hmeZBps5lXhpIWSAPhyinh1Tg",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Intuitive Machines stock climbs on lunar mission plan as McDonald's edges higher ahead of results",
+            "author": "MarketWatch",
+            "published_utc": "2023-10-30T08:20:00Z",
+            "article_url": "https://www.marketwatch.com/story/intuitive-machines-stock-climbs-on-lunar-mission-plan-as-mcdonalds-edges-higher-ahead-of-results-2a5f2cfa",
+            "tickers": [
+                "CHRS",
+                "LUNR",
+                "MCD",
+                "MT"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/intuitive-machines-stock-climbs-on-lunar-mission-plan-as-mcdonalds-edges-higher-ahead-of-results-2a5f2cfa",
+            "image_url": "https://images.mktw.net/im-877693/social",
+            "description": "Coherus BioSciences, Intuitive Machines, McDonald's and ArcelorMittal on the move."
+        },
+        {
+            "id": "b5IAAGIpEk98003F0o7SdrmQA_AIZRPKVHKK7buLi_0",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Apple, AMD, Palantir Earnings On Deck This Week As Market Seeks Positive Catalysts In Fed Decision Week",
+            "author": "Shanthi Rexaline",
+            "published_utc": "2023-10-30T07:40:15Z",
+            "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/23/10/35484208/apple-amd-palantir-earnings-on-deck-this-week-as-market-seeks-positive-catalysts-in",
+            "tickers": [
+                "PTON",
+                "CLX",
+                "VZ",
+                "INTC",
+                "HAL",
+                "PINS",
+                "SWKS",
+                "MRO",
+                "MRNA",
+                "COF",
+                "WDC",
+                "JBLU",
+                "HAS",
+                "GOOGL",
+                "WOLF",
+                "MTH",
+                "NOC",
+                "SPY",
+                "DKNG",
+                "COP",
+                "WEN",
+                "KLAC",
+                "HTZ",
+                "FOXA",
+                "ADM",
+                "NSC",
+                "AAPL",
+                "PLTR",
+                "CP",
+                "XOM",
+                "LOGI",
+                "HUM",
+                "QRVO",
+                "AJG",
+                "NVS",
+                "AGYS",
+                "BLCO",
+                "CR",
+                "XRX",
+                "LSCC",
+                "IBM",
+                "PYPL",
+                "AMD",
+                "PFE",
+                "AMGN",
+                "CVS",
+                "YUM",
+                "MSFT",
+                "KO",
+                "ETSY",
+                "AN",
+                "PHM",
+                "AMZN",
+                "CVX",
+                "H",
+                "MSTR",
+                "LLY",
+                "KHC",
+                "BMY",
+                "BP",
+                "PKG",
+                "BJRI",
+                "D",
+                "BUD",
+                "ODFL",
+                "LUV",
+                "RACE",
+                "BSX",
+                "RCL",
+                "CHKP",
+                "DD",
+                "FTNT",
+                "ORLY",
+                "LYV",
+                "SQ",
+                "BYD",
+                "RIG",
+                "CMCSA",
+                "DOW",
+                "JKS",
+                "QCOM",
+                "MA",
+                "SOFI",
+                "CAH",
+                "SNY",
+                "CROX",
+                "EAT",
+                "CHTR",
+                "REGN",
+                "MAR",
+                "YUMC",
+                "CAR",
+                "STM",
+                "EA",
+                "EW",
+                "NCLH",
+                "RMBS",
+                "MAT",
+                "ROKU",
+                "DBX",
+                "CAT",
+                "THC",
+                "EXAS",
+                "GD",
+                "SPWR",
+                "SBUX",
+                "MCD",
+                "SPOT",
+                "CHK",
+                "TXN",
+                "EXPE",
+                "GE",
+                "TMUS",
+                "SIRI",
+                "MMM",
+                "BHC",
+                "CI",
+                "UNM",
+                "FSLR",
+                "GM",
+                "ON",
+                "SKYW",
+                "MO",
+                "META",
+                "CL",
+                "VNO",
+                "GOOG",
+                "GSK",
+                "PARA",
+                "STX",
+                "MRK"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35484208",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/Stocks_Photo_by_Phongphan_on_Shutterstock_16.jpeg?width=1200&height=800&fit=crop",
+            "description": "The third-quarter earnings season has largely been mixed so far, reflecting the impact of the economic uncertainties on profit growth. That said, data suggests S&P 500 companies may be on track to break a fourth-quarter earnings-declining streak. \nA Mixed Bag Laced With Caution: Last week, Investors reacted to disappointing earnings reports from some high-profile companies such as Meta Platforms, Inc. (NASDAQ:META) and Alphabet, Inc. (NASDAQ:GOOGL) (NASDAQ:GOOG). The former spooked investors with softer-than-expected cloud revenue and the latter with its cautious guidance. \nTwo of the fellow \u201cMagnificent Seven,\u201d namely Microsoft Corp. (NASDAQ:MSFT) and Amazon, Inc. (NASDAQ:AMZN) calmed investors\u2019 nerves, either with stellar results or positive commentary regarding the near term. Chip earnings were also a mixed bag, with Texas Instruments, Inc. (NASDAQ:TXN) reporting a third-quarter miss, while Intel Corp. (NASDAQ:INTC) cheered investors with a solid beat and positive outlook.\nEnergy giants Exxon Mobil Corp. (NYSE:XOM) and Chevron Corp. (NYSE:CVX) reported below-consensus earnings for the quarter, and this served as a drag on the profit growth of S&P 500 companies.\nMidway into the season, about 49% of the S&P 500 companies have released their earnings so far, with 78% of the companies reporting earnings beats and 62% ringing in revenue upside, data from FactSet shows.\nThe year-over-year blended earnings growth rate of S&P 500 companies is expected at 2.7%, potentially marking the first growth since the third quarter of 2022.\nEarnings Deluge Awaits:  The tech earnings news flow continues in the unfolding week, with the likes of Apple, Inc. (NASDAQ:AAPL), Advanced Micro Devices, Inc. (NASDAQ:AMD) and Qualcomm, Inc. (NASDAQ:QCOM) on tap. A slew of SMID-cap companies are also scheduled to disclose their quarterly earnings scorecard.\nThe earnings assume ...Full story available on Benzinga.com",
+            "keywords": [
+                "Analyst Color",
+                "Earnings",
+                "Equities",
+                "News",
+                "Previews",
+                "Top Stories"
+            ]
+        },
+        {
+            "id": "EDmkyv4QhlrRJHP3lfAlIXi8QFFkN-EoNSzJy6fav1g",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "McDonald's, HSBC Holdings And 3 Stocks To Watch Heading Into Monday",
+            "author": "Lisa Levin",
+            "published_utc": "2023-10-30T07:31:16Z",
+            "article_url": "https://www.benzinga.com/news/earnings/23/10/35483858/mcdonalds-hsbc-holdings-and-3-stocks-to-watch-heading-into-monday",
+            "tickers": [
+                "IFF",
+                "MCD",
+                "HSBC",
+                "ON",
+                "PINS"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35483858",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/10/30/mcdonalds_-_logo.jpg?width=1200&height=800&fit=crop",
+            "description": "With U.S. stock futures trading higher this morning on Monday, some of the stocks that may grab investor focus today are as follows:\n\nWall Street expects  McDonald's Corporation  (NYSE: MCD) to report quarterly earnings at $3.00 per share on revenue of $6.58 billion before the opening bell. McDonald's shares gained 0.3% to $256.47 in after-hours trading.\nHSBC Holdings plc  (NYSE: HSBC) reported a 240% surge in pre-tax profit ...",
+            "keywords": [
+                "News",
+                "Earnings",
+                "Pre-Market Outlook",
+                "Markets",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "4ZOOTacrxMalvQvsXUkAh3no-GC_fazkAGkVR_yIbAQ",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Fear Among US Investors Is Growing; Fear & Greed Index Moves To 'Extreme Fear' Zone",
+            "author": "Lisa Levin",
+            "published_utc": "2023-10-30T07:24:15Z",
+            "article_url": "https://www.benzinga.com/news/earnings/23/10/35483899/fear-among-us-investors-is-growing-fear-greed-index-moves-to-extreme-fear-zone",
+            "tickers": [
+                "AMZN",
+                "CVX",
+                "MCD",
+                "XOM",
+                "ON",
+                "PINS"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35483899",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/10/30/image_3.jpg?width=1200&height=800&fit=crop",
+            "description": "The CNN Money Fear and Greed index showed further growth in the overall fear level, with the index moving to the \"Extreme Fear\" zone on Friday.\nU.S. stocks closed mostly lower on Friday, while the Nasdaq settled higher amid gains in  Amazon.com, Inc (NASDAQ: AMZN) shares. The company\u2019s stock gained 6.8% after reporting stronger-than-expected results for its third quarter.\nChevron Corporation  (NYSE: CVX) fell 6.7% on Friday after the company reported worse-than-expected third-quarter adjusted EPS results.  Exxon Mobil Corporation (NYSE: XOM) shares declined 1.9% following third-quarter results\nOn the economic data front, core PCE prices in the U.S. rose by 0.3% from the prior month in September. The annual rate, ...",
+            "keywords": [
+                "News",
+                "Earnings",
+                "Pre-Market Outlook",
+                "Markets",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "D4ip0c1NXeX32ghwigLTOfN495UNfZIem2wIufYL--c",
+            "publisher": {
+                "name": "Investing.com",
+                "homepage_url": "https://www.investing.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+            },
+            "title": "1 Stock to Buy, 1 Stock to Sell This Week: McDonald\u2019s, AMD",
+            "author": "Investing.com",
+            "published_utc": "2023-10-29T11:43:00Z",
+            "article_url": "https://www.investing.com/analysis/1-stock-to-buy-1-stock-to-sell-this-week-mcdonalds-amd-200643125",
+            "tickers": [
+                "AAPL",
+                "QCOM",
+                "PYPL",
+                "SQ",
+                "SHOP",
+                "COIN",
+                "DKNG",
+                "PLTR",
+                "PINS",
+                "ROKU",
+                "ABNB",
+                "CAT",
+                "LLY",
+                "PFE",
+                "MRNA",
+                "CVS",
+                "KHC",
+                "YUM",
+                "SBUX",
+                "BUD",
+                "MCD",
+                "AMD",
+                "INTC",
+                "NVDA"
+            ],
+            "amp_url": "https://m.investing.com/analysis/1-stock-to-buy-1-stock-to-sell-this-week-mcdonalds-amd-200643125?ampMode=1",
+            "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg"
+        },
+        {
+            "id": "cctKk4zN6TN_Bwc_0rS0evLAZJUTqJSIpsNZHQ6TMJk",
+            "publisher": {
+                "name": "Seeking Alpha",
+                "homepage_url": "https://seekingalpha.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/seekingalpha.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/seekingalpha.ico"
+            },
+            "title": "How To Build A Dividend Portfolio With $50,000 Among 20 Dividend Paying Companies/ETFs",
+            "author": "Frederik Mueller",
+            "published_utc": "2023-10-28T19:00:00Z",
+            "article_url": "https://seekingalpha.com/article/4644315-build-dividend-portfolio-50000-20-dividend-paying-companies-etfs",
+            "tickers": [
+                "AAPL",
+                "AXP",
+                "BAC",
+                "BXP",
+                "CMCSA",
+                "HD",
+                "MA",
+                "MCD",
+                "MO",
+                "O",
+                "PM",
+                "PNC",
+                "PSX",
+                "RIO",
+                "RY",
+                "SCHD",
+                "SCHW",
+                "UPS",
+                "V",
+                "VZ"
+            ],
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1226728470/image_1226728470.jpg?io=getty-c-w1536",
+            "description": "Learn how to allocate $50,000 among 20 attractive dividend-paying companies/ETFs to generate extra income and cover monthly expenses."
+        },
+        {
+            "id": "XlGk7nEeozYyzuRbzLhSeskJ5NAHkdew9LeFemuBZOM",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "2 Dividend Stocks to Double Up on Right Now",
+            "author": "newsfeedback@fool.com (Stefon Walters)",
+            "published_utc": "2023-10-28T14:00:00Z",
+            "article_url": "https://www.fool.com/investing/2023/10/28/2-dividend-stocks-to-double-up-on-right-now/",
+            "tickers": [
+                "MCD",
+                "KO"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/752130/gettyimages-936744814.jpg",
+            "description": "These blue-chip companies should provide investors value for the foreseeable future.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "NWBBCk9quhOly8Qys1QlvPjM6iCNPaiglj_538Bad8o",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Bears Roam Wall Street As Middle East Conflict, Earnings Outlook Raise Concerns Despite Strong Q3 US Economic Growth: This Week In Markets",
+            "author": "Piero Cingari",
+            "published_utc": "2023-10-27T20:33:57Z",
+            "article_url": "https://www.benzinga.com/news/earnings/23/10/35474151/bears-roam-wall-street-as-middle-east-conflict-earnings-outlook-raise-concerns-despite-strong-q3-us",
+            "tickers": [
+                "LLY",
+                "MCD",
+                "ABNB",
+                "DIA",
+                "PFE",
+                "WTV",
+                "PDD",
+                "ROL",
+                "SPY",
+                "WHR",
+                "TLT",
+                "WTW",
+                "AAPL",
+                "AAPL",
+                "ALGN",
+                "QQQ",
+                "AMGN",
+                "MDLZ",
+                "AMZN",
+                "ENPH",
+                "QCOM",
+                "MDLZ",
+                "SBUX",
+                "GOOGL",
+                "AMD",
+                "JD",
+                "CAT",
+                "SPGI",
+                "COP",
+                "BKNG",
+                "CVS",
+                "META"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35474151",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/Bearish_stock_chart..jpeg?width=1200&height=800&fit=crop",
+            "description": "It has been another week of volatility in the stock market, characterized by mounting fears of a wider Middle East conflict and a more cautious fourth-quarter earnings outlook announced by U.S. corporations.\nInvestors absorbed the latest economic data, which revealed stronger-than-expected growth in the third quarter and inflation in line with expectations in September, solidifying forecasts of unchanged interest rates at the upcoming Federal Open Market Committee Meeting next week.\nUS GDP Growth Beats Expectations, Fueled by Strong Consumer Spending: The U.S. economy exceeded expectations in the third quarter, recording a robust 4.9% growth rate, according to advance estimates. This result outperformed economist projections of a 4.3% growth rate. The primary driver behind the number: robust\u00a0 consumer spending, which increased at an annualized rate of 4%.\nBill Ackman Exits Treasury Shorts, Cites Growing Economic Concerns: Renowned hedge fund billionaire Bill Ackman took to social media platform X to announce that he closed his short positions in U.S. Treasury bonds. Ackman attributes this decision to expectations the economy is slowing down more rapidly than recent data indicates and expressed his concern about the level of risk in the world.\nBitcoin Rallies As ETF Approval Nears: Bitcoin (CRYPTO: BTC) had a robust week of gains, marking a double-digit return and reaching its highest level in over five months. The D.C. Circuit Court of Appeals settled a dispute between the U.S. Securities and Exchange Commission and Grayscale, instructing ...Full story available on Benzinga.com",
+            "keywords": [
+                "Sector ETFs",
+                "Earnings",
+                "Equities",
+                "Macro Economic Events",
+                "Earnings Beats",
+                "Earnings Misses",
+                "Broad U.S. Equity ETFs",
+                "Bonds",
+                "Top Stories",
+                "Economics",
+                "Federal Reserve",
+                "Markets",
+                "Tech",
+                "ETFs"
+            ]
+        },
+        {
+            "id": "oBwfz8EizeHWSVOCIw07PL9dWgHGiqlUuXlGwOamilY",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "YUM! Brands (YUM) to Report Q3 Earnings: What's in the Offing?",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-27T15:57:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2173966/yum-brands-yum-to-report-q3-earnings-whats-in-the-offing",
+            "tickers": [
+                "ANF",
+                "MCD",
+                "YUM",
+                "WEN"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2173966/yum-brands-yum-to-report-q3-earnings-whats-in-the-offing",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/6f/1035.jpg",
+            "description": "YUM! Brands' (YUM) third-quarter top line is likely to have benefited from strong same-store sales growth, Taco Bell performance and unit expansion efforts."
+        },
+        {
+            "id": "70R62_Swc2MbDENw32awEqhrCSnzULTFRlaQBFnpOTs",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Chipotle\u2019s Q3 results could make it a standout in restaurant earnings season",
+            "author": "MarketWatch",
+            "published_utc": "2023-10-27T13:02:00Z",
+            "article_url": "https://www.marketwatch.com/story/chipotles-q3-results-could-make-it-a-standout-in-restaurant-earnings-season-c0ecaf51",
+            "tickers": [
+                "CMG",
+                "MCD",
+                "WEN"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/chipotles-q3-results-could-make-it-a-standout-in-restaurant-earnings-season-c0ecaf51",
+            "image_url": "https://images.mktw.net/im-799650/social",
+            "description": "Chipotle reported strong third-quarter results after market close on Thursday."
+        },
+        {
+            "id": "jJNyCCygSI7Qh8Fx42B3Y1irrpG_gu8UYaf0ulrY3hY",
+            "publisher": {
+                "name": "Seeking Alpha",
+                "homepage_url": "https://seekingalpha.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/seekingalpha.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/seekingalpha.ico"
+            },
+            "title": "10 High-Yield Dividend Aristocrats Perfect For What's Coming Next",
+            "author": "Dividend Sensei",
+            "published_utc": "2023-10-27T11:35:00Z",
+            "article_url": "https://seekingalpha.com/article/4643431-10-high-yield-dividend-aristocrats-perfect-for-whats-coming-next",
+            "tickers": [
+                "CHD",
+                "CLX",
+                "FTS",
+                "JNJ",
+                "KMB",
+                "KO",
+                "MCD",
+                "MGEE",
+                "NVS",
+                "PEP"
+            ],
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1156500794/image_1156500794.jpg?io=getty-c-w1536",
+            "description": "Investors are worried about soaring interest rates, a pending government shutdown, wars around the world, and a recession looming next year. Read more here."
+        },
+        {
+            "id": "OQWyOF7JBOmeS5go5tmBOOGCQAQGZi53XCWg8Iml_jQ",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Yum China (YUMC) to Report Q3 Earnings: Here's What to Expect",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-26T14:42:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2172929/yum-china-yumc-to-report-q3-earnings-heres-what-to-expect",
+            "tickers": [
+                "MCD",
+                "YUM",
+                "WEN",
+                "YUMC"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2172929/yum-china-yumc-to-report-q3-earnings-heres-what-to-expect",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/d3/1080.jpg",
+            "description": "Yum China's (YUMC) third-quarter 2023 results are likely to reflect increasing same-store sales, thanks to its focus on unit expansions, menu innovation, digital advancements and enhancing delivery capabilities."
+        },
+        {
+            "id": "e3GZUhKqHeuqzLM4jOBTDnYcL5eKB7YTvoQoaMj-NJs",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "McDonald's (MCD) to Report Q3 Earnings: What's in Store?",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-26T14:27:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2172907/mcdonalds-mcd-to-report-q3-earnings-whats-in-store",
+            "tickers": [
+                "SBUX",
+                "MCD",
+                "YUM",
+                "QSR"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2172907/mcdonalds-mcd-to-report-q3-earnings-whats-in-store",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/59/2364.jpg",
+            "description": "McDonald's (MCD) third-quarter 2023 top line is likely to have been aided by strong comps growth, menu innovation, expansion efforts, an increase in average check growth and menu price."
+        },
+        {
+            "id": "a2GGNMALv2oXphan7QEEAscYh1A-IFBEywNMtaUaAM4",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Better Buy: Cava vs. McDonald's",
+            "author": "newsfeedback@fool.com (Reuben Gregg Brewer)",
+            "published_utc": "2023-10-26T11:15:00Z",
+            "article_url": "https://www.fool.com/investing/2023/10/26/better-buy-cava-vs-mcdonalds/",
+            "tickers": [
+                "CAVA",
+                "MCD"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/752010/23_02_20-hands-holding-blocks-spelling-risk-and-reward-_mf-dload.jpg",
+            "description": "This is a choice between an upstart with sizable but uncertain growth potential and a slow and steady fast-food giant.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "3IqZHZn2E_Bcmlfy9X4Xl8cf_wjWdI0FAjdxr4MJmqY",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Buy This Blue Chip Stock Now on the Dip and Hold Forever?",
+            "author": "Benjamin Rains",
+            "published_utc": "2023-10-26T11:00:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2172352/buy-this-blue-chip-stock-now-on-the-dip-and-hold-forever",
+            "tickers": [
+                "SBUX",
+                "MCD"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2172352/buy-this-blue-chip-stock-now-on-the-dip-and-hold-forever",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default178.jpg",
+            "description": "McDonald's is finding support, and investors might want to think about buying MCD stock at its current levels and possibly holding it for years to come considering its impressive fundamentals."
+        },
+        {
+            "id": "xDaCAeDCbDYuGASo_1ZLu6zKZvmrlYTWZJmIHR-4CjI",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Earnings Preview: Dine Brands (DIN) Q3 Earnings Expected to Decline",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-25T14:02:10Z",
+            "article_url": "https://www.zacks.com/stock/news/2171615/earnings-preview-dine-brands-din-q3-earnings-expected-to-decline",
+            "tickers": [
+                "DIN",
+                "MCD"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2171615/earnings-preview-dine-brands-din-q3-earnings-expected-to-decline",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default1.jpg",
+            "description": "Dine Brands (DIN) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations."
+        },
+        {
+            "id": "sCW1d8FJEshQ0qRf5fWy6kNhC_zpB4GN2Msurvat-is",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "McDonald's, Wynn Resorts And More: CNBC's 'Final Trades'",
+            "author": "Lisa Levin",
+            "published_utc": "2023-10-25T13:44:09Z",
+            "article_url": "https://www.benzinga.com/trading-ideas/long-ideas/23/10/35409585/mcdonalds-wynn-resorts-and-more-cnbcs-final-trades",
+            "tickers": [
+                "IEF",
+                "WYNN",
+                "LVS",
+                "MCD"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35409585",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/10/25/stock_trader_shutter.jpg?width=1200&height=800&fit=crop",
+            "description": "On CNBC\u2019s \"Halftime Report Final Trades,\"  Josh\u00a0Brown of Ritholtz Wealth Management named  iShares 7-10 Year Treasury Bond ETF (NASDAQ: IEF)  as his final trade. \nJim Lebenthal  of Cerity Partners picked  Wynn Resorts, Limited (NASDAQ: WYNN).  Las Vegas Sands (NYSE: LVS), last week, reported better-than-expected third-quarter financial ...",
+            "keywords": [
+                "Long Ideas",
+                "News",
+                "Markets",
+                "Media",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "z2rMVfj1se_Csay_oB8EgdvAfk1u1j5wkjprxTmRS3E",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "2 Stocks That Could Sabotage Your Portfolio",
+            "author": "newsfeedback@fool.com (Jake Lerch)",
+            "published_utc": "2023-10-25T12:15:00Z",
+            "article_url": "https://www.fool.com/investing/2023/10/25/2-stocks-that-could-sabotage-your-portfolio/",
+            "tickers": [
+                "FUBO",
+                "MCD",
+                "NFLX",
+                "DIS",
+                "GOOGL",
+                "SBUX",
+                "AAPL",
+                "AMZN",
+                "PARA",
+                "DG",
+                "GOOG",
+                "WBD"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/749490/portfolio-sabotage-stock-market-bad-investment.jpg",
+            "description": "It's possible these two stocks could get investors into trouble.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "I4mlgRyKpcwHn8I2twl-UmxkaYXmgveCG0LnfdKKY20",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "McDonald's (MCD) Laps the Stock Market: Here's Why",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-24T21:45:17Z",
+            "article_url": "https://www.zacks.com/stock/news/2171052/mcdonalds-mcd-laps-the-stock-market-heres-why",
+            "tickers": [
+                "MCD"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2171052/mcdonalds-mcd-laps-the-stock-market-heres-why",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default36.jpg",
+            "description": "McDonald's (MCD) closed the most recent trading day at $257.27, moving +0.99% from the previous trading session."
+        },
+        {
+            "id": "MWrqpvEfcEXwYShIbW5xZxoJFCWG6NCjDjdiYlGZCpg",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Chipotle (CMG) Gears Up to Report Q3 Earnings: What to Expect?",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-24T11:18:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2170668/chipotle-cmg-gears-up-to-report-q3-earnings-what-to-expect",
+            "tickers": [
+                "SBUX",
+                "MCD",
+                "YUM",
+                "CMG"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2170668/chipotle-cmg-gears-up-to-report-q3-earnings-what-to-expect",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/b7/464.jpg",
+            "description": "Chipotle's (CMG) third-quarter top line is likely to have benefited from strength in digital sales, a rise in menu prices and new restaurant openings."
+        },
+        {
+            "id": "_JmcXyYrZUHPpyxJQwZAb0ztIa795D4Z2c_17Ii98-k",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "McDonald\u2019s and Chipotle set to continue dominance amid consumer-spending worries, research shows",
+            "author": "MarketWatch",
+            "published_utc": "2023-10-23T19:44:00Z",
+            "article_url": "https://www.marketwatch.com/story/mcdonalds-and-chipotle-set-to-continue-dominance-amid-consumer-spending-worries-research-shows-10c28c97",
+            "tickers": [
+                "MCD",
+                "CMG"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/mcdonalds-and-chipotle-set-to-continue-dominance-amid-consumer-spending-worries-research-shows-10c28c97",
+            "image_url": "https://images.mktw.net/im-864128/social",
+            "description": "McDonald\u2019s and Chipotle are outperforming the broader dining sector, according to foot-traffic data from\u00a0Placer.ai."
+        },
+        {
+            "id": "P0wusKtrcCaV6sA5Cb67qHB4Pxa0jIu7la1qARj56Wc",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "McDonald's (MCD) Reports Next Week: Wall Street Expects Earnings Growth",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-23T14:00:31Z",
+            "article_url": "https://www.zacks.com/stock/news/2170327/mcdonalds-mcd-reports-next-week-wall-street-expects-earnings-growth",
+            "tickers": [
+                "MCD",
+                "CMG"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2170327/mcdonalds-mcd-reports-next-week-wall-street-expects-earnings-growth",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default1.jpg",
+            "description": "McDonald's (MCD) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations."
+        },
+        {
+            "id": "_gd0v2J9_vAw_1M0HvVzhj9LYCVgMK7FQYslCRLSTZg",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Walgreens To Rally Around 42%? Here Are 10 Top Analyst Forecasts For Monday",
+            "author": "Lisa Levin",
+            "published_utc": "2023-10-23T11:47:25Z",
+            "article_url": "https://www.benzinga.com/news/23/10/35370327/walgreens-to-rally-around-42-here-are-10-top-analyst-forecasts-for-monday",
+            "tickers": [
+                "AA",
+                "CRM",
+                "EIX",
+                "EOG",
+                "MCD",
+                "PINS",
+                "RNG",
+                "WBA",
+                "LIVN",
+                "MDB"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35370327",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/10/23/walgreens_-_logo.jpg?width=1200&height=800&fit=crop",
+            "description": "Top Wall Street analysts changed their outlook on these top names. For a complete view of all analyst rating changes, including upgrades and downgrades, please see our analyst ratings page\n\nB of A Securities cut  Alcoa Corporation (NYSE: AA) price target from $35 to $25. B of A Securities analyst Lawson Winder downgraded the stock from Buy to Neutral. Alcoa shares fell 3.3% to $23.23 in pre-market trading. See how other analysts view this stock.\nCitigroup slashed the price target for  EOG Resources, Inc.  (NYSE: EOG) from $144 to $135. Citigroup analyst Scott Gruber downgraded the stock from Buy to Neutral. EOG Resources shares fell 1.1% to $131.75 in pre-market trading. See how other analysts view this stock.\nEvercore ISI Group lowered  Edison International  (NYSE: EIX) price target from $74 to $68. Evercore ISI Group analyst Durgesh Chopra upgraded the stock ...",
+            "keywords": [
+                "News",
+                "Price Target",
+                "Pre-Market Outlook",
+                "Markets",
+                "Analyst Ratings",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "Tm3xTBRa_3a2VpsRPMz3UR-HzUgDRx7VWVLXScmuVTo",
+            "publisher": {
+                "name": "Seeking Alpha",
+                "homepage_url": "https://seekingalpha.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/seekingalpha.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/seekingalpha.ico"
+            },
+            "title": "How I'd Invest $1 Million Right Now",
+            "author": "Nicholas Ward",
+            "published_utc": "2023-10-20T20:53:26Z",
+            "article_url": "https://seekingalpha.com/article/4642255-how-id-invest-1-million-right-now",
+            "tickers": [
+                "A",
+                "AMZN",
+                "BLK",
+                "CMI",
+                "CNI",
+                "CPT",
+                "DE",
+                "ENB",
+                "EPS",
+                "GOOG",
+                "GOOGL",
+                "HON",
+                "HSY",
+                "KO",
+                "LIN",
+                "MCD",
+                "NVDA",
+                "O",
+                "PEP",
+                "REXR",
+                "RTX",
+                "SPGI",
+                "TMO",
+                "TXN",
+                "V",
+                "WM"
+            ],
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1587602057/image_1587602057.jpg?io=getty-c-w1536",
+            "description": "Discover a unique approach to investing $1 million with a focus on growth. Click here to read what investors need to know."
+        },
+        {
+            "id": "mmPIS8lcVyOhcvIXr7S1Abk5pslZPH_Yj65wxDOpn2I",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "What 21 Analyst Ratings Have To Say About McDonald's",
+            "author": "Benzinga Insights",
+            "published_utc": "2023-10-19T17:00:32Z",
+            "article_url": "https://www.benzinga.com/analyst-ratings/23/10/35335473/what-21-analyst-ratings-have-to-say-about-mcdonalds",
+            "tickers": [
+                "MCD"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35335473",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/analyst_ratings_image_4.png?width=1200&height=800&fit=crop",
+            "description": "Within the last quarter, McDonald's (NYSE:MCD) has observed the following analyst ratings: \n\n\n\n\nBullish\nSomewhat Bullish\nIndifferent\nSomewhat Bearish\nBearish\n\n\n\n\nTotal Ratings\n4\n13\n4\n0\n0\n\n\nLast 30D\n1\n0\n0\n0\n0\n\n\n1M Ago\n1\n4\n1\n0\n0\n\n\n2M Ago\n1\n1\n0\n0\n0\n\n\n3M Ago\n1\n8\n3\n0\n0\n\n\n\nAccording to 21 analyst offering 12-month price targets in the last 3 months, McDonald's has an average price target of $324.81 with a high of $355.00 and a low of $283.00. \nBelow is a summary of how these 21 analysts rated McDonald's over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on the stock ...Full story available on Benzinga.com",
+            "keywords": [
+                "Analyst Ratings"
+            ]
+        },
+        {
+            "id": "_LA_It1P7GjUlCVwwpaYdhNbEUHc_UbTlXeZj-Ul29Q",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Want Passive Income? 2 Dividend Giants to Buy Right Now",
+            "author": "newsfeedback@fool.com (Demitri Kalogeropoulos)",
+            "published_utc": "2023-10-19T09:48:00Z",
+            "article_url": "https://www.fool.com/investing/2023/10/19/want-passive-income-2-dividend-giants-to-buy-right/",
+            "tickers": [
+                "MCD",
+                "KO"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/751395/three-friends-eating-burgers-outdoors.jpg",
+            "description": "These income investments go very well together.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "rZ1rtiUAFS6fWFmBL7g1PpDjJnT7QJmuaU0aq0xDD2Q",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "McDonald's (MCD) Ascends While Market Falls: Some Facts to Note",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-18T21:45:20Z",
+            "article_url": "https://www.zacks.com/stock/news/2168361/mcdonalds-mcd-ascends-while-market-falls-some-facts-to-note",
+            "tickers": [
+                "MCD"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2168361/mcdonalds-mcd-ascends-while-market-falls-some-facts-to-note",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default13.jpg",
+            "description": "McDonald's (MCD) closed at $256.03 in the latest trading session, marking a +1.95% move from the prior day."
+        },
+        {
+            "id": "NYVOOYbJDu-uYMH-rRnimyM5tjuoF4Puhh5P8E7GfyY",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "3 Passive Income Stocks to Hold for the Next 20 Years",
+            "author": "newsfeedback@fool.com (Justin Pope)",
+            "published_utc": "2023-10-18T13:37:00Z",
+            "article_url": "https://www.fool.com/investing/2023/10/18/3-passive-income-stocks-to-hold-for-next-20-years/",
+            "tickers": [
+                "MCD",
+                "HD",
+                "PEP"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/750677/happy-person-with-cash-money-dividends.jpg",
+            "description": "Stability is the name of the game, and these stocks deliver in spades.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "TaKb9d_4XfgQAf67FNVJnn7JNYiR0s0gnhZWmwF9jpw",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "5 ETF Areas & Stocks to Win on Upbeat September Retail Sales",
+            "author": "Sanghamitra Saha",
+            "published_utc": "2023-10-18T12:00:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2167767/5-etf-areas-stocks-to-win-on-upbeat-september-retail-sales",
+            "tickers": [
+                "AMZN",
+                "WMT",
+                "MCD",
+                "CHD",
+                "GPI",
+                "XLP",
+                "CARZ",
+                "BFIT",
+                "ONLN",
+                "EATZ"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2167767/5-etf-areas-stocks-to-win-on-upbeat-september-retail-sales",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/c0/3299.jpg",
+            "description": "Retail sales in the United States grew 0.7% sequentially in September 2023, following an upwardly revised 0.8% uptick in August and beating forecasts of a 0.3% advance."
+        },
+        {
+            "id": "cr8IjLjfZnsyNLpfZWpdo5BrsK3SaeFdCljLcnKzs7Y",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Better Buy: McDonald's vs. Starbucks Stock",
+            "author": "newsfeedback@fool.com (Demitri Kalogeropoulos)",
+            "published_utc": "2023-10-18T11:49:00Z",
+            "article_url": "https://www.fool.com/investing/2023/10/18/better-buy-mcdonalds-vs-starbucks-stock/",
+            "tickers": [
+                "MCD",
+                "SBUX"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/750876/woman-drinking-coffee-shop-hot-chocolate-cold-winter.jpg",
+            "description": "The stocks are both on sale right now.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "tHcGxqp8eSuCUPJoswzHssQmpqxhIobr_r9_fraoD4s",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "1 Red Flag for McDonald's Stock in 2023",
+            "author": "newsfeedback@fool.com (Demitri Kalogeropoulos)",
+            "published_utc": "2023-10-18T09:20:00Z",
+            "article_url": "https://www.fool.com/investing/2023/10/18/1-red-flag-for-mcdonalds-stock-in-2023/",
+            "tickers": [
+                "MCD"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/750884/friends-eating-burgers-and-fries-and-have-fun-in-outdoor-restaurant.jpg",
+            "description": "The fast-food chain sees a sales slowdown on the way.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "Q3Hng5JbEXCaCnlY5xQD7m14Zf8ejakm0pzy_LqMtao",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "3 High-Yielding Dividend Stocks That Raised Their Payouts This Year",
+            "author": "newsfeedback@fool.com (David Jagielski)",
+            "published_utc": "2023-10-18T09:07:00Z",
+            "article_url": "https://www.fool.com/investing/2023/10/18/3-high-yielding-dividend-stocks-that-have-raised-t/",
+            "tickers": [
+                "SBUX",
+                "MCD",
+                "FTS"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/751031/a-rich-person-counting-money.jpg",
+            "description": "Investors can expect to see more dividend hikes from these stocks in the future.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "q4Aw3UZnZGRgYPKeIXz11_MQ3CAPy1Jb9iGTDfYN3WE",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Where Will McDonald's Stock Be in 1 Year?",
+            "author": "newsfeedback@fool.com (Demitri Kalogeropoulos)",
+            "published_utc": "2023-10-16T11:32:00Z",
+            "article_url": "https://www.fool.com/investing/2023/10/16/where-will-mcdonalds-stock-be-in-1-year/",
+            "tickers": [
+                "MCD"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/750727/three-friends-eating-burgers-outdoors.jpg",
+            "description": "Investors are bracing for a growth slowdown ahead.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "r2sxV9N8XjUNmC7RDa_HZ2Q0aA48wTWgI5r9qaNvt7Y",
+            "publisher": {
+                "name": "Seeking Alpha",
+                "homepage_url": "https://seekingalpha.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/seekingalpha.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/seekingalpha.ico"
+            },
+            "title": "My Dividend Growth Portfolio - Q3 2023 Summary",
+            "author": "Khen Elazar",
+            "published_utc": "2023-10-16T05:21:15Z",
+            "article_url": "https://seekingalpha.com/article/4640929-my-dividend-growth-portfolio-q3-2023-summary",
+            "tickers": [
+                "AAPL",
+                "ABBV",
+                "ABR",
+                "ABT",
+                "ADM",
+                "AFL",
+                "AMP",
+                "AMZN",
+                "AXP",
+                "BAC",
+                "BDX",
+                "BLK",
+                "BMY",
+                "C",
+                "CAH",
+                "CAT",
+                "CSCO",
+                "CVS",
+                "CVX",
+                "DIS",
+                "DLR",
+                "DUK",
+                "DUKB",
+                "EMR",
+                "EPD",
+                "ETN",
+                "GD",
+                "GIS",
+                "GOOG",
+                "GOOGL",
+                "GS",
+                "HIW",
+                "IBM",
+                "JNJ",
+                "JPM",
+                "K",
+                "KMB",
+                "KMI",
+                "KO",
+                "KREF",
+                "LMT",
+                "LOW",
+                "MAA",
+                "MCD",
+                "MCK",
+                "MDT",
+                "META",
+                "MMM",
+                "MO",
+                "MPLX",
+                "MPW",
+                "MRK",
+                "MS",
+                "MSFT",
+                "MSM",
+                "NEE",
+                "NKE",
+                "NSC",
+                "NVDA",
+                "O",
+                "OHI",
+                "OKE",
+                "PEP",
+                "PFE",
+                "PFH",
+                "PG",
+                "PM",
+                "PRH",
+                "PRS",
+                "PRU",
+                "QCOM",
+                "RTX",
+                "SBUX",
+                "SCHW",
+                "SJM",
+                "SO",
+                "SOJC",
+                "SOJD",
+                "SOJE",
+                "STWD",
+                "SYY",
+                "TGT",
+                "TROW",
+                "TSN",
+                "TXN",
+                "UNP",
+                "V",
+                "VICI",
+                "VLO",
+                "VZ",
+                "WEC",
+                "WMT",
+                "WPC",
+                "XOM"
+            ],
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1455774438/image_1455774438.jpg?io=getty-c-w1536",
+            "description": "The third quarter of 2023 saw the S&P 500 down 4% following a powerful Q2. Click here to read the quarterly update on my dividend growth portfolio."
+        },
+        {
+            "id": "Ms3erXa-qBh2yBLkzKVIzUnXU2T5GY3nDR0jKWnEgio",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "BJ's Restaurants (BJRI) to Report Q3 Earnings: What's in Store?",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-13T18:17:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2165847/bjs-restaurants-bjri-to-report-q3-earnings-whats-in-store",
+            "tickers": [
+                "BJRI",
+                "MCD",
+                "WEN",
+                "QSR"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2165847/bjs-restaurants-bjri-to-report-q3-earnings-whats-in-store",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/b4/3720.jpg",
+            "description": "BJ's Restaurants' (BJRI) fiscal third-quarter results are likely to reflect an increase in guest traffic and comps thanks to remodeling initiatives, restaurant expansion plans and menu pricing."
+        },
+        {
+            "id": "EplQSaH3ku9NNo7iTLI7k0kHb9_lHuCTolGv0k15fWQ",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "FAT Brands (FAT) Gears Up for Q3 Earnings: What's in Store?",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-13T16:26:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2165820/fat-brands-fat-gears-up-for-q3-earnings-whats-in-store",
+            "tickers": [
+                "SBUX",
+                "MCD",
+                "CMG",
+                "FAT"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2165820/fat-brands-fat-gears-up-for-q3-earnings-whats-in-store",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/22/35722.jpg",
+            "description": "FAT Brands' (FAT) third-quarter 2023 performance will likely benefit from strong company-owned restaurant revenues and system-wide sales growth. Yet, high costs are a concern."
+        },
+        {
+            "id": "l1bYTDGzOMXhROchxoP1QeIQXmh4RqDaW5M1dliFWxQ",
+            "publisher": {
+                "name": "Investing.com",
+                "homepage_url": "https://www.investing.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+            },
+            "title": "Q3 Earnings Season Poses Next Big Test for S&P 500: Here's How to Prepare for It",
+            "author": "Investing.com",
+            "published_utc": "2023-10-13T14:45:00Z",
+            "article_url": "https://www.investing.com/analysis/q3-earnings-season-poses-next-big-test-for-sp-500-heres-how-to-prepare-for-it-200642663",
+            "tickers": [
+                "JPM",
+                "C",
+                "WFC",
+                "UNH",
+                "TSLA",
+                "NFLX",
+                "SCHW",
+                "AXP",
+                "AAL",
+                "MSFT",
+                "GOOGL",
+                "META",
+                "AMZN",
+                "AAPL",
+                "GOOGL",
+                "META",
+                "NFLX",
+                "DIS",
+                "AMZN",
+                "WMT",
+                "HD",
+                "MCD",
+                "KO",
+                "NVDA",
+                "ANET",
+                "SNOW",
+                "CRWD",
+                "MDB",
+                "ZS",
+                "NET",
+                "JPM",
+                "RCL",
+                "LVS",
+                "DASH",
+                "XLE",
+                "XLV"
+            ],
+            "amp_url": "https://m.investing.com/analysis/q3-earnings-season-poses-next-big-test-for-sp-500-heres-how-to-prepare-for-it-200642663?ampMode=1",
+            "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg"
+        },
+        {
+            "id": "PPpwL2PysyNkfVg63YBDECS9rAdv_6xg5tOo42GY104",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "The Zacks Analyst Blog Highlights Bank OZK, McDonald's, RPM International, Lockheed Martin and A. O. Smith",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-13T11:09:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2165424/the-zacks-analyst-blog-highlights-bank-ozk-mcdonalds-rpm-international-lockheed-martin-and-a-o-smith",
+            "tickers": [
+                "LMT",
+                "MCD",
+                "AOS",
+                "RPM",
+                "OZK"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2165424/the-zacks-analyst-blog-highlights-bank-ozk-mcdonalds-rpm-international-lockheed-martin-and-a-o-smith",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/f6/355.jpg",
+            "description": "Bank OZK, McDonald's, RPM International, Lockheed Martin and A. O. Smith are part of the Zacks top Analyst Blog."
+        },
+        {
+            "id": "gEtdU0OhasN9ogwwkLwssvCGY6ASNvinYj0GTgEXjyg",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Iran's Involvement In Israel-Hamas Conflict Is Key For The Future Of US Inflation",
+            "author": "Natan Ponieman",
+            "published_utc": "2023-10-12T21:46:00Z",
+            "article_url": "https://www.benzinga.com/news/23/10/35231309/irans-involvement-in-israel-hamas-conflict-is-key-for-the-future-of-us-inflation",
+            "tickers": [
+                "NKE",
+                "PXD",
+                "XOM",
+                "IEO",
+                "AAPL",
+                "UCO",
+                "TSLA",
+                "USO",
+                "BKNG",
+                "VCR",
+                "XLY",
+                "META",
+                "AAPL",
+                "ABNB",
+                "AMZN",
+                "SHEL",
+                "LULU",
+                "SBUX",
+                "CVX",
+                "F",
+                "GM",
+                "HD",
+                "MCD"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35231309",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/hamas_shutter2.jpeg?width=1200&height=800&fit=crop",
+            "description": "The outbreak of war in the Middle East is threatening to hamper the Fed's efforts to control inflation.\nA Thursday visit from Secretary of State Antony Blinken to Israel was confirmation of unconditional support from the U.S. for Israel in its war against Palestinian terrorist organization Hamas.\nIsrael\u2019s military reported on Thursday afternoon that over 1,200 people, including at least 27 Americans, have been killed by Hamas\u2019 attacks, with around 2,800 individuals injured. In response to these attacks, Israeli counterstrikes in Gaza have resulted in the deaths of approximately 1,537 individuals, according to the Gaza Ministry of Health, CBS News reported.\nOn Thursday morning, International Monetary Fund managing director Kristalina Georgieva expressed concern over how the conflict could affect global oil markets, which are liable to be disrupted by war in the Middle East, where roughly a third of the global oil output is produced.\nWhile the specific area where the conflict is located is not a significant oil-producing region, major disruptions in the global oil markets could come if further conflict arises between the U.S. and Iran, a long-time backer of Hamas operations against Israel. \nEarlier this week the Iranian government denied having any relationship with the Hamas attacks, as Supreme Leader Ayatollah Ali Khamenei said \"We defend Palestine, we defend the fights.\"\u00a0 This denial is contradicted by reports that Iran had a direct role in training Hamas for the latest attack on Israeli civilians, according to The Wall Street Journal.\nWhile Congress is preparing a $2-billion aid package for Israel, several prominent U.S. politicians denounced Iran\u2019s participation in the massacre, proposing a double-down on oil sanctions. \nYet the already fragile relationship between the U.S. and Iran, the world\u2019s eight largest oil producers, could still have an impact ...Full story available on Benzinga.com",
+            "keywords": [
+                "Sector ETFs",
+                "News",
+                "Specialty ETFs",
+                "Markets",
+                "ETFs",
+                "General"
+            ]
+        },
+        {
+            "id": "tf1iVIwvYWzdadvtf_SGGsRSxFVuDVVbsQILeFGwMG4",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "5 Stocks in Focus on Their Recent Dividend Hike",
+            "author": "Nalak Das",
+            "published_utc": "2023-10-12T12:19:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2164802/5-stocks-in-focus-on-their-recent-dividend-hike",
+            "tickers": [
+                "LMT",
+                "MCD",
+                "AOS",
+                "RPM",
+                "OZK"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2164802/5-stocks-in-focus-on-their-recent-dividend-hike",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/20/42816.jpg",
+            "description": "Five stocks to watch for their recent dividend hikes are: OZK, MCD, RPM, LMT, AOS."
+        },
+        {
+            "id": "w3iSKl0nw5wlU4pTEgTIXo-njzLZ0FQrV9pmVuMmUeM",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "McDonald's (MCD) Stock Falls Amid Market Uptick: What Investors Need to Know",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-11T21:45:19Z",
+            "article_url": "https://www.zacks.com/stock/news/2164553/mcdonalds-mcd-stock-falls-amid-market-uptick-what-investors-need-to-know",
+            "tickers": [
+                "MCD"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2164553/mcdonalds-mcd-stock-falls-amid-market-uptick-what-investors-need-to-know",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default23.jpg",
+            "description": "McDonald's (MCD) reachead $250.92 at the closing of the latest trading day, reflecting a -0.24% change compared to its last close."
+        },
+        {
+            "id": "MXEUK5jLPveRAOeCi5tnShQt4J8Dmg6ftOMqKK9LkZ8",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Will Robust Comps Growth Drive Domino's (DPZ) Q3 Earnings?",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-11T12:36:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2164221/will-robust-comps-growth-drive-dominos-dpz-q3-earnings",
+            "tickers": [
+                "SBUX",
+                "MCD",
+                "CMG",
+                "DPZ"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2164221/will-robust-comps-growth-drive-dominos-dpz-q3-earnings",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/00/1348.jpg",
+            "description": "Domino's (DPZ) third-quarter 2023 results are likely to benefit from robust same store sales growth, unit expansion, new menu addition and strong digitalization."
+        },
+        {
+            "id": "CB5FV_zn5Cf84-MCQWYPDIT3p99VqBHfNSMp4xZ6baI",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Amazon and The Estee Lauder have been highlighted as Zacks Bull and Bear of the Day",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-11T12:09:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2164177/amazon-and-the-estee-lauder-have-been-highlighted-as-zacks-bull-and-bear-of-the-day",
+            "tickers": [
+                "AMZN",
+                "MCD",
+                "CMG",
+                "DPZ",
+                "EL"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2164177/amazon-and-the-estee-lauder-have-been-highlighted-as-zacks-bull-and-bear-of-the-day",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/53/49.jpg",
+            "description": "Amazon and The Estee Lauder are part of the Zacks Bull and Bear of the Day article."
+        },
+        {
+            "id": "TJu5QSjlY0P8mOt0Xg0VoLM82CK0iYAEBuLlXGsaxAM",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "\u2018Nursing homes aren't warehouses\u2019: Will new staffing rules improve care? Why critics are pushing back.",
+            "author": "MarketWatch",
+            "published_utc": "2023-10-11T09:02:00Z",
+            "article_url": "https://www.marketwatch.com/story/nursing-homes-arent-warehouses-will-new-staffing-rules-improve-care-why-critics-are-pushing-back-ae2b2649",
+            "tickers": [
+                "WMT",
+                "AMZN",
+                "MCD"
+            ],
+            "image_url": "https://images.mktw.net/im-863570/social",
+            "description": "The Biden administration aims to fix nursing home understaffing to improve care, but many facilities say the price tag of more nurses and aides is too high."
+        },
+        {
+            "id": "4S3N8-PGanEDIsg5tcjRXRI2jtBooapGv7pHk3_-XWo",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Domino's (DPZ) Gears Up for Q3 Earnings: What's in Store?",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-10T15:07:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2163584/dominos-dpz-gears-up-for-q3-earnings-whats-in-store",
+            "tickers": [
+                "SBUX",
+                "MCD",
+                "CMG",
+                "DPZ"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2163584/dominos-dpz-gears-up-for-q3-earnings-whats-in-store",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/00/1348.jpg",
+            "description": "Domino's (DPZ) third-quarter 2023 results are likely to benefit from solid expansion, new menu addition and robust digitalization."
+        },
+        {
+            "id": "_RXVt4n6QHUcvVOMs9DHvqkQDL_D6BqSIZVFEjVHGSQ",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "You Can't Control Dividend Increases, But You Can Control What You Do About Them",
+            "author": "newsfeedback@fool.com (Reuben Gregg Brewer)",
+            "published_utc": "2023-10-10T11:31:00Z",
+            "article_url": "https://www.fool.com/investing/2023/10/10/you-cant-control-dividend-increases-but-you-can-co/",
+            "tickers": [
+                "MCD",
+                "VFC",
+                "UHT",
+                "KTB"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/749947/23_06_19-three-golden-eggs-in-a-basket-made-of-money-_mf-dload.jpg",
+            "description": "Even iconic investor Benjamin Graham suggested that a company's dividend track record provides an important investment shortcut.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "Nf8hkleB-_neyJM3W3x7YW9YpqjCwgl6r1M92HHQ6J0",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "The Zacks Analyst Blog Highlights Tesla, Salesforce, McDonald's, Starbucks and Lockheed Martin",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-10-09T11:37:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2162466/the-zacks-analyst-blog-highlights-tesla-salesforce-mcdonalds-starbucks-and-lockheed-martin",
+            "tickers": [
+                "LMT",
+                "CRM",
+                "SBUX",
+                "MCD",
+                "TSLA"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2162466/the-zacks-analyst-blog-highlights-tesla-salesforce-mcdonalds-starbucks-and-lockheed-martin",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/b9/441.jpg",
+            "description": "Tesla, Salesforce, McDonald's, Starbucks and Lockheed Martin are part of the Zacks top Analyst Blog."
+        },
+        {
+            "id": "_hFHsdWcDdsur7WZK7ivnfsJShGiUe3vqbgIX59wo9c",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "McDonald\u2019s Halloween \u2018Boo Buckets\u2019 are back \u2014 facing off against Burger King\u2019s \u2018Trick or Heat\u2019 plastic pails",
+            "author": "MarketWatch",
+            "published_utc": "2023-10-08T15:43:00Z",
+            "article_url": "https://www.marketwatch.com/story/mcdonalds-halloween-boo-buckets-are-back-facing-off-against-burger-kings-trick-or-heat-plastic-pails-97418f3b",
+            "tickers": [
+                "MCD",
+                "QSR",
+                "SBUX"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/mcdonalds-halloween-boo-buckets-are-back-facing-off-against-burger-kings-trick-or-heat-plastic-pails-97418f3b",
+            "image_url": "https://images.mktw.net/im-864601/social",
+            "description": "McDonald\u2019s plastic trick-or-treat buckets were a seasonal staple for decades, and now Burger King is giving them a run for their money"
+        },
+        {
+            "id": "FltD_BGzZaJBSqsb4yd3_kpNSx0pvJ0jVK6YOEkVdjc",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "1 Dividend Giant to Buy Hand Over Fist While It Trades at a Discount",
+            "author": "newsfeedback@fool.com (Demitri Kalogeropoulos)",
+            "published_utc": "2023-10-08T11:35:00Z",
+            "article_url": "https://www.fool.com/investing/2023/10/08/dividend-giant-buy-hand-over-fist-trade-discount/",
+            "tickers": [
+                "MCD"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/749693/friends-eating-burgers-and-fries-and-have-fun-in-outdoor-restaurant.jpg",
+            "description": "Sales are rising at an impressive clip, and profit margins are near record highs.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "o3eGIF49zPVhYIKlm1Fm2u5nZE3Npfzrlw406a241J4",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Why McDonald's is bringing back its McRib for the umpteenth time",
+            "author": "MarketWatch",
+            "published_utc": "2023-10-07T18:55:00Z",
+            "article_url": "https://www.marketwatch.com/story/why-mcdonalds-is-bringing-back-its-mcrib-for-the-umpteenth-time-3f9c8900",
+            "tickers": [
+                "MCD"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/why-mcdonalds-is-bringing-back-its-mcrib-for-the-umpteenth-time-3f9c8900",
+            "image_url": "https://images.mktw.net/im-252322/horizontal",
+            "description": "It's all about scarcity marketing \u2014 so get it while you can."
+        },
+        {
+            "id": "Jvmg_BlQJjTPZ8OuC8GLSfQ2y5HC7sXa8Dj9RRebmX0",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "I\u2019m 67 and retired with $2 million after investing in McDonald's and Facebook \u2014 but now I think I should \u2018park my money.\u2019 What should I do?\u00a0",
+            "author": "MarketWatch",
+            "published_utc": "2023-10-07T14:20:00Z",
+            "article_url": "https://www.marketwatch.com/story/im-67-and-retired-with-2-million-after-investing-in-mcdonalds-and-facebook-but-now-i-think-i-should-park-my-money-what-should-i-do-ae8f0c4e",
+            "tickers": [
+                "MCD",
+                "WMT",
+                "CVX",
+                "AMZN",
+                "TSLA",
+                "META"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/im-67-and-retired-with-2-million-after-investing-in-mcdonalds-and-facebook-but-now-i-think-i-should-park-my-money-what-should-i-do-ae8f0c4e",
+            "image_url": "https://images.mktw.net/im-862710/social",
+            "description": "Have a question about your own retirement savings? Email us at HelpMeRetire@marketwatch.com"
+        },
+        {
+            "id": "AtlmKqLu-7yJJJV0TRnNUYBqDxNQDnPdb_IYt9wntWQ",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "3 Stocks to Hold for the Next 20 Years",
+            "author": "newsfeedback@fool.com (Jake Lerch)",
+            "published_utc": "2023-10-07T12:45:00Z",
+            "article_url": "https://www.fool.com/investing/2023/10/07/3-stocks-to-hold-for-the-next-20-years/",
+            "tickers": [
+                "MCD",
+                "AMZN",
+                "SHOP"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/745833/mcd-mcdonalds-investing-money-stock-market.jpg",
+            "description": "Don't let these three superb stocks fall through the cracks.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "k-j0XG7k4HRvyYOCRspDVd6ZQ4duKpWt7djUaQwXL-w",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Top Analyst Reports for Tesla, Salesforce & McDonald's",
+            "author": "Mark Vickery",
+            "published_utc": "2023-10-06T20:44:00Z",
+            "article_url": "https://www.zacks.com/research-daily/2161411/top-analyst-reports-for-tesla-salesforce-mcdonalds",
+            "tickers": [
+                "LMT",
+                "CRM",
+                "SLB",
+                "SBUX",
+                "MCD",
+                "TSLA"
+            ],
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/fc/583.jpg",
+            "description": "Today's Research Daily features new research reports on 16 major stocks, including Tesla, Inc. (TSLA), Salesforce, Inc. (CRM) and McDonald's Corporation (MCD)."
+        }
+    ],
+    "status": "OK",
+    "request_id": "2b232dfba4f75ef66238acc0023196f2",
+    "count": 100,
+    "next_url": "https://api.polygon.io/v2/reference/news?cursor=YXA9MjAyMy0xMC0wNlQyMCUzQTQ0JTNBMDBaJmFzPWstajBYRzdrNEhSdnlZT0NSc3BEVmQ2WlE0ZHVLcFd0N2RqVWFRd1hMLXcmbGltaXQ9MTAwJm9yZGVyPWRlc2NlbmRpbmcmdGlja2VyPU1DRA"
+}

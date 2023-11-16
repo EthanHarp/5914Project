@@ -1,0 +1,2783 @@
+{
+    "results": [
+        {
+            "id": "isQOu68sqnklQgb5Y5oTEjeSOpeAtIfmMNFuYMSOhCE",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "10 \u2018better values\u2019 in the stock market, selected for the next two years",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-16T17:49:00Z",
+            "article_url": "https://www.marketwatch.com/story/10-better-values-in-the-stock-market-selected-for-the-next-two-years-5b9bc809",
+            "tickers": [
+                "DJIA",
+                "FI",
+                "ALL",
+                "HOLX",
+                "DT",
+                "ALGN",
+                "FIVE",
+                "CHWY",
+                "DV",
+                "NOVT",
+                "FUSN",
+                "META",
+                "NFLX",
+                "PNT",
+                "LLY"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/10-better-values-in-the-stock-market-selected-for-the-next-two-years-5b9bc809",
+            "image_url": "https://images.mktw.net/im-33766063/social",
+            "description": "William Blair's list of favored stocks for the next 24 months includes Five Below, Chewy and Allstate."
+        },
+        {
+            "id": "CR0FrwpCr0r7v72lqMP270_aX0B56NGeuoyubQBtd2U",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Tech Turns Hot, ETFs Touch New 52-Week Highs",
+            "author": "Sweta Killa",
+            "published_utc": "2023-11-16T17:05:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2185539/tech-turns-hot-etfs-touch-new-52-week-highs",
+            "tickers": [
+                "AMZN",
+                "MSFT",
+                "NVDA",
+                "SMH",
+                "IYW",
+                "IGM",
+                "XNTK",
+                "META",
+                "TRFK"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2185539/tech-turns-hot-etfs-touch-new-52-week-highs",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/18/20877.jpg",
+            "description": "The technology sector is back in the groove and dominating the stock market rally once again since the start of November."
+        },
+        {
+            "id": "X7BfxaC9etyhTFn-_FY1D8XiojdY0jgGhrWRks40K-M",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Weekly Jobless Claims Highest in 2 Years",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-16T16:13:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2185453/weekly-jobless-claims-highest-in-2-years",
+            "tickers": [
+                "MSFT",
+                "M",
+                "WMT",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2185453/weekly-jobless-claims-highest-in-2-years",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/95/3741.jpg",
+            "description": "Weekly Jobless Claims Highest in 2 Years."
+        },
+        {
+            "id": "1mCUvIn2-NZKs8DC73FRcv1XwYCN6iZgMEVBASdsa3Y",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Long-Term Jobless Claims Highest in 2 Years; Walmart Meets, Macy's Beats",
+            "author": "Mark Vickery",
+            "published_utc": "2023-11-16T15:46:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2185434/long-term-jobless-claims-highest-in-2-years-walmart-meets-macys-beats",
+            "tickers": [
+                "MSFT",
+                "M",
+                "WMT",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2185434/long-term-jobless-claims-highest-in-2-years-walmart-meets-macys-beats",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/be/24164.jpg",
+            "description": "Continuing Claims rose for the eighth-straight week, to 1.865 million from a slight downward revision."
+        },
+        {
+            "id": "onY1yq4ug_PrnH8pkvT08PN0Q8Ha49sMekWPHAShyVU",
+            "publisher": {
+                "name": "Investing.com",
+                "homepage_url": "https://www.investing.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+            },
+            "title": "Nvidia Earnings: Chipmaker Faces Daunting Q3 Challenge Amid Sky-High Expectations",
+            "author": "Investing.com",
+            "published_utc": "2023-11-16T12:07:00Z",
+            "article_url": "https://www.investing.com/analysis/nvidia-earnings-chipmaker-faces-daunting-q3-challenge-amid-skyhigh-expectations-200643655",
+            "tickers": [
+                "NVDA",
+                "GOOGL",
+                "AMZN",
+                "META",
+                "BABA",
+                "BIDU",
+                "AMD",
+                "INTC"
+            ],
+            "amp_url": "https://m.investing.com/analysis/nvidia-earnings-chipmaker-faces-daunting-q3-challenge-amid-skyhigh-expectations-200643655?ampMode=1",
+            "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg"
+        },
+        {
+            "id": "gDaGSjw6UI0dxuBEmddjLU3K-RHC_Uo-OQt4W3W6W20",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "The Trade Desk: Down 31%, Buy the Dip?",
+            "author": "newsfeedback@fool.com (Jason Hall and Jeff Santoro)",
+            "published_utc": "2023-11-16T11:02:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/16/the-trade-desk-down-31-buy-the-dip/",
+            "tickers": [
+                "TTD",
+                "META",
+                "GOOGL",
+                "GOOG"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754977/rubbing-hands-together.jpg",
+            "description": "Slowing growth rates have the market in a selling mood.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "qQhRJD147WbOIaeNToA9JNn9FG6i80Ny2Q-yZxvpAJA",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Construction Partners and Dorman Products have been highlighted as Zacks Bull and Bear of the Day",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-16T11:00:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2185047/construction-partners-and-dorman-products-have-been-highlighted-as-zacks-bull-and-bear-of-the-day",
+            "tickers": [
+                "MSFT",
+                "GIII",
+                "DORM",
+                "ROAD",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2185047/construction-partners-and-dorman-products-have-been-highlighted-as-zacks-bull-and-bear-of-the-day",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/7a/9852.jpg",
+            "description": "Construction Partners and Dorman Products have been highlighted as Zacks Bull and Bear of the Day."
+        },
+        {
+            "id": "KOTyCrCK88pz8h0bXtUMboKFDZjhLQFY4NpR-RWLCbk",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "The Grinch may steal holiday cheer from these consumer tech companies",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-15T21:25:00Z",
+            "article_url": "https://www.marketwatch.com/story/the-grinch-may-steal-holiday-cheer-from-these-consumer-tech-companies-5208f26e",
+            "tickers": [
+                "AAPL",
+                "ETSY",
+                "ABNB",
+                "EBAY",
+                "AMZN",
+                "MA",
+                "META",
+                "SNAP",
+                "HD",
+                "TSLA"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/the-grinch-may-steal-holiday-cheer-from-these-consumer-tech-companies-5208f26e",
+            "image_url": "https://images.mktw.net/im-886967/social",
+            "description": "The Grinch is expected to steal some holiday cheer for several consumer-focused tech companies, in what is normally their strongest quarter."
+        },
+        {
+            "id": "NTHeCrlX2m_LMROKG03h-BVlxmMOH1c01VfmeevmJww",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Here is Why Growth Investors Should Buy Meta Platforms (META) Now",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-15T17:45:06Z",
+            "article_url": "https://www.zacks.com/stock/news/2184848/here-is-why-growth-investors-should-buy-meta-platforms-meta-now",
+            "tickers": [
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2184848/here-is-why-growth-investors-should-buy-meta-platforms-meta-now",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default32.jpg",
+            "description": "Meta Platforms (META) possesses solid growth attributes, which could help it handily outperform the market."
+        },
+        {
+            "id": "r2EdetzJtm6oI4Xg1c8kjLnpmtyVpwW1DxfJlL424MQ",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Stocks Inch Higher On Soft PPI, 'Magnificent 7' Retest 2021 Record Highs: What's Driving Markets Wednesday?",
+            "author": "Shanthi Rexaline",
+            "published_utc": "2023-11-15T17:34:42Z",
+            "article_url": "https://www.benzinga.com/news/earnings/23/11/35800999/us-stocks-on-track-to-build-on-gains-as-traders-await-a-batch-of-data-can-market-resist-profit-taki",
+            "tickers": [
+                "GOOG",
+                "JJSF",
+                "DIA",
+                "KLIC",
+                "FEZ",
+                "MSFT",
+                "FXE",
+                "NVDA",
+                "GLD",
+                "SONO",
+                "SLV",
+                "AAP",
+                "SPY",
+                "ALC",
+                "TLT",
+                "TGT",
+                "USO",
+                "TJX",
+                "TSLA",
+                "UUP",
+                "QQQ",
+                "XLB",
+                "GOOGL",
+                "XLU",
+                "CTLT",
+                "AAPL",
+                "JD",
+                "AMZN",
+                "META",
+                "CSCO"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35800999",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/Wall-Street_0.jpeg?width=1200&height=800&fit=crop",
+            "description": "U.S. stocks trended higher on Wednesday, extending gains in a week marked by two soft inflation reports.  \nAfter a surprisingly sharp drop in the Consumer Price Index on Tuesday, a similar trend emerged on Wednesday with the Producer Price Index also declining more than anticipated. \nOctober retail sales data revealed a modest 0.1% decrease for the month, which was more favorable than the projected 0.3% fall.\nTraders are nearly fully factoring in the likelihood of the Federal Reserve maintaining steady interest rates in December while anticipating four rate reductions next year.\nThese adjusted expectations for interest rates have sparked an upsurge in major tech stocks. \nThe \u201cMagnificent Seven\u201d group, featuring prominent tech giants like Apple Inc. (NASDAQ:AAPL), Microsoft Corp. (NASDAQ:MSFT), Alphabet Inc. (NASDAQ:GOOG) (NASDAQ:GOOGL), Amazon Inc. (NASDAQ:AMZN), Meta Platforms Inc. (NASDAQ:META), NVIDIA Corp. (NASDAQ:NVDA) and Tesla, Inc. (NASDAQ:TSLA), is now revisiting peak levels last observed toward the end of 2021.\nOn a positive note, the House has approved a temporary spending bill that extends government funding through mid-January.\nChart Of The Day: \u2018Magnificent 7\u2019 Tech Giants Revisit Record Peaks \n\nCues From Wednesday\u2019s ...Full story available on Benzinga.com",
+            "keywords": [
+                "Cryptocurrency",
+                "Macro Economic Events",
+                "Sector ETFs",
+                "News",
+                "Earnings",
+                "Equities",
+                "Broad U.S. Equity ETFs",
+                "Emerging Market ETFs",
+                "Currency ETFs",
+                "Top Stories",
+                "Economics",
+                "Federal Reserve",
+                "Markets",
+                "Movers",
+                "Tech",
+                "Trading Ideas",
+                "ETFs"
+            ]
+        },
+        {
+            "id": "OAXShEqTVusiz2aRxKQ60BKSwDWCL0H3z26RrNI2PDY",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Wholesale Inflation Lower Than Expected But Retail Sales Data Creates A Rethink In The Stock Market",
+            "author": "The Arora Report",
+            "published_utc": "2023-11-15T15:37:34Z",
+            "article_url": "https://www.benzinga.com/markets/23/11/35807623/wholesale-inflation-lower-than-expected-but-retail-sales-data-creates-a-rethink-in-the-stock-market",
+            "tickers": [
+                "GLD",
+                "SLV",
+                "SPY",
+                "USO",
+                "AMZN",
+                "GOOG",
+                "MSFT",
+                "NVDA",
+                "TGT",
+                "TJX",
+                "AAPL",
+                "TSLA",
+                "QQQ",
+                "META"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35807623",
+            "image_url": "https://cdn.benzinga.com/files/yiorgos-ntrahas-mcauhlgirvs-unsplash_8_9.jpg?width=1200&height=800&fit=crop",
+            "description": "To gain an edge, this is what you need to know today.\n\nNew Important Economic Data\nPlease\u00a0click here\u00a0for a chart of SPDR S&P 500 ETF Trust (ARCA:SPY) which represents the benchmark stock market index S&P 500 (SPX).\nNote the following:\n\nThe chart shows the gap up yesterday and the follow up rally on better than expected Consumer Price Index (CPI).\nThe chart shows the mini resistance zone that is the next magnet.\nRSI on the chart shows that the stock market is very overbought in the short term.\u00a0However, this is common when market mechanics of positioning and year end chase take over.\u00a0Market mechanics are very powerful.\u00a0About two thirds of the stock market rise this year is due to market mechanics.\u00a0Wall Street professionals closely guard the details of market mechanics because of their very high value.\u00a0For those who want to take their investing to the next level, there are several podcasts on market mechanics in\u00a0Arora Ambassador Club.\nThe chart shows that the stock market was running up earlier this morning prior to the release of important economic data on follow through momentum from yesterday.\nThere is more good news on inflation from the Producer Price Index (PPI).\u00a0Here are the details:\n\nHeadline PPI came at -0.5% vs. 0.1% consensus.\u00a0This is the biggest decline since April 2020.\nCore PPI came at 0.0% vs. 0.3% consensus.\n\n\nFor a split second, futures rose on better than expected PPI, but then the data on retail sales gave investors pause.\nHere are the details of retail sales data:\n\nHeadline retail sales came -0.1% vs. -0.3% consensus.\nRetail sales ex-auto came at 0.1% vs. -0.2% consensus.\n\n\nIn The Arora Report analysis, even though retail sales are better than the consensus, they are worse than the whisper numbers that were floating around yesterday.\u00a0\u00a0\nFurther in The Arora Report analysis, retail sales data shows that the consumer buying binge is beginning to slow down.\u00a0We projected months ago that consumer liquidity will start tightening up beginning in late October.\u00a0The just released data shows the Arora call was spot on.\u00a0Even though consumer liquidity is starting to tighten, the consumer still has significant liquidity to continue ...Full story available on Benzinga.com",
+            "keywords": [
+                "Cryptocurrency",
+                "Economics",
+                "Markets",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "X_LHFs4WLKZAgZL7XyDb2sR77eenA2Qog6ir3_yoyRE",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Wall Street Analysts Think Meta Platforms (META) Is a Good Investment: Is It?",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-15T14:30:06Z",
+            "article_url": "https://www.zacks.com/stock/news/2184594/wall-street-analysts-think-meta-platforms-meta-is-a-good-investment-is-it",
+            "tickers": [
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2184594/wall-street-analysts-think-meta-platforms-meta-is-a-good-investment-is-it",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default8.jpg",
+            "description": "Based on the average brokerage recommendation (ABR), Meta Platforms (META) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?"
+        },
+        {
+            "id": "1qocGt5biVjHYSav9WqcKQMbqckuUk3Yx893XqKhg9g",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "The Zacks Analyst Blog Highlights Meta Platforms, Walmart, Pfizer, Intel and Ecolab",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-15T13:52:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2184501/the-zacks-analyst-blog-highlights-meta-platforms-walmart-pfizer-intel-and-ecolab",
+            "tickers": [
+                "INTC",
+                "ECL",
+                "PFE",
+                "WMT",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2184501/the-zacks-analyst-blog-highlights-meta-platforms-walmart-pfizer-intel-and-ecolab",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/7f/24302.jpg",
+            "description": "The Zacks Analyst Blog Highlights Meta Platforms, Walmart, Pfizer, Intel and Ecolab"
+        },
+        {
+            "id": "CvA5ZM4MFhNZlYA8Mcb-7gWHCx6DIWDjBgdiRxOQqTM",
+            "publisher": {
+                "name": "Seeking Alpha",
+                "homepage_url": "https://seekingalpha.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/seekingalpha.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/seekingalpha.ico"
+            },
+            "title": "A Massive Market Reversal Is Likely Coming",
+            "author": "High Yield Investor",
+            "published_utc": "2023-11-15T13:05:00Z",
+            "article_url": "https://seekingalpha.com/article/4651967-massive-market-reversal-coming",
+            "tickers": [
+                "AAPL",
+                "AMZN",
+                "AQN",
+                "AQNB",
+                "AQNU",
+                "BEP",
+                "BEPC",
+                "BIP",
+                "BIPC",
+                "BND",
+                "CCI",
+                "EPD",
+                "ET",
+                "GOOG",
+                "GOOGL",
+                "IWM",
+                "META",
+                "MSFT",
+                "NVDA",
+                "O",
+                "PLTR",
+                "QQQ",
+                "SCHD",
+                "SPY",
+                "TSLA",
+                "VNQ",
+                "VOO",
+                "VYM",
+                "XLU",
+                "ACTV",
+                "AFMC",
+                "AFSM",
+                "ARKK",
+                "AVUV",
+                "BAPR",
+                "IVOO",
+                "IVOV",
+                "IVV",
+                "IVW",
+                "IWC",
+                "IWN",
+                "IWO",
+                "IWP",
+                "IWR",
+                "IWS",
+                "IYY",
+                "SPLV",
+                "SPMD",
+                "SPMO",
+                "SPMV",
+                "SPSM",
+                "SPUS",
+                "SPUU",
+                "SPVM",
+                "SPVU",
+                "SPXE",
+                "SPXL",
+                "SPXN",
+                "SPXS",
+                "SPXT",
+                "SPXU",
+                "SPXV",
+                "SPYD",
+                "SPYG",
+                "SPYV",
+                "SPYX",
+                "SQEW",
+                "SQLV",
+                "SSLY",
+                "SSO",
+                "SSPY",
+                "SVAL",
+                "SYLD",
+                "TMDV",
+                "TPHD",
+                "TPLC",
+                "TPSC",
+                "UAUG",
+                "UJAN",
+                "UMAR",
+                "UMAY",
+                "UOCT",
+                "UPRO",
+                "USMC",
+                "USMF",
+                "USVM"
+            ],
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/888779364/image_888779364.jpg?io=getty-c-w1536",
+            "description": "Tech has flown high year-to-date, while several other sectors have been left in the dust. Learn why major economic trends are shifting."
+        },
+        {
+            "id": "lCUE_pctMpGc4IyOIstspzLWFSc22QTmBoeOp_Jfao0",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "How much thematic exposure do stock-market investors have? Here\u2019s what BlackRock found.",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-15T13:01:00Z",
+            "article_url": "https://www.marketwatch.com/story/how-much-thematic-exposure-do-stock-market-investors-have-heres-what-blackrock-found-f469bb9b",
+            "tickers": [
+                "MSFT",
+                "AMZN",
+                "META",
+                "AAPL",
+                "GOOGL",
+                "NVDA",
+                "TSLA",
+                "SOXX",
+                "IRBO",
+                "IHAK",
+                "EWW",
+                "INDA",
+                "BMED",
+                "IBB",
+                "IBRN"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/how-much-thematic-exposure-do-stock-market-investors-have-heres-what-blackrock-found-f469bb9b",
+            "image_url": "https://images.mktw.net/im-259548/social",
+            "description": "The dominant \u201cMagnificent Seven\u201d stocks in S&P 500 may have some investors expecting that they\u2019re \u201cwell exposed\u201d to thematic growth in their portfolios, but that might not be the case, according to BlackRock."
+        },
+        {
+            "id": "37w4OqBHUz0q9Bltm7JdPEWTP584hYu55Hjjtuu4ysA",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "3 Big Winners on Signs of Inflation Cooling Down",
+            "author": "Tirthankar Chakraborty",
+            "published_utc": "2023-11-15T12:59:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2184442/3-big-winners-on-signs-of-inflation-cooling-down",
+            "tickers": [
+                "MSFT",
+                "GIII",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2184442/3-big-winners-on-signs-of-inflation-cooling-down",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/cc/12495.jpg",
+            "description": "Microsoft (MSFT), Meta Platforms (META) and GIII Apparel Group (GIII) are most likely to make the most of less inflationary pressure at the moment."
+        },
+        {
+            "id": "WaC5GgINnmlv_5hB63aJTcP-nwJdlvabiYljM6ubjQY",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "SNAP Shares Rise 8% on Deal to Sell Amazon Products on App",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-15T12:58:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2184436/snap-shares-rise-8-on-deal-to-sell-amazon-products-on-app",
+            "tickers": [
+                "AMZN",
+                "SNAP",
+                "PINS",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2184436/snap-shares-rise-8-on-deal-to-sell-amazon-products-on-app",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/f8/30109.jpg",
+            "description": "SNAP enters into a deal with Amazon, which allows Snapchat users in the United States to buy products from the online retailer without leaving the app."
+        },
+        {
+            "id": "QcPW1fDbn4akAU4ObInA3qMRhMBbAghGn_DDZjYLWQg",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Got $1,000? Here Are 4 Artificial Intelligence Stocks to Buy Hand Over Fist, to Help You Retire a Millionaire.",
+            "author": "newsfeedback@fool.com (Adam Spatacco)",
+            "published_utc": "2023-11-15T12:50:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/15/got-1000-here-are-4-artificial-intelligence-stocks/",
+            "tickers": [
+                "MSFT",
+                "GOOGL",
+                "AMZN",
+                "META",
+                "AAPL",
+                "TSLA",
+                "NVDA",
+                "GOOG",
+                "PINS"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753062/social-media-scrolling-on-phone-networking.jpg",
+            "description": "These four members of the \"Magnificent Seven\" could help you retire a millionaire.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "23oXC7HraYla39H92Jwt3c8niUhimfe8y52zRCCWdCM",
+            "publisher": {
+                "name": "Investing.com",
+                "homepage_url": "https://www.investing.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+            },
+            "title": "3 Tech Stocks to Buy as Fed Pivot Odds Soar on Peak Inflation Bets",
+            "author": "Investing.com",
+            "published_utc": "2023-11-15T11:14:00Z",
+            "article_url": "https://www.investing.com/analysis/3-tech-stocks-to-buy-as-fed-pivot-odds-soar-on-peak-inflation-bets-200643620",
+            "tickers": [
+                "NVDA",
+                "META",
+                "TSLA",
+                "AMZN",
+                "MSFT",
+                "GOOGL",
+                "AAPL",
+                "DKNG",
+                "CRWD",
+                "DDOG",
+                "XLK"
+            ],
+            "amp_url": "https://m.investing.com/analysis/3-tech-stocks-to-buy-as-fed-pivot-odds-soar-on-peak-inflation-bets-200643620?ampMode=1",
+            "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg"
+        },
+        {
+            "id": "yhUwN5131K2J9GrSZqN-SmAzZfMeq1uEsQJBO-aFEu0",
+            "publisher": {
+                "name": "Seeking Alpha",
+                "homepage_url": "https://seekingalpha.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/seekingalpha.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/seekingalpha.ico"
+            },
+            "title": "Meta Platforms: A Great Business At A Very Rich Price",
+            "author": "Douglas McKenny",
+            "published_utc": "2023-11-15T05:36:16Z",
+            "article_url": "https://seekingalpha.com/article/4651911-meta-platforms-stock-great-business-very-rich-price",
+            "tickers": [
+                "META"
+            ],
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1349937125/image_1349937125.jpg?io=getty-c-w1536",
+            "description": "Meta Platforms has shown phenomenal growth and its business model of connecting people and businesses is still strong. Find out why META stock is a Buy."
+        },
+        {
+            "id": "zETC7lYEIkZsjs3Ia6eCwJbbI7g2WUC_ECo52CXbeSo",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Amazon\u2019s stock reaches a milestone not seen in 19 months",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-15T03:07:00Z",
+            "article_url": "https://www.marketwatch.com/story/amazons-stock-is-about-to-reach-a-milestone-not-seen-in-19-months-39cab221",
+            "tickers": [
+                "AMZN",
+                "COMP",
+                "SNAP",
+                "META",
+                "PINS"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/amazons-stock-is-about-to-reach-a-milestone-not-seen-in-19-months-39cab221",
+            "image_url": "https://images.mktw.net/im-271335/social",
+            "description": "The e-commerce company closes with a valuation above $1.5 trillion for the first time since April 2022"
+        },
+        {
+            "id": "4_3mqTJodrx3n0QA7Gh7Qps2hEO_F5O8g2A4aahumXg",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Tepper\u2019s Appaloosa dumps Apple stake and loads up on Amazon\u2019s stock",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-14T22:02:00Z",
+            "article_url": "https://www.marketwatch.com/story/teppers-appaloosa-dumps-apple-stake-and-loads-up-on-amazons-stock-231d95b5",
+            "tickers": [
+                "AMZN",
+                "GOOGL",
+                "META",
+                "MSFT",
+                "CZR",
+                "AAPL",
+                "AVGO",
+                "AMD",
+                "BABA",
+                "QCOM",
+                "TSM",
+                "INTC",
+                "UBER",
+                "MU",
+                "NVDA",
+                "FDX",
+                "UNH"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/teppers-appaloosa-dumps-apple-stake-and-loads-up-on-amazons-stock-231d95b5",
+            "image_url": "https://images.mktw.net/im-539864/social",
+            "description": "David Tepper\u2019s Appaloosa hedge fund raised its stake in Amazon and dropped its stake in Apple, according to a filing with the Securities and Exchange Commission late Tuesday."
+        },
+        {
+            "id": "R15BsgOnztlCWsnOmxCQaF2_EqEhXy9Xjm-Vai17Rmk",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "The Magnificent Seven add more than $200 billion to their market caps",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-14T21:45:00Z",
+            "article_url": "https://www.marketwatch.com/story/the-magnificent-seven-add-more-than-200-billion-to-their-market-caps-0d55369b",
+            "tickers": [
+                "GOOGL",
+                "GOOG",
+                "AMZN",
+                "AAPL",
+                "META",
+                "MSFT",
+                "NVDA",
+                "TSLA"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/the-magnificent-seven-add-more-than-200-billion-to-their-market-caps-0d55369b",
+            "image_url": "https://images.mktw.net/im-886882/social",
+            "description": "It was a magnificent day for the stock market Tuesday, highlighted by a strong performance by the Magnificent Seven technology giants, led by Tesla and Apple shares."
+        },
+        {
+            "id": "GRgNv71MH7vGACKV7PAbRcEs5YbkRoicgFp4Q5y40QI",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Why Artificial Intelligence (AI) Stocks Alphabet, Meta Platforms, Amazon, and Others Rallied Tuesday Morning",
+            "author": "newsfeedback@fool.com (Danny Vena)",
+            "published_utc": "2023-11-14T19:02:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/14/why-artificial-intelligence-ai-stocks-alphabet-met/",
+            "tickers": [
+                "AMZN",
+                "GOOGL",
+                "META",
+                "GOOG",
+                "AI"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/755095/the-letters-ai-superimposed-over-a-circuit-board.jpg",
+            "description": "While Wall Street was upbeat about the improving economic landscape, a collaboration in the AI space provided additional momentum.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "IuAwbvygJx_saCypsQ_dVt6nP3HY0KWUKzAzipNLUw4",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Technology stocks hit record high as Nasdaq looks to exit correction territory",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-14T18:08:00Z",
+            "article_url": "https://www.marketwatch.com/story/technology-stocks-hit-record-high-as-nasdaq-looks-to-exit-correction-territory-e29f7596",
+            "tickers": [
+                "XLK",
+                "NVDA",
+                "MSFT",
+                "AAPL",
+                "META",
+                "GOOG",
+                "GOOGL",
+                "AMZN",
+                "TSLA",
+                "COMP"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/technology-stocks-hit-record-high-as-nasdaq-looks-to-exit-correction-territory-e29f7596",
+            "image_url": "https://images.mktw.net/im-886787/social",
+            "description": "Technology stocks hit record high as Nasdaq looks to exit correction territory"
+        },
+        {
+            "id": "eCS1smFxMFrSBUoPDGv1SScJ9P7Tz0SwFcNM-sF6TWE",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Deploy Cash And Reduce Hedges \u2013 Inflation Below Expectations",
+            "author": "The Arora Report",
+            "published_utc": "2023-11-14T16:41:08Z",
+            "article_url": "https://www.benzinga.com/economics/23/11/35782133/deploy-cash-and-reduce-hedges-inflation-below-expectations",
+            "tickers": [
+                "GLD",
+                "SLV",
+                "USO",
+                "AMZN",
+                "GOOG",
+                "MSFT",
+                "NVDA",
+                "HD",
+                "AAPL",
+                "TSLA",
+                "QQQ",
+                "META"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35782133",
+            "image_url": "https://cdn.benzinga.com/files/regularguy-eth-w9codxtsfts-unsplash_15.jpg?width=1200&height=800&fit=crop",
+            "description": "To gain an edge, this is what you need to know today.\n\nDeploy Cash And Reduce Hedges\nThe trigger for the call to deploy cash and\u00a0reduce\u00a0hedges is two-fold:\n\nMarket mechanics of year end chase.\u00a0This market mechanic results in money managers aggressively buying stocks even if their opinion of the stock market is bearish.\nLower than expected CPI.\n\nPlease scroll down to the Protection Band And What To Do Now section for the changes.\u00a0The changes should be made in small tranches, especially if the stock market pulls back after this morning\u2019s spike up.\nCPI\nPlease\u00a0click here\u00a0for a chart of SPDR S&P 500 ETF Trust (ARCA:SPY) which represents the benchmark stock market index S&P 500 (SPX).\nNote the following:\n\nThe chart shows that the stock market is ripping higher this morning on better than expected CPI.\nThe chart shows that the next target is the mini resistance zone.\nThe chart shows when hedges were reduced previously.\u00a0The prior call was to deploy more cash.\u00a0Now, there is a new call to deploy more cash and\u00a0reduce\u00a0hedges further.\nRSI on the chart shows that the market is overbought.\u00a0If the market pulls back due to overbought conditions, the pullback should be used to deploy more cash and\u00a0reduce\u00a0hedges.\nCPI came better than expected.\u00a0Here are the details:\n\nHeadline CPI came at 0.0% vs. 0.1% consensus.\nCore CPI came at 0.2% vs. 0.3% consensus.\n\n\nHome Depot Inc (NYSE: HD) earnings have broader implications.\u00a0Home Depot is also in the Dow Jones Industrial Average (ARCA: DJIA).\u00a0Home Depot reported earnings slightly better than the consensus.\u00a0Prudent investors should note that Home Depot expects fiscal year earnings to be down 9% - 11% and same store ...Full story available on Benzinga.com",
+            "keywords": [
+                "News",
+                "Earnings",
+                "Cryptocurrency",
+                "Economics",
+                "Markets",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "N_rvS9sO9VwDXXGov23neYF6I0RoUcFDCsSQl5C5Qxs",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Top Analyst Reports for Meta Platforms, Walmart & Pfizer",
+            "author": "Sheraz Mian",
+            "published_utc": "2023-11-14T16:33:00Z",
+            "article_url": "https://www.zacks.com/research-daily/2183837/top-analyst-reports-for-meta-platforms-walmart-pfizer",
+            "tickers": [
+                "INTC",
+                "ECL",
+                "PFE",
+                "WMT",
+                "EPD",
+                "META"
+            ],
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default158.jpg",
+            "description": "Today's Research Daily features new research reports on 16 major stocks, including Meta Platforms, Inc. (META), Walmart Inc. (WMT) and Pfizer Inc. (PFE)."
+        },
+        {
+            "id": "bl1-vxCUY8QA6cTaQub1JFFS-S7F3lvrzFovaVY2d_U",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Autodesk (ADSK) AI to Transform Design and Make Industries",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-14T15:43:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2184088/autodesk-adsk-ai-to-transform-design-and-make-industries",
+            "tickers": [
+                "MSFT",
+                "ADSK",
+                "ADBE",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2184088/autodesk-adsk-ai-to-transform-design-and-make-industries",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/75/44765.jpg",
+            "description": "Autodesk (ADSK) introduces Autodesk AI to empower users with enhanced creativity, efficiency and problem-solving capabilities across various industries."
+        },
+        {
+            "id": "6Cn6lcC9pN71djuRm9Ue8JYnos8n3sFiLhEVzlS58oQ",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Amazon (AMZN) Boosts Reach to Snap Users With Latest Deal",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-14T14:41:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2183970/amazon-amzn-boosts-reach-to-snap-users-with-latest-deal",
+            "tickers": [
+                "AMZN",
+                "SHOP",
+                "SNAP",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2183970/amazon-amzn-boosts-reach-to-snap-users-with-latest-deal",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/14/776.jpg",
+            "description": "Amazon (AMZN) collaborates with Snap to enable Snapchat users to make product purchases directly through promotions."
+        },
+        {
+            "id": "m6VRGsWgECK5lb_qVsZ4N7SepjQ9xDhApkapVNxl07w",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Meta Platforms, Inc. (META) Hits Fresh High: Is There Still Room to Run?",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-14T14:15:03Z",
+            "article_url": "https://www.zacks.com/stock/news/2183911/meta-platforms-inc-meta-hits-fresh-high-is-there-still-room-to-run",
+            "tickers": [
+                "META",
+                "EGHT"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2183911/meta-platforms-inc-meta-hits-fresh-high-is-there-still-room-to-run",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default15.jpg",
+            "description": "Meta Platforms (META) is at a 52-week high, but can investors hope for more gains in the future? We take a look at the company's fundamentals for clues."
+        },
+        {
+            "id": "3sALix9tanUA4NF9W9YNQfv2NsbBXRHh5V5qaHR9Yg4",
+            "publisher": {
+                "name": "Seeking Alpha",
+                "homepage_url": "https://seekingalpha.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/seekingalpha.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/seekingalpha.ico"
+            },
+            "title": "Tracking Ken Fisher's Fisher Asset Management Portfolio - Q3 2023 Update",
+            "author": "John Vincent",
+            "published_utc": "2023-11-14T06:43:47Z",
+            "article_url": "https://seekingalpha.com/article/4651436-tracking-ken-fishers-fisher-asset-management-portfolio-q3-2023-update",
+            "tickers": [
+                "AAPL",
+                "ADBE",
+                "AMD",
+                "AMZN",
+                "ASML",
+                "AXP",
+                "CRM",
+                "GOOG",
+                "GOOGL",
+                "HD",
+                "META",
+                "MSFT",
+                "NFLX",
+                "SCHW",
+                "TSM",
+                "V",
+                "NVDA",
+                "LLY"
+            ],
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+            "description": "Fisher's 13F portfolio value decreased by about 3% this quarter. Read more to see the portfolio's full Q3 2023 update."
+        },
+        {
+            "id": "FCYkczkIRvXm9xTN49qqHgtFRNCuc9eiFxPCiQY1Dow",
+            "publisher": {
+                "name": "Seeking Alpha",
+                "homepage_url": "https://seekingalpha.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/seekingalpha.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/seekingalpha.ico"
+            },
+            "title": "The Trade Desk: Cathie Wood Pounces On Earnings Fall",
+            "author": "Bill Maurer",
+            "published_utc": "2023-11-14T05:55:53Z",
+            "article_url": "https://seekingalpha.com/article/4651427-the-trade-desk-cathie-wood-pounces-on-earnings-fall",
+            "tickers": [
+                "ARKK",
+                "ARKW",
+                "GOOGL",
+                "META",
+                "TTD"
+            ],
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1455038781/image_1455038781.jpg?io=getty-c-w1536",
+            "description": "Shares of The Trade Desk tumbled after the company's Q3 report. Click here to see why TTD stock is a Hold."
+        },
+        {
+            "id": "o0wkTNzuYEImHzjnri_ke2MPxZYvRnWfbmoSn_ym_Rs",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "The Game Awards: 'Alan Wake 2,' 'Baldur\u2019s Gate 3,' 'TOTK' get game-of-the-year nods",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-13T18:59:00Z",
+            "article_url": "https://www.marketwatch.com/story/the-game-awards-alan-wake-2-baldurs-gate-3-the-legend-of-zelda-tears-of-the-kingdom-score-game-of-the-year-nods-bd1a8b92",
+            "tickers": [
+                "WBD",
+                "EA",
+                "MSFT",
+                "GOOGL",
+                "AMZN",
+                "META"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/the-game-awards-alan-wake-2-baldurs-gate-3-the-legend-of-zelda-tears-of-the-kingdom-score-game-of-the-year-nods-bd1a8b92",
+            "image_url": "https://images.mktw.net/im-886224/social",
+            "description": "Here\u2019s the complete list of videogame nominees for this year\u2019s Game Awards."
+        },
+        {
+            "id": "9O2pb5rrq8X0PXb6RLoaL8ROMDDYTcAc2ypQN8E6jKc",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Hedge funds are betting that stocks will fall and indexes will rise at the same time. What\u2019s going on?",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-13T18:26:00Z",
+            "article_url": "https://www.marketwatch.com/story/hedge-funds-are-betting-that-stocks-will-fall-and-indexes-will-rise-at-the-same-time-whats-going-on-3d14db22",
+            "tickers": [
+                "COMP",
+                "AAPL",
+                "GOOG",
+                "MSFT",
+                "NVDA",
+                "AMZN",
+                "TSLA",
+                "META",
+                "DJIA"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/hedge-funds-are-betting-that-stocks-will-fall-and-indexes-will-rise-at-the-same-time-whats-going-on-3d14db22",
+            "image_url": "https://images.mktw.net/im-886226/social",
+            "description": "There's an issue that's been bugging stock-market investors all year."
+        },
+        {
+            "id": "bjDPzoB_TBIznIk_gHgG-7yrNkgGYLMFPpDXn8RJGRA",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Alphabet (GOOGL) Boosts Search Business With Latest Expansion",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-13T15:53:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2183418/alphabet-googl-boosts-search-business-with-latest-expansion",
+            "tickers": [
+                "MSFT",
+                "ADBE",
+                "GOOGL",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2183418/alphabet-googl-boosts-search-business-with-latest-expansion",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/aa/397.jpg",
+            "description": "Alphabet's (GOOGL) Google rolls out Search Generative Experience across 120 new countries, along with the announcement of new feature updates."
+        },
+        {
+            "id": "9NrfEfVucwnlhI411yAJO_xUBjbI09N78uoqpY91kJo",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Meta's Q3 Earnings Were Solid, but It's Not Out of the Woods Just Yet",
+            "author": "newsfeedback@fool.com (Adam Spatacco)",
+            "published_utc": "2023-11-13T15:24:24Z",
+            "article_url": "https://www.fool.com/investing/2023/11/13/metas-q3-earnings-were-solid-but-the-company-is-no/",
+            "tickers": [
+                "META"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753059/social-media-scrolling-on-phone-networking.jpg",
+            "description": "Meta reported strong top-line growth and its highest free cash flow in almost two years.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "rv3G5OUkDuNJWNIcIvPAUwCpzUz49BA_SChTGTgZfQM",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Investors Heavily Search Meta Platforms, Inc. (META): Here is What You Need to Know",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-13T14:00:11Z",
+            "article_url": "https://www.zacks.com/stock/news/2183204/investors-heavily-search-meta-platforms-inc-meta-here-is-what-you-need-to-know",
+            "tickers": [
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2183204/investors-heavily-search-meta-platforms-inc-meta-here-is-what-you-need-to-know",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default44.jpg",
+            "description": "Meta Platforms (META) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock."
+        },
+        {
+            "id": "nX44PasOmkoZnT-NXIMZF2_lNBDz3TXbB1Rc1IQfQpg",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Stock Market News for Nov 13, 2023",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-13T12:56:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2183127/stock-market-news-for-nov-13-2023",
+            "tickers": [
+                "AAPL",
+                "MSFT",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2183127/stock-market-news-for-nov-13-2023",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/cc/12495.jpg",
+            "description": "U.S. stock markets closed sharply higher on Friday reversing previous day???s sharp decline."
+        },
+        {
+            "id": "euipfAowk6rtWyoe2KJvUU2Fsscfqc-6biF4kOJpxjM",
+            "publisher": {
+                "name": "Investing.com",
+                "homepage_url": "https://www.investing.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+            },
+            "title": "Mega Caps to Face Challenges Despite Strong Q3 Earnings Season Performance",
+            "author": "Adam Hamilton",
+            "published_utc": "2023-11-13T05:36:00Z",
+            "article_url": "https://www.investing.com/analysis/mega-caps-to-face-challenges-despite-strong-q3-earnings-season-performance-200643520",
+            "tickers": [
+                "AAPL",
+                "MSFT",
+                "GOOGL",
+                "AMZN",
+                "NVDA",
+                "META",
+                "TSLA",
+                "COST",
+                "KVUE",
+                "JPM"
+            ],
+            "amp_url": "https://m.investing.com/analysis/mega-caps-to-face-challenges-despite-strong-q3-earnings-season-performance-200643520?ampMode=1",
+            "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg"
+        },
+        {
+            "id": "bX9Rq1AsGoOkoDcUj0EdG3VGVLK0RPbTHCh1ZJMbgYI",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "A Bull Market May Be Coming: 2 AI Stocks to Buy Hand Over Fist Now",
+            "author": "newsfeedback@fool.com (Manali Bhade)",
+            "published_utc": "2023-11-11T17:00:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/11/a-bull-market-may-be-coming-2-ai-stocks-to-buy-han/",
+            "tickers": [
+                "META",
+                "QCOM"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754477/business_people_working_in_office.jpg",
+            "description": "These two tech titans are primed for long-term success.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "LAjcsy8sxIe4Zexdg5VbE5Usk159_B6-c258fQ82lp8",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "These tech stocks scored this earnings season even as AI hype slowed -- and the winner may surprise you",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-11T16:52:00Z",
+            "article_url": "https://www.marketwatch.com/story/these-tech-stocks-scored-this-earnings-season-even-as-ai-hype-slowed-and-the-winner-isnt-nvidia-fbeb1c63",
+            "tickers": [
+                "MSFT",
+                "QCOM",
+                "IBM",
+                "NOW",
+                "META",
+                "AMZN",
+                "INTC",
+                "AAPL",
+                "GOOG",
+                "NVDA",
+                "AMD"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/these-tech-stocks-scored-this-earnings-season-even-as-ai-hype-slowed-and-the-winner-isnt-nvidia-fbeb1c63",
+            "image_url": "https://images.mktw.net/im-883109/social",
+            "description": "Microsoft proves its strength; Qualcomm may have turned a corner."
+        },
+        {
+            "id": "S7eepxCRuJq43PxmDys41pw0HHu7RzHa1LZCYqbU804",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "These Myspace founders have an AI startup",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-11T15:24:00Z",
+            "article_url": "https://www.marketwatch.com/story/these-myspace-founders-have-an-ai-startup-eb1e7c81",
+            "tickers": [
+                "GOOGL",
+                "GOOG",
+                "META"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/these-myspace-founders-have-an-ai-startup-eb1e7c81",
+            "image_url": "https://images.mktw.net/im-884590/social",
+            "description": "The co-founders of Myspace, who helped usher in the age of social media, have turned their sights to a new twist: an AI product that turns text into three- to four-second video clips."
+        },
+        {
+            "id": "34GwcZ6P6IUhr0Vc2zrYJH22riyOAQq_utuoX_XTCf4",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "2 Sizzling Hot Stocks to Buy Right Now",
+            "author": "newsfeedback@fool.com (Keith Speights)",
+            "published_utc": "2023-11-11T10:50:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/11/2-sizzling-hot-stocks-to-buy-right-now/",
+            "tickers": [
+                "META",
+                "AMZN"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753770/woman-in-it-data-center.jpg",
+            "description": "The momentum should continue for these high-flying stocks.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "qZWsw36krt7ilmqpfrrfoF8uGI9VRtjg9P9GdqaVf08",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Tech Giants Lead Market Surge As Dow Blue Chips Stall; Microsoft Hits New Highs While Bitcoin Rallies: The Week In The Markets",
+            "author": "Piero Cingari",
+            "published_utc": "2023-11-10T21:23:26Z",
+            "article_url": "https://www.benzinga.com/economics/macro-economic-events/23/11/35734172/tech-giants-lead-market-surge-as-dow-blue-chips-stall-microsoft-hits-new-highs-wh",
+            "tickers": [
+                "META",
+                "XLE",
+                "AAPL",
+                "AMAT",
+                "AMZN",
+                "CSCO",
+                "GOOG",
+                "MSFT",
+                "NVDA",
+                "BLK",
+                "DIS",
+                "HD",
+                "WMT",
+                "TSLA",
+                "GOOGL"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35734172",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/wall-street-subway-shutter.jpeg?width=1200&height=800&fit=crop",
+            "description": "Wall Street\u2019s tech giants continued to extend their gains in the week following the Federal Reserve's November meeting. \nThe Nasdaq 100 has once again outperformed other major indices, driven by the Magnificent 7, which includes artificial intelligence winners and tech stocks with the highest market capitalization, such as Apple Inc. (NASDAQ:AAPL), Microsoft Corp. (NASDAQ:MSFT), Alphabet Inc. (NASDAQ:GOOG) (NASDAQ:GOOGL), Amazon Inc. (NASDAQ:AMZN), Meta Platforms Inc. (NASDAQ:META), NVIDIA Corp. (NASDAQ:NVDA) and Tesla, Inc. (NASDAQ:TSLA)\nThe Dow\u2019s blue-chip stocks stalled, while small caps plummeted, retracing more than half of the previous week\u2019s gains. Energy, as tracked by the Energy Select Sector SPDR Fund (NYSE:XLE), was again the weakest performer among sectors.\u00a0\u00a0\nMicrosoft achieves fresh all-time highs: The tech giant reached a new all-time high, surpassing $367 per share on Friday, solidifying its position as a major AI winner. Microsoft's market capitalization has now reached $2.73 trillion, trailing Apple\u2019s by just $150 billion.\nBitcoin surpasses ...Full story available on Benzinga.com",
+            "keywords": [
+                "Macro Economic Events",
+                "Broad U.S. Equity ETFs",
+                "Economics",
+                "Federal Reserve",
+                "ETFs"
+            ]
+        },
+        {
+            "id": "HZURvIgScMRORtaTAQQ_3oEWT59IgnXp-WIXIfVaV9M",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "AMD To Surpass $2B GPU Revenue Target in 2024 - Analyst",
+            "author": "Anusuya Lahiri",
+            "published_utc": "2023-11-10T19:54:32Z",
+            "article_url": "https://www.benzinga.com/news/23/11/35729489/amd-to-surpass-2b-gpu-revenue-target-in-2024-analyst",
+            "tickers": [
+                "INTC",
+                "MSFT",
+                "NVDA",
+                "AMD",
+                "TSM",
+                "META"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35729489",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/11/10/amd-_wikimedia.jpg?width=1200&height=800&fit=crop",
+            "description": "KeyBanc\u00a0analyst\u00a0John Vinh\u00a0recently hosted investor meetings with management at\u00a0Advanced Micro Devices, Inc\u00a0(NASDAQ: AMD).\nThe analyst notes that confidence and visibility into the\u00a0MI300X ramp in\u00a02024 is high, with upside potential to the $2 billion outlook likely.\u00a0\nAMD management expressed high confidence in its $2 billion outlook for MI300 in 2024 and its ability to compete with\u00a0Nvidia Corp\u00a0(NASDAQ:\u00a0NVDA), particularly on inferencing.\u00a0\nAMD has good visibility into the ramp of MI300X next year, given seven- to eight-month lead times and POs in hand with firm visibility through the first half of FY24.\nAMD indicated it is incredibly competitive on inferencing, given its higher HBM content. The upside to the $2 billion appears likely as ...Full story available on Benzinga.com",
+            "keywords": [
+                "News",
+                "Analyst Ratings",
+                "Movers",
+                "Tech"
+            ]
+        },
+        {
+            "id": "JjxN89OKL0I2em7pZT_8hRLc_WlXp8td9uE7JF7CMM8",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Wall Street Mechanics Bring In Stock Buyers After Sell-Off On Poor Treasury Auction",
+            "author": "The Arora Report",
+            "published_utc": "2023-11-10T19:02:58Z",
+            "article_url": "https://www.benzinga.com/markets/23/11/35732275/wall-street-mechanics-bring-in-stock-buyers-after-sell-off-on-poor-treasury-auction",
+            "tickers": [
+                "GLD",
+                "SLV",
+                "TLT",
+                "USO",
+                "AMZN",
+                "GOOG",
+                "MSFT",
+                "NVDA",
+                "AAPL",
+                "TSLA",
+                "QQQ",
+                "META"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35732275",
+            "image_url": "https://cdn.benzinga.com/files/b348b2c9-777b-4ae9-8fd0-189f0fc9fbb8.jpeg?width=1200&height=800&fit=crop",
+            "description": "To gain an edge, this is what you need to know today.\n\nWall Street Mechanics Kicking In\u00a0\nPlease\u00a0click here\u00a0for a chart of iShares 20 Plus Year Treasury Bond ETF (NASDAQ: TLT).\nNote the following:\n\nThe chart shows that\u00a0TLT\u00a0fell yesterday.\nAs we shared with you in the Afternoon Capsule, the reason for the fall in\u00a0TLT\u00a0was the poor Treasury auction. For details, see yesterday\u2019s Afternoon Capsule.\nInitially stocks fell on the poor Treasury auction, but the momo crowd bought the dip.\u00a0Then came Powell\u2019s statement that he was willing to raise rates if needed.\u00a0The poor Treasury auction and Powell\u2019s statement was a one-two punch that brought in more selling yesterday.\nThe chart shows that\u00a0TLT\u00a0is being bought this morning but still has a ways to go before reaching the lower resistance zone.\nThis morning Wall Street mechanics are kicking in, bringing in buyers in both stocks and bonds.\nUniversity of Michigan consumer confidence and inflation expectation data will be released at 10am ET.\u00a0The data may be market moving.\nThe biggest data point ahead is CPI that will be released on November 14.\nRemember that it is Friday, and short squeezes tend to occur on Fridays.\u00a0In the early trade, there are signs of a short squeeze.\nAs an actionable item, the sum total of the foregoing is in the protection band, which strikes the optimum balance between various crosscurrents. \u00a0 Please scroll down to see the protection band.\n\nMagnificent Seven Money Flows\nIn the early trade, money flows are positive in Apple Inc (NASDAQ: AAPL), ...Full story available on Benzinga.com",
+            "keywords": [
+                "Cryptocurrency",
+                "Economics",
+                "Federal Reserve",
+                "Markets"
+            ]
+        },
+        {
+            "id": "D8cFN_8KZw5UYMOGLcVk_gO6IEoBBqGWQJN2E9-Y1ZU",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Here's how Eli Lilly might bring a game-changing Alzheimer's drug to market",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-10T17:21:00Z",
+            "article_url": "https://www.marketwatch.com/story/heres-how-eli-lilly-might-bring-a-game-changing-alzheimers-drug-to-market-6895dbc5",
+            "tickers": [
+                "LLY",
+                "NVO",
+                "WBD",
+                "T",
+                "ARM",
+                "KVYO",
+                "CART",
+                "DIS",
+                "AAPL",
+                "MSFT",
+                "GOOGL",
+                "AMZN",
+                "NVDA",
+                "META",
+                "TSLA",
+                "CRM",
+                "DJIA"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/heres-how-eli-lilly-might-bring-a-game-changing-alzheimers-drug-to-market-6895dbc5",
+            "image_url": "https://images.mktw.net/im-885144/social",
+            "description": "Also: Bad and good results this earnings season, new tax rules, stock picks and how you too can be a mortgage lender."
+        },
+        {
+            "id": "jm6Q9K8IU11RIc3shH_mgUDfaDfjcicYxpwpkbFZumk",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Is SPDR NYSE Technology ETF (XNTK) a Strong ETF Right Now?",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-10T11:20:07Z",
+            "article_url": "https://www.zacks.com/stock/news/2182108/is-spdr-nyse-technology-etf-xntk-a-strong-etf-right-now",
+            "tickers": [
+                "XNTK",
+                "NVDA",
+                "ADBE",
+                "XLK",
+                "VGT",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2182108/is-spdr-nyse-technology-etf-xntk-a-strong-etf-right-now",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default6.jpg",
+            "description": "Smart Beta ETF report for XNTK"
+        },
+        {
+            "id": "Cc_1QK4YVnDZKD1bXGYR-r7HfG_RHUamMzC0SYUFPWY",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Should SPDR Portfolio S&P 500 Value ETF (SPYV) Be on Your Investing Radar?",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-10T11:20:05Z",
+            "article_url": "https://www.zacks.com/stock/news/2182114/should-spdr-portfolio-sp-500-value-etf-spyv-be-on-your-investing-radar",
+            "tickers": [
+                "SPYV",
+                "AMZN",
+                "MSFT",
+                "VTV",
+                "IWD",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2182114/should-spdr-portfolio-sp-500-value-etf-spyv-be-on-your-investing-radar",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default12.jpg",
+            "description": "Style Box ETF report for SPYV"
+        },
+        {
+            "id": "4fNMwJkvEtAhWgsfJ6jkoojdg1Wu7JgqRvNx2et5L1M",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Meta reportedly will team with Tencent to sell new VR headset in China",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-10T04:14:00Z",
+            "article_url": "https://www.marketwatch.com/story/meta-reportedly-will-team-with-tencent-to-sell-new-vr-headset-in-china-0f932376",
+            "tickers": [
+                "META"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/meta-reportedly-will-team-with-tencent-to-sell-new-vr-headset-in-china-0f932376",
+            "image_url": "https://images.mktw.net/im-885003/social",
+            "description": "Meta Platforms Inc. has a preliminary deal to sell a lower-cost version of its virtual-reality headset in China, the Wall Street Journal reported Thursday night, giving the tech giant access to Chinese consumers for the first time in more than a decade."
+        },
+        {
+            "id": "OEVk7rwh6EOaEAUUqFKXb0F1i5hiryFWhPEWfYJOMtE",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Heightened rate volatility points to these opportunities in stocks, bonds for ETF investors, says State Street\u2019s Michael Arone",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-09T22:05:00Z",
+            "article_url": "https://www.marketwatch.com/story/heightened-rate-volatility-points-to-these-opportunities-in-stocks-bonds-for-etf-investors-says-state-streets-michael-arone-61f51ea1",
+            "tickers": [
+                "SPSM",
+                "SPY",
+                "SPYG",
+                "SPYV",
+                "AAPL",
+                "MSFT",
+                "GOOGL",
+                "AMZN",
+                "NVDA",
+                "META",
+                "TSLA",
+                "BRK.B",
+                "JPM",
+                "WMT",
+                "CSCO",
+                "VGLT",
+                "BIL",
+                "SPIB",
+                "CQQQ",
+                "ARKK",
+                "ARKW",
+                "VNM",
+                "ARKF",
+                "UNG",
+                "FCG",
+                "XOP",
+                "USO",
+                "IEO",
+                "MTBA",
+                "TBG"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/heightened-rate-volatility-points-to-these-opportunities-in-stocks-bonds-for-etf-investors-says-state-streets-michael-arone-61f51ea1",
+            "image_url": "https://images.mktw.net/im-341402/social",
+            "description": "Bond-market volatility spilling into stocks in 2023 may be creating investment opportunities that could pay off in the next year, according to State Street's Michael Arone."
+        },
+        {
+            "id": "-iSdmw07h6_6QdqxStIVqYg60bwydNpRe0QQHC6X0kY",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Peter Thiel pledges to give no money to Republican politicians in 2024",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-09T20:35:00Z",
+            "article_url": "https://www.marketwatch.com/story/peter-thiel-pledges-to-give-no-money-to-republican-politicians-in-2024-e14bcb15",
+            "tickers": [
+                "PYPL",
+                "PLTR",
+                "META"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/peter-thiel-pledges-to-give-no-money-to-republican-politicians-in-2024-e14bcb15",
+            "image_url": "https://images.mktw.net/im-884723/social",
+            "description": "Billionaire venture capital investor Peter Thiel promised to not give any money to Republican candidates for office in 2024 election"
+        },
+        {
+            "id": "T0xxhWL_NSD2_BvQmwFhJfusm7j_QE7QKM9C4FGQXVA",
+            "publisher": {
+                "name": "Seeking Alpha",
+                "homepage_url": "https://seekingalpha.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/seekingalpha.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/seekingalpha.ico"
+            },
+            "title": "Billionaire 'Bond King' Says Sell These Charlie Munger Must-Buy Stocks: Our Approach",
+            "author": "High Yield Investor",
+            "published_utc": "2023-11-09T19:59:36Z",
+            "article_url": "https://seekingalpha.com/article/4649911-billionaire-bond-king-says-sell-these-charlie-munger-must-buy-stocks-our-approach",
+            "tickers": [
+                "AAPL",
+                "AMZN",
+                "BABA",
+                "BIP",
+                "BIPC",
+                "BND",
+                "BRK.A",
+                "BRK.B",
+                "GDX",
+                "GLD",
+                "GOOG",
+                "GOOGL",
+                "META",
+                "MSFT",
+                "NVDA",
+                "O",
+                "PLTR",
+                "SLV",
+                "TSLA",
+                "VOO",
+                "XLU"
+            ],
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/857246122/image_857246122.jpg?io=getty-c-w1536",
+            "description": "Learn about Charlie Munger's recommended stocks, Jeffrey Gundlach's warning about their performance in a recession, and our approach. Click for more of our picks."
+        },
+        {
+            "id": "AWuSNOipFegpUsPkGrhRtC8O3TWYa9KmqkwlkIlsmLw",
+            "publisher": {
+                "name": "Seeking Alpha",
+                "homepage_url": "https://seekingalpha.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/seekingalpha.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/seekingalpha.ico"
+            },
+            "title": "Tesla: Negative News Apparently Doesn't Exist",
+            "author": "Eugenio Catone",
+            "published_utc": "2023-11-09T19:00:00Z",
+            "article_url": "https://seekingalpha.com/article/4649849-tesla-negative-news-apparently-doesnt-exist",
+            "tickers": [
+                "META",
+                "RACE",
+                "TM",
+                "TSLA"
+            ],
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1411002134/image_1411002134.jpg?io=getty-c-w1536",
+            "description": "Despite issues like falling margins, competition, and a cloudy future, investors remain optimistic in Tesla, Inc. due to faith in Elon Musk. Learn more on TSLA stock here."
+        },
+        {
+            "id": "kf2V6WoSlxhB_p9F3LAhci5oYeB9Dop2LOupTeM63RI",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "NY Times (NYT) Q3 Earnings Top, Subscription Revenues Up Y/Y",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-09T17:15:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2181829/ny-times-nyt-q3-earnings-top-subscription-revenues-up-yy",
+            "tickers": [
+                "NYT",
+                "SNPS",
+                "SNOW",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2181829/ny-times-nyt-q3-earnings-top-subscription-revenues-up-yy",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/1f/9628.jpg",
+            "description": "NY Times (NYT) third-quarter 2023 results reflect an increase in subscription revenues. Management envisions fourth-quarter subscription revenues to ascend about 2-5% on a reported basis."
+        },
+        {
+            "id": "MgPU0cDm3pgWf6PcGEci_XMrxbPLZkaPvm6hPKfD_SI",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Good News For Investors \u2013 American Might Temporarily Wins Against Iran Without Firing A Shot",
+            "author": "The Arora Report",
+            "published_utc": "2023-11-09T15:28:00Z",
+            "article_url": "https://www.benzinga.com/markets/23/11/35703293/good-news-for-investors-american-might-temporarily-wins-against-iran-without-firing-a-shot",
+            "tickers": [
+                "GLD",
+                "SLV",
+                "SPY",
+                "USO",
+                "AMZN",
+                "GOOG",
+                "MSFT",
+                "NVDA",
+                "AAPL",
+                "TSLA",
+                "QQQ",
+                "META"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35703293",
+            "image_url": "https://cdn.benzinga.com/files/regularguy-eth-w9codxtsfts-unsplash_14.jpg?width=1200&height=800&fit=crop",
+            "description": "To gain an edge, this is what you need to know today.\n\nGood News\nPlease\u00a0click here\u00a0for a chart of oil futures.\nNote the following:\n\nThe chart shows when Hamas attacked Israel.\nThe fear was that Iran would open a second northern front against Israel, escalating the Middle East war.\nThe\u00a0U.S. responded by sending two aircraft carrier groups to the Middle East to deter Iran and its proxies from opening a northern front against Israel.\nThe falling trendline on the chart shows that investors came to believe there was a rethink in Iran as it appeared not to directly fight the\u00a0U.S.\nThe latest drop in oil shown on the chart came after the\u00a0U.S. sent a nuclear submarine.\nThe indication from our sources is that Iran is concluding that fighting the\u00a0U.S. directly will be a losing proposition.\nRSI on the chart shows that oil is now very oversold.\nTemporarily, the\u00a0U.S. military might has won.\u00a0However, prudent investors need to keep in mind that the Middle East is very volatile and things can change very quickly.\nThe\u00a0U.S. is staying on the offensive.\u00a0The latest is that\u00a0U.S. fighters bombed a weapons depot used by Islamic Revolutionary Guard of Iran in Syria.\nOil coming down is deflationary.\nOil coming down is raising hopes that the Fed will soon start cutting rates.\nAs speculation builds of the Fed cutting rates, there is a distinct possibility of a second short squeeze leg in bonds.\u00a0If the second short squeeze leg in bonds starts, it in turn will trigger another rally in the stock market.\nFor the time being, stocks have to contend with technically overbought conditions.\nAs an actionable item, the sum total of the foregoing is in the protection band, which strikes the optimum balance between various crosscurrents. Please scroll down to see the protection band.\n\nJobless Claims\nJobless claims show that the jobs picture remains strong.\u00a0Initial jobless claims came at 217K ...Full story available on Benzinga.com",
+            "keywords": [
+                "Cryptocurrency",
+                "Futures",
+                "Economics",
+                "Markets",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "LEizmN1bklKhmkqf_sahtihlgjq4p_6eyHRoBbhK0qk",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "The Zacks Analyst Blog Highlights NVIDIA, Synopsys, Meta, Broadcom and Microsoft",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-09T14:39:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2181618/the-zacks-analyst-blog-highlights-nvidia-synopsys-meta-broadcom-and-microsoft",
+            "tickers": [
+                "MSFT",
+                "NVDA",
+                "AVGO",
+                "SNPS",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2181618/the-zacks-analyst-blog-highlights-nvidia-synopsys-meta-broadcom-and-microsoft",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/cc/12495.jpg",
+            "description": "NVIDIA, Synopsys, Meta, Broadcom and Microsoft are included in this Analyst Blog."
+        },
+        {
+            "id": "rr1LYmAMqvsNgRPK2K1poOwWQrgV2tK-obiNYfXYSWU",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "2 Under-the-Radar Tech Stocks To Buy in 2023",
+            "author": "newsfeedback@fool.com (Demitri Kalogeropoulos)",
+            "published_utc": "2023-11-09T11:50:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/09/2-under-the-radar-tech-stocks-to-buy-in-2023/",
+            "tickers": [
+                "GRMN",
+                "META",
+                "MSFT",
+                "AAPL",
+                "PANW"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753995/looking-at-watch-time-early-late.jpg",
+            "description": "They are small but mighty businesses.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "K4hdqvgbvDpEHnCEZtluBUZu1F9uYQPh4wKmyeAVxLY",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "You'll Never Guess Who's Beating OpenAI in Generative Artificial Intelligence",
+            "author": "newsfeedback@fool.com (Adam Levy)",
+            "published_utc": "2023-11-09T10:04:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/09/youll-never-guess-whos-beating-openai-in-generativ/",
+            "tickers": [
+                "META",
+                "MSFT"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754135/gettyimages-ai-cloud-artificial-intelligence.jpeg",
+            "description": "Plus, you can buy its stock at a reasonable price right now.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "lczNcF7IJOXKzhai8uUw_95BOZFA23xOHNibXYB2_rQ",
+            "publisher": {
+                "name": "Seeking Alpha",
+                "homepage_url": "https://seekingalpha.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/seekingalpha.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/seekingalpha.ico"
+            },
+            "title": "The Crash Higher Is Coming",
+            "author": "Valuentum",
+            "published_utc": "2023-11-09T03:09:03Z",
+            "article_url": "https://seekingalpha.com/article/4649482-the-crash-higher-is-coming",
+            "tickers": [
+                "AAPL",
+                "GOOG",
+                "GOOGL",
+                "IBB",
+                "META",
+                "MSFT",
+                "RSP",
+                "UNH",
+                "V",
+                "VNQ",
+                "XLP",
+                "XLU",
+                "XLV",
+                "SCHG",
+                "XLF"
+            ],
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/157559643/image_157559643.jpg?io=getty-c-w1536",
+            "description": "Big-cap tech and large-cap growth stocks continue to outperform, and we expect them to lead in the future. Click here for a detailed analysis."
+        },
+        {
+            "id": "M39DEwS76VC8bv4mZR3hcM9R2hsCApRfNVtO1-H4e5Q",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Nobody on Wall Street wants to bet against the \u2018Magnificent Seven\u2019",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-08T21:28:00Z",
+            "article_url": "https://www.marketwatch.com/story/nobody-on-wall-street-wants-to-bet-against-the-magnificent-seven-62513e47",
+            "tickers": [
+                "AAPL",
+                "MSFT",
+                "GOOGL",
+                "AMZN",
+                "NVDA",
+                "META",
+                "TSLA",
+                "COMP"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/nobody-on-wall-street-wants-to-bet-against-the-magnificent-seven-62513e47",
+            "image_url": "https://images.mktw.net/im-840253/social",
+            "description": "Almost nobody on Wall Street has the temerity to bet against the \"Magnificent Seven\" group of tech stocks."
+        },
+        {
+            "id": "zAR_4ZANc81XrmIfKxEhxKzvE0CopwGh5BW41uLDogE",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "3 Robinhood Stocks to Buy and Hold Forever",
+            "author": "newsfeedback@fool.com (Jeremy Bowman)",
+            "published_utc": "2023-11-08T14:59:18Z",
+            "article_url": "https://www.fool.com/investing/2023/11/08/3-robinhood-stocks-to-buy-and-hold-forever/",
+            "tickers": [
+                "GM",
+                "DIS",
+                "META",
+                "HOOD"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754033/investing-education-reading-stocks-home-young.jpg",
+            "description": "Robinhood investors love these stocks and you should, too.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "LcXJLIalkAUGuK5gHqEUVp_ZStNJEw66iRMQ3yBDxJo",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Top 5 High-Flying Tech Giants of 2023 With More Upside Left",
+            "author": "Nalak Das",
+            "published_utc": "2023-11-08T13:41:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2180707/top-5-high-flying-tech-giants-of-2023-with-more-upside-left",
+            "tickers": [
+                "MSFT",
+                "NVDA",
+                "AVGO",
+                "SNPS",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2180707/top-5-high-flying-tech-giants-of-2023-with-more-upside-left",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/a9/50721.jpg",
+            "description": "Five Nasdaq listed technology behemoth that have flourished in 2023 and have more upside potential for the rest of this year are: NVDA, MSFT, META, AVGO, SNPS."
+        },
+        {
+            "id": "2Qde6yLSfStUStxAv9JhSeijpKCPYQrnpIiJtGyu3TM",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Meta, Cisco, Comcast And More: CNBC's 'Final Trades'",
+            "author": "Lisa Levin",
+            "published_utc": "2023-11-08T13:23:09Z",
+            "article_url": "https://www.benzinga.com/trading-ideas/long-ideas/23/11/35666415/meta-cisco-comcast-and-more-cnbcs-final-trades",
+            "tickers": [
+                "CMCSA",
+                "CSCO",
+                "VGSH",
+                "META"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35666415",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/11/08/stock_trader_shutter.jpg?width=1200&height=800&fit=crop",
+            "description": "On CNBC\u2019s \"Halftime Report Final Trades,\"  Liz Young of BNY Mellon Investment Management named  Vanguard Short-Term Treasury Index Fund (NASDAQ: VGSH)  as her final trade. \nStephen Weiss of Short Hills Capital Partners picked  Meta Platforms, Inc. (NASDAQ: META).\nMeta Platforms recently introduced a special bonus program for Instagram content creators to enhance their earning potential through engaging posts and ...",
+            "keywords": [
+                "Long Ideas",
+                "News",
+                "Markets",
+                "Media",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "IHbid5JAZd5avaEPeLjhKiGxkGdSstkMqZZhsZ-mNXg",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "3 Things About Meta Platforms Stock That Smart Investors Know",
+            "author": "newsfeedback@fool.com (Demitri Kalogeropoulos)",
+            "published_utc": "2023-11-08T10:30:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/08/3-things-about-meta-platforms-stock-that-smart-inv/",
+            "tickers": [
+                "META"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753667/online-shopping-with-credit-card-at-home.jpg",
+            "description": "The social media giant has major tailwinds propelling earnings higher right now.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "5XFoEhNeRMlyBNk1XK8AKxg0065iZp4NwdRot9BH0UM",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "3 Buy-Rated Tech Stocks Boasting Bright Outlooks",
+            "author": "Derek Lewis",
+            "published_utc": "2023-11-07T20:51:00Z",
+            "article_url": "https://www.zacks.com/commentary/2180354/3-buy-rated-tech-stocks-boasting-bright-outlooks",
+            "tickers": [
+                "NTES",
+                "VRT",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/commentary/2180354/3-buy-rated-tech-stocks-boasting-bright-outlooks",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/7c/10800.jpg",
+            "description": "Tech stocks have become a staple in portfolios, constantly hogging attention thanks to their explosive growth characteristics that often lead to share outperformance."
+        },
+        {
+            "id": "d237z3GUh9qhZeb0ubx3C6ccgsmytr0brBxj4fGFQRM",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Market Melt-Up: 3 Top Ranked Stocks Breaking Out Now",
+            "author": "Ethan Feller",
+            "published_utc": "2023-11-07T19:06:00Z",
+            "article_url": "https://www.zacks.com/commentary/2180337/market-melt-up-3-top-ranked-stocks-breaking-out-now",
+            "tickers": [
+                "NVDA",
+                "CWCO",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/commentary/2180337/market-melt-up-3-top-ranked-stocks-breaking-out-now",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/3b/53767.jpg",
+            "description": "The S&P 500 is up six days in a row and the Nasdaq 100 is up seven"
+        },
+        {
+            "id": "Y2H7XtuO9g7GhYzl05Sjp5QpwQ7Fls1IB0K9MDZCsq0",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "CFPB wants to treat Apple Pay, Google Pay and other tech-payment products like banks",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-07T17:00:00Z",
+            "article_url": "https://www.marketwatch.com/story/cfpb-wants-to-treat-apple-pay-google-pay-and-other-tech-payment-products-like-banks-265da69a",
+            "tickers": [
+                "GOOG",
+                "AAPL",
+                "META",
+                "AMZN",
+                "SQ",
+                "PYPL"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/cfpb-wants-to-treat-apple-pay-google-pay-and-other-tech-payment-products-like-banks-265da69a",
+            "image_url": "https://images.mktw.net/im-882631/social",
+            "description": "Director Rohit Chopra says payment apps are \"critical infrastructure\" to the U.S. economy."
+        },
+        {
+            "id": "rPA3KTnfwi8yGhj8k2bAR1xRWSxmTIac17M2omvw2Sk",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Stock Market Pauses After Bond Short Squeeze Triggered Epic Rally, Apple Recovers",
+            "author": "The Arora Report",
+            "published_utc": "2023-11-07T15:23:45Z",
+            "article_url": "https://www.benzinga.com/markets/23/11/35648250/stock-market-pauses-after-bond-short-squeeze-triggered-epic-rally-apple-recovers",
+            "tickers": [
+                "DDOG",
+                "AMZN",
+                "GOOG",
+                "MSFT",
+                "NVDA",
+                "WOLF",
+                "DHI",
+                "AAPL",
+                "TSLA",
+                "NXPI",
+                "QQQ",
+                "ON",
+                "SNOW",
+                "MDB",
+                "META"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35648250",
+            "image_url": "https://cdn.benzinga.com/files/finance-800x360_7.jpg?width=1200&height=800&fit=crop",
+            "description": "To gain an edge, this is what you need to know today.\n\nThe Next Trigger\nPlease\u00a0click here\u00a0for a chart of SPDR S&P 500 ETF Trust (ARCA:SPY) which represents the benchmark stock market index S&P 500 (SPX).\nNote the following:\n\nThe chart shows that the stock market has now moved above the top support zone.\nThe chart shows that the move down below the top support zone in late October has temporarily proven to be a bear trap.\nRSI on the chart shows that the stock market is overbought.\u00a0Overbought markets tend to be vulnerable to the downside.\nAs we have shared with you before, three macro events triggered a vicious short squeeze in bonds, which in turn, led to an epic rally in stocks.\nIn The Arora Report analysis, the first leg of the short squeeze in bonds is now over.\u00a0\nThere is Fed speak from Neel Kashkari and Austin Goolsbee.\u00a0Powell will be speaking later in the week.\nIt is clear from the Fed speak that there is not clarity at the Fed regarding the following:\n\nThe real reason behind the rapid rise in long term rates in October\nImplications now for future Fed policy of long term rates pulling back since Wednesday last week\n\n\nIn The Arora Report analysis, the stock market is looking for a trigger for the next move.\u00a0\nOn the positive side, Apple Inc (NASDAQ: AAPL) has recovered after a weak earnings report.\u00a0In The Arora Report analysis, it is important to pay attention to the price action in\u00a0AAPL\u00a0because it is an indication of investor sentiment.\nOn the earnings front there is positive news in three areas important to the economy.\n\nData analytics company Datadog Inc (NASDAQ: DDOG) reported good earnings.\u00a0This is bringing buying this morning in many stocks that have a positive readthrough from Datadog such as Snowflake Inc (NYSE: SNOW) and Mongodb Inc (NASDAQ: MDB).\u00a0SNOW\u00a0and\u00a0MDB\u00a0are in ...Full story available on Benzinga.com",
+            "keywords": [
+                "Cryptocurrency",
+                "Bonds",
+                "Economics",
+                "Federal Reserve",
+                "Markets",
+                "Tech"
+            ]
+        },
+        {
+            "id": "cG10JMlU0_f1BAmbKPxA31wWveH0qAFFDRE_JVMGwyA",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Earnings-season winners: 20 companies that have grown sales while improving profit margins",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-07T15:02:00Z",
+            "article_url": "https://www.marketwatch.com/story/earnings-season-winners-20-companies-that-have-grown-sales-while-improving-profit-margins-7d4f6532",
+            "tickers": [
+                "MSFT",
+                "AAPL",
+                "AMZN",
+                "NVDA",
+                "GOOGL",
+                "GOOG",
+                "META",
+                "TSLA",
+                "LVS",
+                "CCL",
+                "NCLH",
+                "LW",
+                "RCL",
+                "LLY",
+                "ANET",
+                "FSLR",
+                "PODD",
+                "DXCM",
+                "NOW",
+                "PCAR",
+                "WAB",
+                "GE",
+                "CDAY",
+                "ABNB",
+                "MDLZ",
+                "FTNT",
+                "ROP"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/earnings-season-winners-20-companies-that-have-grown-sales-while-improving-profit-margins-7d4f6532",
+            "image_url": "https://images.mktw.net/im-882559/social",
+            "description": "These 20 earnings-season winners not only grew sales, they showed pricing power for their products and services."
+        },
+        {
+            "id": "Z4Fdk9GIPk92WZ3LLPVr_C871PPse0MrCsK18oUoLuI",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "A Bull Market Is Coming: Buy This Unrivaled Growth Stock That's Massively Outperforming Its Peers",
+            "author": "newsfeedback@fool.com (Adam Levy)",
+            "published_utc": "2023-11-07T11:05:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/07/a-bull-market-is-coming-buy-this-unrivaled-growth/",
+            "tickers": [
+                "META",
+                "GOOGL",
+                "GOOG",
+                "SNAP"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753890/getty-growth-of-money-over-time.jpg",
+            "description": "With its top line growing at least twice as fast as its competitors, this tech giant's stock looks like an incredible deal.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "UAhPdAtBvT12GAurZxA5L-dq8iorkrDaqrk4quioiJw",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "1 Artificial Intelligence (AI) Stock That's a Genius Buy in November and 1 to Avoid Like the Plague",
+            "author": "newsfeedback@fool.com (Sean Williams)",
+            "published_utc": "2023-11-07T10:21:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/07/1-ai-stock-a-genius-buy-in-november-and-1-to-avoid/",
+            "tickers": [
+                "META",
+                "NVDA",
+                "AMD"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753836/artificial-intelligence-ai-robot-big-data-bull-market-stock-chart-getty.jpg",
+            "description": "No investment trend is hotter than artificial intelligence (AI), but not every company will necessarily be a winner.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "QTai2lNCTtSDa_vf4A6Bd5kBGk0fXM2Z3LxUX9s6EUo",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "\u2018Stock-market correction is over\u2019 after broad surge amid \u2018epic\u2019 market rallies",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-06T21:57:00Z",
+            "article_url": "https://www.marketwatch.com/story/stock-market-correction-is-over-after-broad-surge-amid-epic-market-rallies-6a85426c",
+            "tickers": [
+                "DJIA",
+                "COMP",
+                "NVDA",
+                "META",
+                "TSLA",
+                "AMZN"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/stock-market-correction-is-over-after-broad-surge-amid-epic-market-rallies-6a85426c",
+            "image_url": "https://images.mktw.net/im-823296/social",
+            "description": "Last week's 'epic rallies' for stocks and bonds saw rate-sensitive sectors lead the way higher for the S&P 500. That could set the stage for a year-end rally, says Yardeni Research."
+        },
+        {
+            "id": "6inFOaLthGx74Io7Rbh1biyDCIn4bwhiAh7Aq2Nsgdk",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Wall Street veteran sees 'once in a generation buying opportunity' in unloved areas of global stock market",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-06T17:18:00Z",
+            "article_url": "https://www.marketwatch.com/story/wall-street-veteran-sees-once-in-a-generation-buying-opportunity-in-unloved-areas-of-global-stocks-d6d0357e",
+            "tickers": [
+                "AAPL",
+                "NVDA",
+                "MSFT",
+                "GOOGL",
+                "GOOG",
+                "AMZN",
+                "META",
+                "ACWI",
+                "COMP",
+                "DJIA"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/wall-street-veteran-sees-once-in-a-generation-buying-opportunity-in-unloved-areas-of-global-stocks-d6d0357e",
+            "image_url": "https://images.mktw.net/im-881960/social",
+            "description": "Is the Magnificent Seven's dazzling stretch of outperformance finally coming to an end?"
+        },
+        {
+            "id": "dWGiPRK2MOeqSjxYGbsfxG3L6NdEH1_HmYgzdrdeoxc",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Buffett Holding Record Cash, Vicious Short Squeeze Responsible For Large Stock Gains",
+            "author": "The Arora Report",
+            "published_utc": "2023-11-06T15:03:23Z",
+            "article_url": "https://www.benzinga.com/markets/23/11/35621518/buffett-holding-record-cash-vicious-short-squeeze-responsible-for-large-stock-gains",
+            "tickers": [
+                "META",
+                "GLD",
+                "SLV",
+                "SPY",
+                "USO",
+                "AMZN",
+                "GOOG",
+                "MSFT",
+                "NVDA",
+                "AXP",
+                "KO",
+                "AAPL",
+                "TSLA",
+                "QQQ"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35621518",
+            "image_url": "https://cdn.benzinga.com/files/adam-smigielski-k5mptonmphm-unsplash_11.jpg?width=1200&height=800&fit=crop",
+            "description": "To gain an edge, this is what you need to know today.\n\nChange In 60/40 Portfolio\nThere is a change in the 60/40 Portfolio.\u00a0 Please scroll down for details.\nBuffett Cautious\nPlease\u00a0click here\u00a0for a chart of Berkshire Hathaway Inc Class B (NYSE: BRK-B).\nNote the following:\n\nThe Morning Capsule is about the big picture, not an individual stock.\u00a0The chart of BRK.B stock is being used to illustrate the point.\nThe chart shows the stock of Warren Buffett\u2019s company Berkshire Hathaway broke out earlier this year.\nThe chart shows that the breakout failed.\nThe chart shows a big rally in BRK.B stock last week.\nThe latest report shows that Buffett is holding record cash of $157B.\nAt a time when Buffett is holding record cash, his stock portfolio shrank from $353B at the end of the prior quarter to $319B at the end of the last quarter.\nBuffett\u2019s major holdings, Apple Inc (NASDAQ: AAPL), American Express Company (NYSE: AXP), and Coca-Cola Co (NYSE: KO), all showed losses.\u00a0You will benefit from analysis of all 41 stocks in Buffett\u2019s portfolio.\u00a0The easiest way is to listen to the podcast series analyzing all 41 stocks in Buffett\u2019s portfolio in\u00a0Arora Ambassador Club.\nYou may be wondering where Buffett is holding his cash.\u00a0He is holding his cash in\u00a0T-bills.\u00a0Holding cash in\u00a0T-bills has been The Arora Report\u2019s recommendation.\u00a0Please see the \u201cProtection Band And What To Do Now\u201d section below.\u00a0\nThank you for all of your questions wanting to know why the stock market rally was so explosive last week.\u00a0Here is your answer.\u00a0Hedge funds had a record negative positioning in Treasuries.\u00a0When Treasuries moved higher in response to three macro events that we shared with you in the Capsules last week, a massive short squeeze in Treasuries took place.\u00a0The movement in Treasuries, in turn, caused the largest rally in stocks.\u00a0Many of you are also asking for an in-depth podcast on this subject ...Full story available on Benzinga.com",
+            "keywords": [
+                "Asia",
+                "Macro Economic Events",
+                "Commodities",
+                "Economics",
+                "Markets"
+            ]
+        },
+        {
+            "id": "_ytEdvQFq2xicBHgPPZPwkP_fLc8LGA4HKZvz3yy7_U",
+            "publisher": {
+                "name": "Seeking Alpha",
+                "homepage_url": "https://seekingalpha.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/seekingalpha.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/seekingalpha.ico"
+            },
+            "title": "Charlie Munger Says Investors Have To Buy These Stocks 'To Get Ahead'",
+            "author": "Samuel Smith",
+            "published_utc": "2023-11-06T12:46:00Z",
+            "article_url": "https://seekingalpha.com/article/4647873-charlie-munger-says-investors-buy-stocks-get-ahead",
+            "tickers": [
+                "AAPL",
+                "AMZN",
+                "BABA",
+                "BAM",
+                "BRK.A",
+                "BRK.B",
+                "COST",
+                "DJCO",
+                "EPD",
+                "ET",
+                "GOOG",
+                "GOOGL",
+                "IWM",
+                "META",
+                "MSFT",
+                "NVDA",
+                "NVEC",
+                "NYCB",
+                "O",
+                "PLTR",
+                "QQQ",
+                "SPY",
+                "TSLA",
+                "UNM",
+                "UNMA",
+                "UVE",
+                "VOO",
+                "XLU"
+            ],
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1413672539/image_1413672539.jpg?io=getty-c-w1536",
+            "description": "Charlie Munger recently pointed investors to narrow group of stocks that he believes will position their portfolios to"
+        },
+        {
+            "id": "iCaGt9k8V_mjJ_7BPv3F5qFUFD11wwjeYXARPZwvYS8",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Here's the Artificial Intelligence (AI) Stock Most Likely to Beat Tesla in Joining Apple, Microsoft, Alphabet, Amazon, and Nvidia in the $1 Trillion Club",
+            "author": "newsfeedback@fool.com (Keith Speights)",
+            "published_utc": "2023-11-06T10:50:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/06/stock-tesla-apple-microsoft-alphabet-amazon-nvidia/",
+            "tickers": [
+                "META",
+                "BRK.A",
+                "BRK.B",
+                "AAPL",
+                "MSFT",
+                "GOOGL",
+                "NVDA",
+                "TSLA",
+                "GOOG"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/752732/ai-icon-man-pointing.jpg",
+            "description": "AI could be the most important growth driver for this tech company.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "BSyjOM4Y14H70bJLbbCT5FxjOLuqtI7dqRGuuL8Gwa0",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "1 FAANG Stock That's a No-Brainer Buy in November and 1 to Avoid Like the Plague",
+            "author": "newsfeedback@fool.com (Sean Williams)",
+            "published_utc": "2023-11-06T10:21:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/06/1-faang-stock-no-brainer-buy-november-1-to-avoid/",
+            "tickers": [
+                "AMZN",
+                "AAPL",
+                "META",
+                "NFLX",
+                "GOOGL",
+                "GOOG"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753632/buy-sell-stock-market-rolling-dice-getty.jpg",
+            "description": "Among Meta Platforms (formerly Facebook), Apple, Amazon, Netflix, and Alphabet (formerly Google), there's an amazing deal hiding in plain sight, as well as an industry leader whose growth has fizzled out.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "7ThNQc5sqjcKfUJ4gx_eSf-8KP-TwJAOUDEOcUc7i5Q",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Elon Musk Announces New AI Chatbot 'Grok' \u2014 And It's Already Giving Its Peers A Run For Their Money",
+            "author": "Bibhu Pattnaik",
+            "published_utc": "2023-11-05T17:18:33Z",
+            "article_url": "https://www.benzinga.com/news/23/11/35610438/elon-musk-announces-new-ai-chatbot-grok-and-its-already-giving-its-peers-a-run-for-their-money",
+            "tickers": [
+                "ORCL",
+                "GOOGL",
+                "META"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35610438",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/11/05/musk_x.jpg?width=1200&height=800&fit=crop",
+            "description": "Elon Musk's artificial intelligence enterprise, xAI, has released\u00a0its inaugural AI model, the billionaire entrepreneur announced on X on Sunday.\u00a0\nWhat Happened: The model\u00a0Grok\u00a0is not just another chatbot \u2014 it's a witty, sarcastic entity seamlessly integrated with the platform\u00a0X, formerly known as Twitter.\nJust released Grok\u00a0https://t.co/e8xQp5xInk\n\u2014 Elon Musk (@elonmusk) November 5, 2023\nGrok taps directly into X's live \u2014 a feature Musk claims gives it an edge over competitors that typically depend on static data sets.\nAlso Read:\u00a0Elon Musk Shares Bizarre List Of 'Jobs In The Future,' Causes Stir on Twitter\nThis integration, Musk suggests, could be a game-changer for AI-driven interactions on social platforms.\nExample of Grok vs typical GPT, where Grok has current information, but other doesn\u2019t pic.twitter.com/hBRXmQ8KFi\n\u2014 Elon Musk (@elonmusk) November 5, 2023\n\nxAI\u2019s Grok system is designed to have a little humor in its responses pic.twitter.com/WqXxlwI6ef\n\u2014 Elon Musk (@elonmusk) November 4, ...",
+            "keywords": [
+                "News",
+                "Social Media",
+                "Top Stories",
+                "Tech",
+                "General"
+            ]
+        },
+        {
+            "id": "wmqIOPkVOyBN3qz4kAK2GekO2bfmgCRA0rVXNbOgXxI",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Unlocking Tech Treasures: Experts Reveal Hidden Value in 3 Great Stocks",
+            "author": "newsfeedback@fool.com (Anders Bylund, Nicholas Rossolillo, and Billy Duberstein)",
+            "published_utc": "2023-11-05T15:43:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/05/experts-unlock-3-tech-treasures/",
+            "tickers": [
+                "TTD",
+                "META",
+                "ON",
+                "SNAP"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753456/investor-shocked-at-price-chart.jpg",
+            "description": "The tech sector is bubbling with potential as great companies have seen stock prices drop in recent weeks. Our tech experts see particularly great long-term value in these three titans.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "FU12xpB_2DFzh-R8xYDC5dREfu4CoQBSBUTJ4-Xg4Ow",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Big Tech Earnings, Results From a Couple of Financial Companies, and a Look at Spotify",
+            "author": "newsfeedback@fool.com (Motley Fool Staff)",
+            "published_utc": "2023-11-05T14:14:51Z",
+            "article_url": "https://www.fool.com/investing/2023/11/05/big-tech-earnings-results-from-a-couple-of-financi/",
+            "tickers": [
+                "SPOT",
+                "MSFT",
+                "GOOGL",
+                "AMZN",
+                "META",
+                "MA",
+                "V",
+                "MASI",
+                "GOOG",
+                "OKTA"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/752815/mfm_20231027.jpeg",
+            "description": "We also chat with author Michael Lewis about Sam Bankman-Fried.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "ioaRZxkuo-rIKgGV0_JyA6wPI_bnazYwsP11Ns7sUGM",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Wall Street Thinks Meta Platforms Has Only 25% Upside. Here's Why It's Wrong.",
+            "author": "newsfeedback@fool.com (Keithen Drury)",
+            "published_utc": "2023-11-05T14:00:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/05/wall-street-thinks-meta-platforms-has-25-upside/",
+            "tickers": [
+                "META"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/752869/person-on-their-phone-in-apartment-sitting-on-the-floor.jpg",
+            "description": "Meta Platforms stock has extreme upside over the long term.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "2MWNYOQvGGG40jmfminE5iwMff1LAOEhR4cxRlUovpE",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "3 High-Performing Artificial Intelligence (AI) Stocks to Buy Hand Over Fist in November",
+            "author": "newsfeedback@fool.com (Justin Pope, Will Healy, and Jake Lerch)",
+            "published_utc": "2023-11-05T13:00:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/05/3-high-performing-artificial-intelligence-ai-stock/",
+            "tickers": [
+                "META",
+                "GOOGL",
+                "GOOG",
+                "TTD"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753452/man-in-the-middle-of-ai_deep-learning-1.jpg",
+            "description": "AI is poised to create life-changing wealth over the coming years. These three companies are well positioned for it.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "2wH4zBgsn_QKGNcjQ2uzZT-sOeadXAE_Wx1cU7vO3Ns",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Here are 5 reasons why U.S. stocks will likely rally into the end of 2023, says one Wall Street veteran",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-04T17:35:00Z",
+            "article_url": "https://www.marketwatch.com/story/here-are-5-reasons-why-u-s-stocks-will-likely-rally-into-the-end-of-2023-says-one-wall-street-veteran-86be1dcb",
+            "tickers": [
+                "MSFT",
+                "AMZN",
+                "GOOGL",
+                "META",
+                "AAPL",
+                "NVDA",
+                "COMP",
+                "DJIA"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/here-are-5-reasons-why-u-s-stocks-will-likely-rally-into-the-end-of-2023-says-one-wall-street-veteran-86be1dcb",
+            "image_url": "https://images.mktw.net/im-867042/social",
+            "description": "Investors are growing increasingly pessimistic about the stock market. But one Wall Street veteran believes that's a reason to start buying."
+        },
+        {
+            "id": "9g0cGZuHEwPNhn0xa_MG06knm4tKF_ZMEMogJY_umjE",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Why today's 'Magnificent Seven' stocks have mediocre long-term prospects at best",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-04T15:06:00Z",
+            "article_url": "https://www.marketwatch.com/story/todays-magnificent-seven-stocks-are-destined-to-ride-off-into-the-sunset-42596cee",
+            "tickers": [
+                "MSFT",
+                "AAPL",
+                "AMZN",
+                "NVDA",
+                "GOOGL",
+                "META",
+                "TSLA"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/todays-magnificent-seven-stocks-are-destined-to-ride-off-into-the-sunset-42596cee",
+            "image_url": "https://images.mktw.net/im-810845/social",
+            "description": "It\u2019s unlikely that the largest companies now will dominate the stock market in a decade."
+        },
+        {
+            "id": "2WvamyLgMIoyMXYU-0de4CsmW5RMwbYhU6ztBR1oAhw",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Who is having the most influence over your money in 2023? Meet the MarketWatch 50.",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-04T14:27:00Z",
+            "article_url": "https://www.marketwatch.com/story/who-is-having-the-most-influence-over-your-money-in-2023-meet-the-marketwatch-50-82c4f59d",
+            "tickers": [
+                "AAPL",
+                "AMZN",
+                "META",
+                "NVDA",
+                "MSFT",
+                "GOOGL",
+                "DVA",
+                "UAL",
+                "MDLZ",
+                "PEP",
+                "IEP",
+                "SQ",
+                "TSLA",
+                "BRK.B",
+                "GM",
+                "F",
+                "STLA",
+                "UPS"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/who-is-having-the-most-influence-over-your-money-in-2023-meet-the-marketwatch-50-82c4f59d",
+            "image_url": "https://images.mktw.net/im-878500/social",
+            "description": "The MarketWatch 50 lists the traders, corporate chiefs, AI players, policymakers and analysts who are influencing market moves \u2014 and your pocketbook"
+        },
+        {
+            "id": "OeX0uSmv_znkZGSmnqXQL0d_2ug83NL30OSB8dwrOIY",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "What's the Best FAANG Stock Right Now? There's a Clear Winner Based on 1 Key Metric",
+            "author": "newsfeedback@fool.com (Keith Speights)",
+            "published_utc": "2023-11-04T09:50:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/04/whats-the-best-faang-stock-right-now-theres-a-clea/",
+            "tickers": [
+                "META",
+                "AAPL",
+                "GOOGL",
+                "NFLX",
+                "AMZN",
+                "GOOG"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/752728/metaverse.jpg",
+            "description": "The best FAANG stock of the future just might be the group's best performer in 2023.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "_a3BmGf8W2lCD248MDXyG_W6vi7w5xF-dsXMqA6MbGs",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Q3 Results Reflect Positivity, But Outlook Uncertain",
+            "author": "Sheraz Mian",
+            "published_utc": "2023-11-03T20:24:00Z",
+            "article_url": "https://www.zacks.com/commentary/2178427/q3-results-reflect-positivity-but-outlook-uncertain",
+            "tickers": [
+                "AMZN",
+                "AAPL",
+                "MSFT",
+                "NVDA",
+                "TSLA",
+                "GOOGL",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/commentary/2178427/q3-results-reflect-positivity-but-outlook-uncertain",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/23/2523.jpg",
+            "description": "Estimates for 2023 Q4 and following quarters have started to come down, which follows a relatively stable revisions trend over the preceding six months."
+        },
+        {
+            "id": "yMwKr4b3JNlNEfnpbR42yTOAPOhlxlycqku-PZjY4Oo",
+            "publisher": {
+                "name": "Investing.com",
+                "homepage_url": "https://www.investing.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+            },
+            "title": "3 Top Growth Stocks Primed for a Powerful Year-End Rally",
+            "author": "Investing.com",
+            "published_utc": "2023-11-03T10:45:00Z",
+            "article_url": "https://www.investing.com/analysis/3-top-growth-stocks-primed-for-a-powerful-yearend-rally-200643288",
+            "tickers": [
+                "PLTR",
+                "PINS",
+                "ROKU",
+                "PLTR",
+                "META",
+                "XLK"
+            ],
+            "amp_url": "https://m.investing.com/analysis/3-top-growth-stocks-primed-for-a-powerful-yearend-rally-200643288?ampMode=1",
+            "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg"
+        },
+        {
+            "id": "zMGyW0qNKg_NSUuIOo1Ifrc1CbaM92N3oMpurgz93lY",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Apple Earnings And Jobs Report Ahead, Market Mechanics Taking Over",
+            "author": "The Arora Report",
+            "published_utc": "2023-11-02T15:35:33Z",
+            "article_url": "https://www.benzinga.com/23/11/35567958/apple-earnings-and-jobs-report-ahead-market-mechanics-taking-over",
+            "tickers": [
+                "GLD",
+                "SLV",
+                "SPY",
+                "USO",
+                "AMZN",
+                "GOOG",
+                "MSFT",
+                "NVDA",
+                "AMD",
+                "AAPL",
+                "TSLA",
+                "QQQ",
+                "META"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35567958",
+            "image_url": "https://cdn.benzinga.com/files/totos-adam-3r8rcsy0ffg-unsplash_3.jpg?width=1200&height=800&fit=crop",
+            "description": "To gain an edge, this is what you need to know today.\n\nMarket Mechanics\nPlease\u00a0click here\u00a0for a chart of Apple Inc (NASDAQ: AAPL).\nNote the following:\n\nThe Morning Capsule is about the big picture, not an individual stock.\u00a0A\u00a0chart of\u00a0AAPL\u00a0stock is being used to illustrate the point.\nAAPL\u00a0is the largest stock and carries heavy weight in the indexes.\u00a0For this reason,\u00a0AAPL\u00a0stock is very important to the stock market.\u00a0Apple reports earnings after the market close.\nThe chart shows that\u00a0AAPL\u00a0stock made a lower low below the support/resistance zone.\nThe chart shows that\u00a0AAPL\u00a0stock moved up back into the support/resistance zone yesterday on the Fed and market mechanics induced rally.\nMarket mechanics continue to drive aggressive stock buying this morning.\nApple has been showing declining growth for several quarters, and Apple has China troubles.\u00a0AAPL\u00a0stock is also very expensive.\u00a0However, none of the traditional fundamentals seem to matter in the case of Apple because a large number of investors believe in Apple and they want to buy\u00a0AAPL\u00a0stock.\nWe will be carefully looking at Apple\u2019s sales in China, iPhone sales, services growth, and\u00a0AI\u00a0plans.\u00a0The mention of\u00a0AI\u00a0is still very powerful.\u00a0For example, Advanced Micro Devices, Inc. (NASDAQ: AMD) reported weak earnings Tuesday.\u00a0After earnings, the stock fell to $94, but aggressive buying came in when the company gave rosie projections of its AI chip.\u00a0The stock moved up $14 from its low.\nThe all important jobs report will be released Friday at 8:30am ET.\u00a0The jobs report will test the budding rally in stocks.\nInitial jobless claims came at 217K vs. 214K consensus.\u00a0This indicates that the jobs picture is staying strong.\u00a0Initial jobless claims is\u00a0a leading indicator and carries heavy weight in our adaptive\u00a0ZYX Asset Allocation Model\u00a0with inputs in\u00a0ten categories.\u00a0In plain English, adaptiveness means that the model changes itself with market conditions.\u00a0Please\u00a0click here\u00a0to see how this is achieved.\u00a0One of the reasons behind The Arora Report\u2019s unrivaled performance in both ...Full story available on Benzinga.com",
+            "keywords": [
+                "Earnings",
+                "Economics",
+                "Markets",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "uTkfFikqbCHTXjOdQciUmYPEPWw1KHU40HCaKVmltTA",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Zacks Investment Ideas feature highlights: Tesla, Alphabet, Pinterest, Netflix and Meta Platforms",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-02T13:19:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2177380/zacks-investment-ideas-feature-highlights-tesla-alphabet-pinterest-netflix-and-meta-platforms",
+            "tickers": [
+                "NFLX",
+                "TSLA",
+                "GOOGL",
+                "PINS",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2177380/zacks-investment-ideas-feature-highlights-tesla-alphabet-pinterest-netflix-and-meta-platforms",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/81/12600.jpg",
+            "description": "Tesla, Alphabet, Pinterest, Netflix and Meta Platforms are part of the Zacks Investment Ideas article."
+        },
+        {
+            "id": "lVw5ylSfpLNUfCMti1D_ypzknQsYPmd97zC-oU_x1TY",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Zacks Investment Ideas feature highlights: Arista Networks, Microsoft, Meta Platforms, Oracle and Alphabet",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-02T13:10:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2177374/zacks-investment-ideas-feature-highlights-arista-networks-microsoft-meta-platforms-oracle-and-alphabet",
+            "tickers": [
+                "MSFT",
+                "ORCL",
+                "GOOGL",
+                "ANET",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2177374/zacks-investment-ideas-feature-highlights-arista-networks-microsoft-meta-platforms-oracle-and-alphabet",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/cc/12495.jpg",
+            "description": "Arista Networks, Microsoft, Meta Platforms, Oracle and Alphabet are part of the Zacks Investment Ideas article."
+        },
+        {
+            "id": "0NE-2hhdSCygCE4GTDc1pMIt0gMmdBlfzxGop8xJ42M",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Big Tech Sell-Off: Will Tesla Be the Next Domino to Fall?",
+            "author": "newsfeedback@fool.com (Daniel Foelber)",
+            "published_utc": "2023-11-02T13:03:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/02/big-tech-sell-off-will-tesla-stock-fall-buy-sell/",
+            "tickers": [
+                "TSLA",
+                "GOOGL",
+                "AMZN",
+                "NVDA",
+                "META",
+                "F",
+                "HMC",
+                "TM",
+                "GM",
+                "GOOG"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/752600/gettyimages-1323354412.jpg",
+            "description": "Tesla is still a worthwhile foundational holding, but it is facing challenges investors aren't used to.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "EXSO_ur18QE5jY7dqsV3jbKFMRaVLgLNvpBdXozyYJw",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "3 Reasons to Buy Meta Platforms Stock",
+            "author": "newsfeedback@fool.com (Prosper Junior Bakiny)",
+            "published_utc": "2023-11-02T13:00:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/02/3-reasons-to-buy-meta-platforms-stock/",
+            "tickers": [
+                "META"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/752857/person-taking-a-selife.jpg",
+            "description": "While some other tech giants have been sagging, the Facebook parent continues to sail ahead.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "4ZLX3iekYnVwiDdZ51A1t2ajF1qGn3L9ZHlHVvrmVvQ",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Stock Market News for Nov 02, 2023",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-02T12:27:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2177150/stock-market-news-for-nov-02-2023",
+            "tickers": [
+                "AAPL",
+                "MSFT",
+                "UTHR",
+                "MTZ",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2177150/stock-market-news-for-nov-02-2023",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/7f/24302.jpg",
+            "description": "Wall Street closed higher on Wednesday after the Federal Reserve kept its interest rates unchanged."
+        },
+        {
+            "id": "Ei0llVatg9atablrwW8YKEuTWSRH9wnFbpDor537_tg",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "You Might Be Shocked to Learn Where the S&P 500 Would Be in 2023 Without the \"Magnificent Seven\" Stocks",
+            "author": "newsfeedback@fool.com (Anthony Di Pizio)",
+            "published_utc": "2023-11-02T09:59:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/02/you-shocked-learn-sp-500-2023-magnificent-7-stocks/",
+            "tickers": [
+                "NVDA",
+                "AAPL",
+                "MSFT",
+                "AMZN",
+                "META",
+                "TSLA",
+                "NFLX",
+                "GOOGL",
+                "BAC",
+                "GOOG"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/752919/a-wall-street-street-sign-with-american-flags-in-the-backdrop.jpg",
+            "description": "The S&P 500 can thank one group of stocks for its positive return this year.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "Txw6oDER2HwJ3ZS237tdIPFuBXb8O6bYe8RgTSjQVuo",
+            "publisher": {
+                "name": "Investing.com",
+                "homepage_url": "https://www.investing.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+            },
+            "title": "Apple Earnings: iPhone, Services Sales and China in Focus Ahead of Key Report",
+            "author": "Investing.com",
+            "published_utc": "2023-11-02T08:37:00Z",
+            "article_url": "https://www.investing.com/analysis/apple-earnings-iphone-services-sales-and-china-in-focus-ahead-of-key-report-200643250",
+            "tickers": [
+                "AAPL",
+                "META",
+                "AMZN",
+                "MSFT",
+                "GOOGL"
+            ],
+            "amp_url": "https://m.investing.com/analysis/apple-earnings-iphone-services-sales-and-china-in-focus-ahead-of-key-report-200643250?ampMode=1",
+            "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg"
+        },
+        {
+            "id": "R-udx2FSK83YXhxfbdWGJeM4e0W_juFBDgqxC3FcXuo",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Bull of the Day: Amazon.com, Inc. (AMZN)",
+            "author": "Benjamin Rains",
+            "published_utc": "2023-11-02T08:00:00Z",
+            "article_url": "https://www.zacks.com/commentary/2176706/bull-of-the-day-amazoncom-inc-amzn",
+            "tickers": [
+                "AMZN",
+                "MSFT",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/commentary/2176706/bull-of-the-day-amazoncom-inc-amzn",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default248.jpg",
+            "description": "AMZN stock surged after its October 26 report to help it retake some key moving averages. Amazon's recent jump is part of an impressive rally off its lows..."
+        },
+        {
+            "id": "A0Rr9BXFF5SSbwXPOv1CEs5qpRc95A6ERQVR4GMgE30",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Earnings Season Top Performer: A Must Own Cloud Solutions Stock",
+            "author": "Ethan Feller",
+            "published_utc": "2023-11-01T17:26:00Z",
+            "article_url": "https://www.zacks.com/commentary/2176681/earnings-season-top-performer-a-must-own-cloud-solutions-stock",
+            "tickers": [
+                "AMZN",
+                "MSFT",
+                "ORCL",
+                "GOOGL",
+                "ANET",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/commentary/2176681/earnings-season-top-performer-a-must-own-cloud-solutions-stock",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/3a/51481.jpg",
+            "description": "A banner quarter has sent Arista Networks stock 25% in three days"
+        },
+        {
+            "id": "mQmOccVUQ88AYX07dWVV7m7mFYxJEIXtEZeObj_rToc",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "EPS Season: Unveiling the 3 Biggest Winners",
+            "author": "Andrew Rocco",
+            "published_utc": "2023-11-01T14:56:00Z",
+            "article_url": "https://www.zacks.com/commentary/2176495/eps-season-unveiling-the-3-biggest-winners",
+            "tickers": [
+                "CAT",
+                "NFLX",
+                "TSLA",
+                "GOOGL",
+                "ANET",
+                "PINS",
+                "META"
+            ],
+            "amp_url": "https://www.zacks.com/amp/commentary/2176495/eps-season-unveiling-the-3-biggest-winners",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ed/1058.jpg",
+            "description": "Better-than-expected earnings reports often spark up trends. Stock Strategist Andrew Rocco unveils 3 of the season's biggest winners."
+        }
+    ],
+    "status": "OK",
+    "request_id": "97aa8a82711d53c261aa711b7bd4dde2",
+    "count": 100,
+    "next_url": "https://api.polygon.io/v2/reference/news?cursor=YXA9MjAyMy0xMS0wMVQxNCUzQTU2JTNBMDBaJmFzPW1RbU9jY1ZVUTg4QVlYMDdkV1ZWN203bUZZeEpFSVh0RVplT2JqX3JUb2MmbGltaXQ9MTAwJm9yZGVyPWRlc2NlbmRpbmcmdGlja2VyPU1FVEE"
+}

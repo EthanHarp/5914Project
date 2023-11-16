@@ -1,0 +1,2913 @@
+{
+    "results": [
+        {
+            "id": "bTMcQldCV6yvrhiFdkgKrwc4ZRm_WdFjzxyHOXQLpsM",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Cathie Wood\u2019s ARK Innovation ETF in \u2018breakout mode\u2019 after triggering bullish pattern",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-16T18:34:00Z",
+            "article_url": "https://www.marketwatch.com/story/cathie-woods-ark-innovation-etf-in-breakout-mode-after-triggering-bullish-pattern-491d360b",
+            "tickers": [
+                "COIN",
+                "ROKU",
+                "TSLA",
+                "ZM",
+                "PATH",
+                "ARKK",
+                "SPY",
+                "QQQ",
+                "TAN",
+                "XSD",
+                "ARKG",
+                "QCLN",
+                "UUP",
+                "DBMF",
+                "FLTR",
+                "TFLO",
+                "USFR",
+                "QLTY"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/cathie-woods-ark-innovation-etf-in-breakout-mode-after-triggering-bullish-pattern-491d360b",
+            "image_url": "https://images.mktw.net/im-341402/social",
+            "description": "Cathie Wood\u2019s flagship exchange-traded fund, ARK Innovation ETF, has been on a bullish tear."
+        },
+        {
+            "id": "aIsLyw-JlDRPTt2QWFG7_5HasqN_2z5ah_FAt_65Mws",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "This banking giant has been saying cash is king. Now it advises a switch to stocks.",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-16T15:51:00Z",
+            "article_url": "https://www.marketwatch.com/story/the-firm-thats-been-saying-cash-is-king-says-now-is-the-time-to-switch-to-stocks-6b41e98b",
+            "tickers": [
+                "DJIA",
+                "COMP",
+                "WMT",
+                "M",
+                "AMAT",
+                "ROST",
+                "CSCO",
+                "BABA",
+                "NIO",
+                "XPEV",
+                "LI",
+                "TSLA",
+                "NVDA",
+                "AAPL",
+                "AMC",
+                "GME",
+                "AMZN",
+                "PLTR",
+                "MSFT"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/the-firm-thats-been-saying-cash-is-king-says-now-is-the-time-to-switch-to-stocks-6b41e98b",
+            "image_url": "https://images.mktw.net/im-52103498/social",
+            "description": "Barclays analysts have been pounding the table over the benefits of cash this year. It's time to switch to stocks, they say."
+        },
+        {
+            "id": "GgxjU2qS8UoxO7oJEOtFeMDd6VHgFj6rU2Fl5V_SEFs",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Tesla Is Great. Here's Why You Shouldn't Buy The Stock.",
+            "author": "newsfeedback@fool.com (Travis Hoium)",
+            "published_utc": "2023-11-16T12:00:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/16/tesla-great-why-you-shouldnt-buy-the-stock/",
+            "tickers": [
+                "TSLA",
+                "F",
+                "GM"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754871/0x0-model3_16.jpg",
+            "description": "Tesla has been a disruptive company, but recent operational performance shows why the stock isn't a good buy today.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "AeELh8XWYuptZwbGzagh9lXQ1PVDTQV5BkWKtEM0n54",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Bearish Analyst Takes A Swipe At Tesla As EV Maker Offers Discounts On Inventory Vehicles In Most Geographies: 'There's Infinite demand..., Right'",
+            "author": "Shanthi Rexaline",
+            "published_utc": "2023-11-16T10:14:39Z",
+            "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/23/11/35822134/bearish-analyst-takes-a-swipe-at-tesla-as-ev-maker-offers-discounts-on-inventory-ve",
+            "tickers": [
+                "TSLA"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35822134",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/Riga--Lv---Aug-27--2019-Tesla-Logo-At-Th.jpeg?width=1200&height=800&fit=crop",
+            "description": "Tesla, Inc.\u2019s (NASDAQ:TSLA) price cuts have had a margin-eroding effect on the company without producing the desired effect of lifting volume. After stalling the cuts and modestly revising up EV prices recently, the company reportedly has discounted prices in several of the geographies it operates in.\nWhat Happened: GLJ Research\u2019s Gordon Johnson, who is bearish on Tesla, on Thursday shared ion X, formerly Twitter, a screenshot showing Tesla offering EVs at discounts in many European Union countries such as Germany, France, the Netherlands, Sweden, Switzerland, and Norway. \nTaking a swipe at the company, Johnson said, \u201cBut who\u2019s counting, am I right? There\u2019s infinite demand for ...Full story available on Benzinga.com",
+            "keywords": [
+                "News",
+                "Analyst Color",
+                "Equities",
+                "Top Stories",
+                "Media"
+            ]
+        },
+        {
+            "id": "KOTyCrCK88pz8h0bXtUMboKFDZjhLQFY4NpR-RWLCbk",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "The Grinch may steal holiday cheer from these consumer tech companies",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-15T21:25:00Z",
+            "article_url": "https://www.marketwatch.com/story/the-grinch-may-steal-holiday-cheer-from-these-consumer-tech-companies-5208f26e",
+            "tickers": [
+                "AAPL",
+                "ETSY",
+                "ABNB",
+                "EBAY",
+                "AMZN",
+                "MA",
+                "META",
+                "SNAP",
+                "HD",
+                "TSLA"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/the-grinch-may-steal-holiday-cheer-from-these-consumer-tech-companies-5208f26e",
+            "image_url": "https://images.mktw.net/im-886967/social",
+            "description": "The Grinch is expected to steal some holiday cheer for several consumer-focused tech companies, in what is normally their strongest quarter."
+        },
+        {
+            "id": "r2EdetzJtm6oI4Xg1c8kjLnpmtyVpwW1DxfJlL424MQ",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Stocks Inch Higher On Soft PPI, 'Magnificent 7' Retest 2021 Record Highs: What's Driving Markets Wednesday?",
+            "author": "Shanthi Rexaline",
+            "published_utc": "2023-11-15T17:34:42Z",
+            "article_url": "https://www.benzinga.com/news/earnings/23/11/35800999/us-stocks-on-track-to-build-on-gains-as-traders-await-a-batch-of-data-can-market-resist-profit-taki",
+            "tickers": [
+                "GOOG",
+                "JJSF",
+                "DIA",
+                "KLIC",
+                "FEZ",
+                "MSFT",
+                "FXE",
+                "NVDA",
+                "GLD",
+                "SONO",
+                "SLV",
+                "AAP",
+                "SPY",
+                "ALC",
+                "TLT",
+                "TGT",
+                "USO",
+                "TJX",
+                "TSLA",
+                "UUP",
+                "QQQ",
+                "XLB",
+                "GOOGL",
+                "XLU",
+                "CTLT",
+                "AAPL",
+                "JD",
+                "AMZN",
+                "META",
+                "CSCO"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35800999",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/Wall-Street_0.jpeg?width=1200&height=800&fit=crop",
+            "description": "U.S. stocks trended higher on Wednesday, extending gains in a week marked by two soft inflation reports.  \nAfter a surprisingly sharp drop in the Consumer Price Index on Tuesday, a similar trend emerged on Wednesday with the Producer Price Index also declining more than anticipated. \nOctober retail sales data revealed a modest 0.1% decrease for the month, which was more favorable than the projected 0.3% fall.\nTraders are nearly fully factoring in the likelihood of the Federal Reserve maintaining steady interest rates in December while anticipating four rate reductions next year.\nThese adjusted expectations for interest rates have sparked an upsurge in major tech stocks. \nThe \u201cMagnificent Seven\u201d group, featuring prominent tech giants like Apple Inc. (NASDAQ:AAPL), Microsoft Corp. (NASDAQ:MSFT), Alphabet Inc. (NASDAQ:GOOG) (NASDAQ:GOOGL), Amazon Inc. (NASDAQ:AMZN), Meta Platforms Inc. (NASDAQ:META), NVIDIA Corp. (NASDAQ:NVDA) and Tesla, Inc. (NASDAQ:TSLA), is now revisiting peak levels last observed toward the end of 2021.\nOn a positive note, the House has approved a temporary spending bill that extends government funding through mid-January.\nChart Of The Day: \u2018Magnificent 7\u2019 Tech Giants Revisit Record Peaks \n\nCues From Wednesday\u2019s ...Full story available on Benzinga.com",
+            "keywords": [
+                "Cryptocurrency",
+                "Macro Economic Events",
+                "Sector ETFs",
+                "News",
+                "Earnings",
+                "Equities",
+                "Broad U.S. Equity ETFs",
+                "Emerging Market ETFs",
+                "Currency ETFs",
+                "Top Stories",
+                "Economics",
+                "Federal Reserve",
+                "Markets",
+                "Movers",
+                "Tech",
+                "Trading Ideas",
+                "ETFs"
+            ]
+        },
+        {
+            "id": "zupZ7-kiOtoFUKw9g9D56uhFp_NnuAeo7ccOR25u_Cw",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "10 stocks of consumer companies expected to grow sales the fastest through 2025",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-15T16:13:00Z",
+            "article_url": "https://www.marketwatch.com/story/10-stocks-of-consumer-companies-expected-to-grow-sales-the-fastest-through-2025-1fab18da",
+            "tickers": [
+                "AMZN",
+                "TSLA",
+                "DHI",
+                "PHM",
+                "LKQ",
+                "RCL",
+                "NCLH",
+                "WYNN",
+                "WHR",
+                "CZR",
+                "MHK",
+                "ETSY",
+                "POOL",
+                "TSCO",
+                "VFC",
+                "HAS",
+                "BWA",
+                "LULU",
+                "CMG",
+                "ABNB",
+                "LVS",
+                "BKNG",
+                "SBUX",
+                "EXPE"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/10-stocks-of-consumer-companies-expected-to-grow-sales-the-fastest-through-2025-1fab18da",
+            "image_url": "https://images.mktw.net/im-70404208/social",
+            "description": "Ten companies in the S&P 500 consumer-discretionary sector that analysts expect to increase revenue most quickly from 2023 through 2025."
+        },
+        {
+            "id": "OAXShEqTVusiz2aRxKQ60BKSwDWCL0H3z26RrNI2PDY",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Wholesale Inflation Lower Than Expected But Retail Sales Data Creates A Rethink In The Stock Market",
+            "author": "The Arora Report",
+            "published_utc": "2023-11-15T15:37:34Z",
+            "article_url": "https://www.benzinga.com/markets/23/11/35807623/wholesale-inflation-lower-than-expected-but-retail-sales-data-creates-a-rethink-in-the-stock-market",
+            "tickers": [
+                "GLD",
+                "SLV",
+                "SPY",
+                "USO",
+                "AMZN",
+                "GOOG",
+                "MSFT",
+                "NVDA",
+                "TGT",
+                "TJX",
+                "AAPL",
+                "TSLA",
+                "QQQ",
+                "META"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35807623",
+            "image_url": "https://cdn.benzinga.com/files/yiorgos-ntrahas-mcauhlgirvs-unsplash_8_9.jpg?width=1200&height=800&fit=crop",
+            "description": "To gain an edge, this is what you need to know today.\n\nNew Important Economic Data\nPlease\u00a0click here\u00a0for a chart of SPDR S&P 500 ETF Trust (ARCA:SPY) which represents the benchmark stock market index S&P 500 (SPX).\nNote the following:\n\nThe chart shows the gap up yesterday and the follow up rally on better than expected Consumer Price Index (CPI).\nThe chart shows the mini resistance zone that is the next magnet.\nRSI on the chart shows that the stock market is very overbought in the short term.\u00a0However, this is common when market mechanics of positioning and year end chase take over.\u00a0Market mechanics are very powerful.\u00a0About two thirds of the stock market rise this year is due to market mechanics.\u00a0Wall Street professionals closely guard the details of market mechanics because of their very high value.\u00a0For those who want to take their investing to the next level, there are several podcasts on market mechanics in\u00a0Arora Ambassador Club.\nThe chart shows that the stock market was running up earlier this morning prior to the release of important economic data on follow through momentum from yesterday.\nThere is more good news on inflation from the Producer Price Index (PPI).\u00a0Here are the details:\n\nHeadline PPI came at -0.5% vs. 0.1% consensus.\u00a0This is the biggest decline since April 2020.\nCore PPI came at 0.0% vs. 0.3% consensus.\n\n\nFor a split second, futures rose on better than expected PPI, but then the data on retail sales gave investors pause.\nHere are the details of retail sales data:\n\nHeadline retail sales came -0.1% vs. -0.3% consensus.\nRetail sales ex-auto came at 0.1% vs. -0.2% consensus.\n\n\nIn The Arora Report analysis, even though retail sales are better than the consensus, they are worse than the whisper numbers that were floating around yesterday.\u00a0\u00a0\nFurther in The Arora Report analysis, retail sales data shows that the consumer buying binge is beginning to slow down.\u00a0We projected months ago that consumer liquidity will start tightening up beginning in late October.\u00a0The just released data shows the Arora call was spot on.\u00a0Even though consumer liquidity is starting to tighten, the consumer still has significant liquidity to continue ...Full story available on Benzinga.com",
+            "keywords": [
+                "Cryptocurrency",
+                "Economics",
+                "Markets",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "1KiHq-ofm9Jxs923LlrDG1WUuUh7AcW25E6hrCQ-QDM",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Hedge-fund manager Harris Kupperman who called last year\u2019s tech crash bets on Florida, oil drillers and this commodity",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-15T15:20:00Z",
+            "article_url": "https://www.marketwatch.com/story/hedge-fund-manager-who-called-last-years-tech-crash-bets-on-florida-oil-drillers-and-this-commodity-aa13443c",
+            "tickers": [
+                "VAL",
+                "TDW",
+                "DO",
+                "JOE",
+                "COMP",
+                "TGT",
+                "TJX",
+                "JD",
+                "PANW",
+                "CSCO",
+                "BRK.A",
+                "BRK.B",
+                "GM",
+                "LSXMK",
+                "BATRK",
+                "NVDA",
+                "MSFT",
+                "RIVN",
+                "ARM",
+                "CART",
+                "AAPL",
+                "AMZN",
+                "XSD",
+                "BKNG",
+                "TSLA",
+                "AMC",
+                "GME",
+                "NIO",
+                "PLTR",
+                "PLUG"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/hedge-fund-manager-who-called-last-years-tech-crash-bets-on-florida-oil-drillers-and-this-commodity-aa13443c",
+            "image_url": "https://images.mktw.net/im-18509395/social",
+            "description": "Harris Kupperman, founder of hedge fund Praetorian Capital, says uranium, Florida and oil service companies are the best bets going right now."
+        },
+        {
+            "id": "lSQ9__Hcifxr_vX0AwZ52SjpWMJdigyVee_grR8sHzo",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "4 Ways to Grow $100,000 Into $1 Million for Retirement Savings",
+            "author": "newsfeedback@fool.com (Bradley Guichard)",
+            "published_utc": "2023-11-15T13:05:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/15/4-ways-to-grow-100000-into-1-million-for-retiremen/",
+            "tickers": [
+                "SBUX",
+                "AAPL",
+                "TSLA",
+                "TXN",
+                "NVDA",
+                "HD",
+                "LOW",
+                "NOW"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753849/person-standing-by-electric-car-and-charger.jpg",
+            "description": "Retirement savings are paramount; here's how to make a million.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "CvA5ZM4MFhNZlYA8Mcb-7gWHCx6DIWDjBgdiRxOQqTM",
+            "publisher": {
+                "name": "Seeking Alpha",
+                "homepage_url": "https://seekingalpha.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/seekingalpha.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/seekingalpha.ico"
+            },
+            "title": "A Massive Market Reversal Is Likely Coming",
+            "author": "High Yield Investor",
+            "published_utc": "2023-11-15T13:05:00Z",
+            "article_url": "https://seekingalpha.com/article/4651967-massive-market-reversal-coming",
+            "tickers": [
+                "AAPL",
+                "AMZN",
+                "AQN",
+                "AQNB",
+                "AQNU",
+                "BEP",
+                "BEPC",
+                "BIP",
+                "BIPC",
+                "BND",
+                "CCI",
+                "EPD",
+                "ET",
+                "GOOG",
+                "GOOGL",
+                "IWM",
+                "META",
+                "MSFT",
+                "NVDA",
+                "O",
+                "PLTR",
+                "QQQ",
+                "SCHD",
+                "SPY",
+                "TSLA",
+                "VNQ",
+                "VOO",
+                "VYM",
+                "XLU",
+                "ACTV",
+                "AFMC",
+                "AFSM",
+                "ARKK",
+                "AVUV",
+                "BAPR",
+                "IVOO",
+                "IVOV",
+                "IVV",
+                "IVW",
+                "IWC",
+                "IWN",
+                "IWO",
+                "IWP",
+                "IWR",
+                "IWS",
+                "IYY",
+                "SPLV",
+                "SPMD",
+                "SPMO",
+                "SPMV",
+                "SPSM",
+                "SPUS",
+                "SPUU",
+                "SPVM",
+                "SPVU",
+                "SPXE",
+                "SPXL",
+                "SPXN",
+                "SPXS",
+                "SPXT",
+                "SPXU",
+                "SPXV",
+                "SPYD",
+                "SPYG",
+                "SPYV",
+                "SPYX",
+                "SQEW",
+                "SQLV",
+                "SSLY",
+                "SSO",
+                "SSPY",
+                "SVAL",
+                "SYLD",
+                "TMDV",
+                "TPHD",
+                "TPLC",
+                "TPSC",
+                "UAUG",
+                "UJAN",
+                "UMAR",
+                "UMAY",
+                "UOCT",
+                "UPRO",
+                "USMC",
+                "USMF",
+                "USVM"
+            ],
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/888779364/image_888779364.jpg?io=getty-c-w1536",
+            "description": "Tech has flown high year-to-date, while several other sectors have been left in the dust. Learn why major economic trends are shifting."
+        },
+        {
+            "id": "lCUE_pctMpGc4IyOIstspzLWFSc22QTmBoeOp_Jfao0",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "How much thematic exposure do stock-market investors have? Here\u2019s what BlackRock found.",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-15T13:01:00Z",
+            "article_url": "https://www.marketwatch.com/story/how-much-thematic-exposure-do-stock-market-investors-have-heres-what-blackrock-found-f469bb9b",
+            "tickers": [
+                "MSFT",
+                "AMZN",
+                "META",
+                "AAPL",
+                "GOOGL",
+                "NVDA",
+                "TSLA",
+                "SOXX",
+                "IRBO",
+                "IHAK",
+                "EWW",
+                "INDA",
+                "BMED",
+                "IBB",
+                "IBRN"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/how-much-thematic-exposure-do-stock-market-investors-have-heres-what-blackrock-found-f469bb9b",
+            "image_url": "https://images.mktw.net/im-259548/social",
+            "description": "The dominant \u201cMagnificent Seven\u201d stocks in S&P 500 may have some investors expecting that they\u2019re \u201cwell exposed\u201d to thematic growth in their portfolios, but that might not be the case, according to BlackRock."
+        },
+        {
+            "id": "QcPW1fDbn4akAU4ObInA3qMRhMBbAghGn_DDZjYLWQg",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Got $1,000? Here Are 4 Artificial Intelligence Stocks to Buy Hand Over Fist, to Help You Retire a Millionaire.",
+            "author": "newsfeedback@fool.com (Adam Spatacco)",
+            "published_utc": "2023-11-15T12:50:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/15/got-1000-here-are-4-artificial-intelligence-stocks/",
+            "tickers": [
+                "MSFT",
+                "GOOGL",
+                "AMZN",
+                "META",
+                "AAPL",
+                "TSLA",
+                "NVDA",
+                "GOOG",
+                "PINS"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753062/social-media-scrolling-on-phone-networking.jpg",
+            "description": "These four members of the \"Magnificent Seven\" could help you retire a millionaire.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "Dd1SJmxEYz9GkZIdCQY64zLhucge9XHhsjPJBB3cYRU",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Tesla Stock: Buy, Sell, or Hold?",
+            "author": "newsfeedback@fool.com (Keithen Drury)",
+            "published_utc": "2023-11-15T12:30:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/15/tesla-stock-buy-sell-or-hold/",
+            "tickers": [
+                "TSLA",
+                "F",
+                "TM",
+                "GM",
+                "RACE"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754845/person-charging-their-electric-vehicle-with-the-sun-setting-in-the-background.jpg",
+            "description": "Tesla's declining margins have given the bears some credence over the past year.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "mnsNvXjKeyWPu4enJBHPQukcXPykNDstV3xiU2JvT9o",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Should You Invest in the Consumer Discretionary Select Sector SPDR ETF (XLY)?",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-15T11:20:06Z",
+            "article_url": "https://www.zacks.com/stock/news/2184352/should-you-invest-in-the-consumer-discretionary-select-sector-spdr-etf-xly",
+            "tickers": [
+                "XLY",
+                "AMZN",
+                "MCD",
+                "TSLA",
+                "VCR",
+                "FXD"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2184352/should-you-invest-in-the-consumer-discretionary-select-sector-spdr-etf-xly",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default42.jpg",
+            "description": "Sector ETF report for XLY"
+        },
+        {
+            "id": "23oXC7HraYla39H92Jwt3c8niUhimfe8y52zRCCWdCM",
+            "publisher": {
+                "name": "Investing.com",
+                "homepage_url": "https://www.investing.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+            },
+            "title": "3 Tech Stocks to Buy as Fed Pivot Odds Soar on Peak Inflation Bets",
+            "author": "Investing.com",
+            "published_utc": "2023-11-15T11:14:00Z",
+            "article_url": "https://www.investing.com/analysis/3-tech-stocks-to-buy-as-fed-pivot-odds-soar-on-peak-inflation-bets-200643620",
+            "tickers": [
+                "NVDA",
+                "META",
+                "TSLA",
+                "AMZN",
+                "MSFT",
+                "GOOGL",
+                "AAPL",
+                "DKNG",
+                "CRWD",
+                "DDOG",
+                "XLK"
+            ],
+            "amp_url": "https://m.investing.com/analysis/3-tech-stocks-to-buy-as-fed-pivot-odds-soar-on-peak-inflation-bets-200643620?ampMode=1",
+            "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg"
+        },
+        {
+            "id": "R0_0_oLg8gmTmRLpZfCnNNUkp-SWwcjXq311qQM3sc0",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "3 Moves to Make if the Stock Market Plummets Tomorrow",
+            "author": "newsfeedback@fool.com (Adria Cimino)",
+            "published_utc": "2023-11-15T10:30:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/15/3-moves-to-make-if-the-stock-market-plummets/",
+            "tickers": [
+                "KO",
+                "JNJ",
+                "AMZN",
+                "TSLA"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/755036/gettyimages-1316264191.jpg",
+            "description": "These steps could boost your long-term performance.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "Q-ShNM-VoHSzpnhFwnED_ektLZaQJ_eB6CiR7Rs3re4",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Not Cybertruck, But This EV Is Ray Of Hope For Tesla's Continued Success, Says Analyst",
+            "author": "Shanthi Rexaline",
+            "published_utc": "2023-11-15T09:10:51Z",
+            "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/23/11/35798182/not-cybertruck-but-this-ev-is-ray-of-hope-for-teslas-continued-success-says-analyst",
+            "tickers": [
+                "TSLA"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35798182",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/Tesla-Cybertruck-On-An-Asphalt-Desert-Ro.jpeg?width=1200&height=800&fit=crop",
+            "description": "Tesla, Inc.\u2018s (NASDAQ:TSLA) fundamentals have suffered this year amid the lukewarm demand outlook and the impact of successive price cuts on margins. An analyst on Tuesday outlined what the company needs to do to get its fundamentals back on track and taste continued success.\nWhat Happened: \u201cModel 2 is critical to the continued success of  $TSLA,\u201d said New Street Research\u2019s Pierre Ferragu in a post on X, formerly Twitter. \nThe analyst also reposted his research from February to make his case. He had said then that the Model 2 would likely be 15% shorter, 30% lighter, and be powered by a 25% smaller battery than the Model 3. He said the cost of manufacturing the Model 2 EV will likely be 37% less than it takes to build the Model 3. He ...Full story available on Benzinga.com",
+            "keywords": [
+                "News",
+                "Analyst Color",
+                "Equities",
+                "Top Stories"
+            ]
+        },
+        {
+            "id": "R15BsgOnztlCWsnOmxCQaF2_EqEhXy9Xjm-Vai17Rmk",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "The Magnificent Seven add more than $200 billion to their market caps",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-14T21:45:00Z",
+            "article_url": "https://www.marketwatch.com/story/the-magnificent-seven-add-more-than-200-billion-to-their-market-caps-0d55369b",
+            "tickers": [
+                "GOOGL",
+                "GOOG",
+                "AMZN",
+                "AAPL",
+                "META",
+                "MSFT",
+                "NVDA",
+                "TSLA"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/the-magnificent-seven-add-more-than-200-billion-to-their-market-caps-0d55369b",
+            "image_url": "https://images.mktw.net/im-886882/social",
+            "description": "It was a magnificent day for the stock market Tuesday, highlighted by a strong performance by the Magnificent Seven technology giants, led by Tesla and Apple shares."
+        },
+        {
+            "id": "ozR2pxlo55ItQjL7f8L-9Ky4oomc_yD3XnZBITE1f_4",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Elon Musk's Tesla's AI Licensing/Services Businesses Has Upside Depending On How Well It Executes: Goldman Sachs",
+            "author": "Anusuya Lahiri",
+            "published_utc": "2023-11-14T19:34:25Z",
+            "article_url": "https://www.benzinga.com/news/23/11/35780837/elon-musks-teslas-ai-licensingservices-businesses-has-upside-depending-on-how-well-it-executes-goldm",
+            "tickers": [
+                "TSLA"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35780837",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/11/14/tesla-photo_by_b.zhou_on_shutterstock.jpg?width=1200&height=800&fit=crop",
+            "description": "Goldman Sachs\u00a0analyst\u00a0Mark Delaney\u00a0reiterated a Neutral rating on\u00a0Tesla Inc\u00a0(NASDAQ: TSLA) with a\u00a0price target of $235.\nDelaney updated his framing of the medium-term addressable market for FSD (Full Self Driving, the name of Tesla's automated driving product), compared FSD and D1/Dojo to other ADAS/AV and AI training products, and discussed implications for valuation.\nThe analyst notes that Tesla is among the leaders in AI technology and expects that this will help it expand businesses like FSD, particularly for Tesla's fleet of vehicles.\u00a0\nTesla's AI licensing/services businesses, given the high degree of competition (Nvidia in particular in AI training and multiple OEMs and ...Full story available on Benzinga.com",
+            "keywords": [
+                "News",
+                "Price Target",
+                "Reiteration",
+                "Analyst Ratings",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "IuAwbvygJx_saCypsQ_dVt6nP3HY0KWUKzAzipNLUw4",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Technology stocks hit record high as Nasdaq looks to exit correction territory",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-14T18:08:00Z",
+            "article_url": "https://www.marketwatch.com/story/technology-stocks-hit-record-high-as-nasdaq-looks-to-exit-correction-territory-e29f7596",
+            "tickers": [
+                "XLK",
+                "NVDA",
+                "MSFT",
+                "AAPL",
+                "META",
+                "GOOG",
+                "GOOGL",
+                "AMZN",
+                "TSLA",
+                "COMP"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/technology-stocks-hit-record-high-as-nasdaq-looks-to-exit-correction-territory-e29f7596",
+            "image_url": "https://images.mktw.net/im-886787/social",
+            "description": "Technology stocks hit record high as Nasdaq looks to exit correction territory"
+        },
+        {
+            "id": "KUMC6guep9yGYMszX6J02hhAmCjTuSpLz44r9wkHBqI",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Stock movers: Snapchat, Theseus Pharmaceuticals, Azenta, Beauty Health, Fisker",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-14T17:54:00Z",
+            "article_url": "https://www.marketwatch.com/story/snapchat-shares-jump-on-amazon-deal-as-beauty-health-stock-slumps-on-guidance-cut-1c53346f",
+            "tickers": [
+                "HD",
+                "DJIA",
+                "TSLA",
+                "AMZN",
+                "SNAP",
+                "BXP",
+                "LL",
+                "THRX",
+                "AZTA",
+                "FSR",
+                "SKIN",
+                "WKHS"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/snapchat-shares-jump-on-amazon-deal-as-beauty-health-stock-slumps-on-guidance-cut-1c53346f",
+            "image_url": "https://images.mktw.net/im-667012/social",
+            "description": "Shares in Snapachat, Theseus Pharmaceuticals, Azenta, Beauty Health, and Fisker were all active in pre market trading"
+        },
+        {
+            "id": "eCS1smFxMFrSBUoPDGv1SScJ9P7Tz0SwFcNM-sF6TWE",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Deploy Cash And Reduce Hedges \u2013 Inflation Below Expectations",
+            "author": "The Arora Report",
+            "published_utc": "2023-11-14T16:41:08Z",
+            "article_url": "https://www.benzinga.com/economics/23/11/35782133/deploy-cash-and-reduce-hedges-inflation-below-expectations",
+            "tickers": [
+                "GLD",
+                "SLV",
+                "USO",
+                "AMZN",
+                "GOOG",
+                "MSFT",
+                "NVDA",
+                "HD",
+                "AAPL",
+                "TSLA",
+                "QQQ",
+                "META"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35782133",
+            "image_url": "https://cdn.benzinga.com/files/regularguy-eth-w9codxtsfts-unsplash_15.jpg?width=1200&height=800&fit=crop",
+            "description": "To gain an edge, this is what you need to know today.\n\nDeploy Cash And Reduce Hedges\nThe trigger for the call to deploy cash and\u00a0reduce\u00a0hedges is two-fold:\n\nMarket mechanics of year end chase.\u00a0This market mechanic results in money managers aggressively buying stocks even if their opinion of the stock market is bearish.\nLower than expected CPI.\n\nPlease scroll down to the Protection Band And What To Do Now section for the changes.\u00a0The changes should be made in small tranches, especially if the stock market pulls back after this morning\u2019s spike up.\nCPI\nPlease\u00a0click here\u00a0for a chart of SPDR S&P 500 ETF Trust (ARCA:SPY) which represents the benchmark stock market index S&P 500 (SPX).\nNote the following:\n\nThe chart shows that the stock market is ripping higher this morning on better than expected CPI.\nThe chart shows that the next target is the mini resistance zone.\nThe chart shows when hedges were reduced previously.\u00a0The prior call was to deploy more cash.\u00a0Now, there is a new call to deploy more cash and\u00a0reduce\u00a0hedges further.\nRSI on the chart shows that the market is overbought.\u00a0If the market pulls back due to overbought conditions, the pullback should be used to deploy more cash and\u00a0reduce\u00a0hedges.\nCPI came better than expected.\u00a0Here are the details:\n\nHeadline CPI came at 0.0% vs. 0.1% consensus.\nCore CPI came at 0.2% vs. 0.3% consensus.\n\n\nHome Depot Inc (NYSE: HD) earnings have broader implications.\u00a0Home Depot is also in the Dow Jones Industrial Average (ARCA: DJIA).\u00a0Home Depot reported earnings slightly better than the consensus.\u00a0Prudent investors should note that Home Depot expects fiscal year earnings to be down 9% - 11% and same store ...Full story available on Benzinga.com",
+            "keywords": [
+                "News",
+                "Earnings",
+                "Cryptocurrency",
+                "Economics",
+                "Markets",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "1yZ7MnXpz1h66qAJz-R8E64iWBtyqUo-F0t6MuX5lyc",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Tesla Charges Higher Towing Cathie Wood's ARKK, This 2X Leverage ETF Higher: How To Play The Move",
+            "author": "Melanie Schaffer",
+            "published_utc": "2023-11-14T15:48:35Z",
+            "article_url": "https://www.benzinga.com/trading-ideas/long-ideas/23/11/35778162/tesla-charges-higher-towing-cathie-woods-arkk-this-2x-leverage-etf-higher-how-to-play-th",
+            "tickers": [
+                "TSLA",
+                "ARKK",
+                "TARK"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35778162",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/11/14/shutterstock_2172792249.jpg?width=1200&height=800&fit=crop",
+            "description": "Tesla, Inc (NASDAQ: TSLA) gapped up over 5% to start Tuesday\u2019s trading session, which Benzinga called out on Monday was likely to happen.\nThe significant move higher helped to cause the Cathie Wood-led Ark Innovation ETF (ARCA: ARKK) to follow north, gapping up over 4%, while the AXS 2X Innovation ETF\u00a0(NASDAQ: TARK) started Tuesday\u2019s session up over 8% higher.\nTARK is an actively managed double-leveraged ETF aiming to return 200% of the daily performance of the ARK Innovation ETF, the latter which holds an 8.53% weighting of Tesla but offers diversification through multiple other holdings.\nMust Read:\u00a0Early Believer In Tesla And NVIDIA, Cathie Wood And Her Firm Changed Modern Investing - Just What Does ...Full story available on Benzinga.com",
+            "keywords": [
+                "Long Ideas",
+                "Short Ideas",
+                "Specialty ETFs",
+                "New ETFs",
+                "Technicals",
+                "Movers",
+                "Trading Ideas",
+                "ETFs"
+            ]
+        },
+        {
+            "id": "MDKWiawJfjkC53hZ0cpUGeQYjXWZO8AcuPH3MuRZFmQ",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Tesla, Inc. (TSLA) Is a Trending Stock: Facts to Know Before Betting on It",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-14T14:00:10Z",
+            "article_url": "https://www.zacks.com/stock/news/2183887/tesla-inc-tsla-is-a-trending-stock-facts-to-know-before-betting-on-it",
+            "tickers": [
+                "TSLA"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2183887/tesla-inc-tsla-is-a-trending-stock-facts-to-know-before-betting-on-it",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default37.jpg",
+            "description": "Recently, Zacks.com users have been paying close attention to Tesla (TSLA). This makes it worthwhile to examine what the stock has in store."
+        },
+        {
+            "id": "OIBu-FQcJBP92SvsJK4gY2UsToKFyyHWWFUzq5xD_Rc",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Here\u2019s the most crowded trade on Wall Street, according to Bank of America",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-14T13:43:00Z",
+            "article_url": "https://www.marketwatch.com/story/heres-the-most-crowded-trade-on-wall-street-according-to-bank-of-america-9bf50020",
+            "tickers": [
+                "HD",
+                "TGT",
+                "TJX",
+                "WMT",
+                "TECK",
+                "LL",
+                "TSLA",
+                "GME",
+                "NVDA",
+                "AMC",
+                "AAPL",
+                "NIO",
+                "AMZN",
+                "PLTR",
+                "PLUG",
+                "MSFT"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/heres-the-most-crowded-trade-on-wall-street-according-to-bank-of-america-9bf50020",
+            "image_url": "https://images.mktw.net/im-886601/social",
+            "description": "Bank of America says investors are betting big on Fed easing for 2024."
+        },
+        {
+            "id": "whvi-uN7aucYfEFHd4HjYebs7okZck9EklHQC5TiywQ",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Zacks Investment Ideas feature highlights: Tesla, Ferrari, Ford, Alphabet's and Mobileye",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-14T12:15:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2183761/zacks-investment-ideas-feature-highlights-tesla-ferrari-ford-alphabets-and-mobileye",
+            "tickers": [
+                "F",
+                "TSLA",
+                "GOOGL",
+                "MBLY",
+                "RACE"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2183761/zacks-investment-ideas-feature-highlights-tesla-ferrari-ford-alphabets-and-mobileye",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/81/12600.jpg",
+            "description": "Tesla, Ferrari, Ford, Alphabet's and Mobileye are part of the Zacks Investment Ideas article."
+        },
+        {
+            "id": "otIPIFxvxvelMZcOmqqFybj5_XqJkf0MYPCOxHNimUU",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Tesla's Supercharger Network Could Be a Game Changer. Here's Why.",
+            "author": "newsfeedback@fool.com (Adam Spatacco)",
+            "published_utc": "2023-11-14T10:37:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/14/teslas-supercharger-network-could-be-a-game-change/",
+            "tickers": [
+                "TSLA"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753236/man-using-mobile-phone-while-charging-electric-car.jpg",
+            "description": "While self-driving and robotics may be the talk of the town for Tesla, investors shouldn't sleep on the potential of its charging stations.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "1ZRJ_8kC3CESVc2I42Y3Z1bGJifYcHN2xRcdOkWFu80",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "2 Ultra-Popular Stocks Growth Investor Cathie Wood Is Dumping",
+            "author": "newsfeedback@fool.com (Sean Williams)",
+            "published_utc": "2023-11-14T10:21:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/14/2-stocks-growth-investor-cathie-wood-is-dumping/",
+            "tickers": [
+                "TSLA",
+                "ROKU"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754873/investor-pressing-sell-button-getty.jpg",
+            "description": "Ark Invest is paring back its stakes in two stocks that Wood and her team previously assigned lofty price targets.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "JezFGvuVPu-ddm0rAmHrGo_0NjLrtAGzN3u8Hbi6eBA",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Tesla China Sales Continue To Languish, New Data Shows; Will Upside Price Tweaks Aggravate Weakness?",
+            "author": "Shanthi Rexaline",
+            "published_utc": "2023-11-14T10:08:35Z",
+            "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/23/11/35770326/tesla-china-sales-continue-to-languish-new-data-shows-will-upside-price-tweaks-aggr",
+            "tickers": [
+                "TSLA"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35770326",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/Tesla-showroom-in-Austin--Texas-_0.jpeg?width=1200&height=800&fit=crop",
+            "description": "Tesla, Inc.\u2018s (NASDAQ:TSLA) sales have stuttered in all geographies, and China, one of its key markets, hasn\u2019t been an exception. New vehicle insurance registration data for the recent reporting week showed there is no respite yet despite the ramp-up and sales of the Model 3 refresh.\nWhat Happened: Insurance registrations for Tesla vehicles stood at 13,000 units in the week of November 6-12 were at 12,700 units compared to 14,000 units in the previous week, CnEVPost reported. Insurance registrations so far in November totaled 22,900 units.\nFuture Fund\u2019s Gary Black took to X, formerly Twitter, to note that quarter-to-date insured registrations were 7% below the same period in the third quarter. He said the numbers for the week of November 12 included 5,000 units of the Model 3 refresh.\n\n\n$TSLA China reported a modest 13K insured registrations for ...Full story available on Benzinga.com",
+            "keywords": [
+                "News",
+                "Analyst Color",
+                "Equities",
+                "Asia",
+                "Top Stories",
+                "Media"
+            ]
+        },
+        {
+            "id": "3dgdEoH9q0Bsuj3rmfUY2ZlZ-JQbDLVvzQDgdF-B5Xo",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Why Tesla Stock Zoomed 4% Higher on Monday",
+            "author": "newsfeedback@fool.com (Eric Volkman)",
+            "published_utc": "2023-11-13T22:36:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/13/why-tesla-stock-zoomed-4-higher-on-monday/",
+            "tickers": [
+                "TSLA"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754979/happy-person-leaning-out-of-a-car-window-while-riding-at-night.jpg",
+            "description": "Two pieces of good news from abroad gave a nice jolt to sentiment on the company.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "OE4dwjaE9yrYMb-kA0p4Qrbr_GYpgblG0ungTyJf21M",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Is Today's Pop a Good Reason to Buy Tesla Stock?",
+            "author": "newsfeedback@fool.com (Howard Smith)",
+            "published_utc": "2023-11-13T21:59:14Z",
+            "article_url": "https://www.fool.com/investing/2023/11/13/is-todays-pop-a-good-reason-to-buy-tesla-stock/",
+            "tickers": [
+                "TSLA",
+                "BP"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754972/0x0-cybertruck_12.jpg",
+            "description": "A new revenue stream is gaining traction.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "iXyABugsdlUnEBmnaxmL2mDuFebp4X6k9IohuBIJcUI",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Tesla: Breaking Down Baron's Bull Thesis",
+            "author": "Andrew Rocco",
+            "published_utc": "2023-11-13T20:16:00Z",
+            "article_url": "https://www.zacks.com/commentary/2183546/tesla-breaking-down-barons-bull-thesis",
+            "tickers": [
+                "F",
+                "TSLA",
+                "GOOGL",
+                "MBLY",
+                "RACE"
+            ],
+            "amp_url": "https://www.zacks.com/amp/commentary/2183546/tesla-breaking-down-barons-bull-thesis",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/38/20242.jpg",
+            "description": "Legendary billionaire investor Ron Baron has a $5 billion profit in Tesla. Learn why he remains hyper-bullish on the world's leading EV-maker."
+        },
+        {
+            "id": "CXEcA7mm4LnBT9_6g3Bzf2V53R5R-lkwWwuM7BJArks",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "\u2018Pretty hairy right now\u2019: Billionaire investor Ron Baron breaks down his X investment",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-13T19:28:00Z",
+            "article_url": "https://www.marketwatch.com/story/pretty-hairy-right-now-billionaire-investor-ron-baron-breaks-down-his-x-investment-af5dfdee",
+            "tickers": [
+                "TSLA"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/pretty-hairy-right-now-billionaire-investor-ron-baron-breaks-down-his-x-investment-af5dfdee",
+            "image_url": "https://images.mktw.net/im-822771/social"
+        },
+        {
+            "id": "7R-XArHF3qrVy_OyPaUE8FerxFxq_YbV09vIuq1sm8g",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Stocks Pause Ahead Of CPI Report; Commodities, Tesla, Boeing Surge On Rising China Hopes: What's Driving Markets Monday?",
+            "author": "Shanthi Rexaline",
+            "published_utc": "2023-11-13T18:35:15Z",
+            "article_url": "https://www.benzinga.com/news/earnings/23/11/35745289/us-stocks-on-track-to-start-week-lower-as-moodys-rating-outlook-cut-inflation-data-dampen-risk-appe",
+            "tickers": [
+                "BA",
+                "DIS",
+                "DVA",
+                "DIA",
+                "FSR",
+                "FEZ",
+                "TSN",
+                "FXE",
+                "TSLA",
+                "GLD",
+                "QQQ",
+                "SPY",
+                "UAA",
+                "TLT",
+                "USO",
+                "MNDY",
+                "UUP",
+                "XLE",
+                "XLU",
+                "HSIC",
+                "PLUG",
+                "PODD",
+                "TSEM"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35745289",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/Wall-Street.jpeg?width=1200&height=800&fit=crop",
+            "description": "The markets exhibited a mixed trend Monday, with technology heavyweights experienced a slight downturn as investors adopt a cautious approach ahead of the pivotal consumer price index report on Tuesday.\nAdding to the market\u2019s unease: Moody\u2019s decision to revise the U.S. sovereign rating outlook Friday from stable to negative, citing growing concerns about fiscal management amid rising interest rates and significant fiscal deficits.\nThe U.S. dollar saw a modest decline of 0.2%, while commodities experienced a notable surge across the board. WTI crude oil and U.S. natural gas prices increased by 1.5% and 6%, respectively. The jump in the latter\u2019s prices was particularly influenced by forecasts of colder weather and a subsequent rise in heating demand in late November.\nChinese-related stocks surged, dragging gains on Tesla Inc. (NASDAQ:TSLA) and Boeing Co. (NYSE:BA), both up 4%, following reports that China may end its commercial freeze on buying 737 Max when U.S. President Joe Biden and Chinese President Xi Jinping meet this week. \nCues From Monday\u2019s Trading:\nThe S&P 500 was flat for the day, while tech stocks in the Nasdaq 100 fell 0.24%. Blue chips outperformed, as the Dow Jones Industrial Average rose 0.30%, while small caps in the Russell 2000 were little changed. \n                                         ...Full story available on Benzinga.com",
+            "keywords": [
+                "News",
+                "Earnings",
+                "Equities",
+                "Broad U.S. Equity ETFs",
+                "Top Stories",
+                "Economics",
+                "Federal Reserve",
+                "Pre-Market Outlook",
+                "Markets",
+                "Movers",
+                "Trading Ideas",
+                "ETFs"
+            ]
+        },
+        {
+            "id": "9O2pb5rrq8X0PXb6RLoaL8ROMDDYTcAc2ypQN8E6jKc",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Hedge funds are betting that stocks will fall and indexes will rise at the same time. What\u2019s going on?",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-13T18:26:00Z",
+            "article_url": "https://www.marketwatch.com/story/hedge-funds-are-betting-that-stocks-will-fall-and-indexes-will-rise-at-the-same-time-whats-going-on-3d14db22",
+            "tickers": [
+                "COMP",
+                "AAPL",
+                "GOOG",
+                "MSFT",
+                "NVDA",
+                "AMZN",
+                "TSLA",
+                "META",
+                "DJIA"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/hedge-funds-are-betting-that-stocks-will-fall-and-indexes-will-rise-at-the-same-time-whats-going-on-3d14db22",
+            "image_url": "https://images.mktw.net/im-886226/social",
+            "description": "There's an issue that's been bugging stock-market investors all year."
+        },
+        {
+            "id": "aILCFVI-sJEIimcy-wnGCL2grKfXNWESOOsncQzKxfs",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Tesla Charges Higher, Regains Key Indicator As Support: This ETF Offers 150% Leverage To Play Upside, Downside",
+            "author": "Melanie Schaffer",
+            "published_utc": "2023-11-13T17:59:39Z",
+            "article_url": "https://www.benzinga.com/trading-ideas/long-ideas/23/11/35756896/tesla-charges-higher-regains-key-indicator-as-support-this-etf-offers-150-leverage-to-pl",
+            "tickers": [
+                "TSLA",
+                "TSLL",
+                "TSLS"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35756896",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/11/13/shutterstock_2178822385.jpg?width=1200&height=800&fit=crop",
+            "description": "Tesla, Inc (NASDAQ: TSLA) was charging almost over 4% higher Monday after reports surfaced indicating India is considering implementing tax cuts on EV imports.\nThe Asian country, which has the highest population of any nation on earth, aims to convince Tesla to sell its cars there and eventually build a manufacturing facility in the country.\nThe news sent Tesla flying up over the 200-day simple moving average, which the stock fell below on Nov. 9. The 200-day SMA is an important bellwether. Technical traders and investors consider a stock trading above the level on the daily chart to be in a bull cycle, whereas a stock trading under the 200-day SMA is considered to be in a bear cycle.\nThe 50-day SMA also plays an important role in technical analysis, especially when paired with the 200-day. When the 50-day SMA ...Full story available on Benzinga.com",
+            "keywords": [
+                "Long Ideas",
+                "Short Ideas",
+                "Specialty ETFs",
+                "Technicals",
+                "Trading Ideas",
+                "ETFs"
+            ]
+        },
+        {
+            "id": "_wP5e8O6Q4nmG592wBg_g-NHD07FQCABLsZmH7UJRmI",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Tesla's Cybertruck contract restricts reselling vehicle within the first year",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-13T17:01:00Z",
+            "article_url": "https://www.marketwatch.com/story/teslas-cybertruck-contract-restricts-reselling-vehicle-within-the-first-year-12a8c418",
+            "tickers": [
+                "TSLA"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/teslas-cybertruck-contract-restricts-reselling-vehicle-within-the-first-year-12a8c418",
+            "image_url": "https://images.mktw.net/im-284967/social",
+            "description": "Tesla has a surprising clause in its terms of service just for the Cybertruck: you can't sell it for at least one year without the company's consent."
+        },
+        {
+            "id": "FVKWCi2Hx0oCLj6mwhJG1yR8Iwf_Ro73g1GjVW6UDyI",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Cathie Wood's Silent Warning on Tesla",
+            "author": "newsfeedback@fool.com (Jeremy Bowman)",
+            "published_utc": "2023-11-13T14:39:23Z",
+            "article_url": "https://www.fool.com/investing/2023/11/13/cathie-woods-silent-warning-on-tesla/",
+            "tickers": [
+                "TSLA",
+                "ARKK"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754662/economic-crisis-stock-chart-falling-down-business-global-money-bankruptcy.jpg",
+            "description": "Ark Invest has sold more than 1 million shares of Tesla over the past six months.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "9-g8aOcdcEfKkvdWUyHn_JgQLUVmowQpYsZU4Ro2uEg",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Here's How Canoo (GOEV) is Placed Ahead of Q3 Earnings Release",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-13T13:40:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2183175/heres-how-canoo-goev-is-placed-ahead-of-q3-earnings-release",
+            "tickers": [
+                "TSLA",
+                "GOEV",
+                "RIVN"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2183175/heres-how-canoo-goev-is-placed-ahead-of-q3-earnings-release",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/b9/49304.jpg",
+            "description": "The Zacks Consensus Estimate for Canoo's (GOEV) third-quarter loss per share and revenues is pegged at 12 cents and $750,000, respectively."
+        },
+        {
+            "id": "l7p0PALpGD-Mcg_BvW5zvCgNAtcoCzFkFHK-8rJMApw",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Morgan Stanley has boosted its S&P 500 target \u2014 but here\u2019s where it sees the real opportunities",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-13T13:32:00Z",
+            "article_url": "https://www.marketwatch.com/story/morgan-stanley-has-boosted-its-s-p-500-target-but-heres-where-it-sees-the-real-opportunities-52c5a920",
+            "tickers": [
+                "COST",
+                "USFD",
+                "WMT",
+                "KDP",
+                "PM",
+                "NKE",
+                "MCD",
+                "HLT",
+                "MAR",
+                "YUM",
+                "NOC",
+                "COP",
+                "MRO",
+                "DAL",
+                "BA",
+                "NVO",
+                "XOM",
+                "TSLA",
+                "NVDA",
+                "AMC",
+                "PLUG",
+                "AAPL",
+                "NIO",
+                "GME",
+                "PLTR",
+                "AMZN",
+                "MSFT"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/morgan-stanley-has-boosted-its-s-p-500-target-but-heres-where-it-sees-the-real-opportunities-52c5a920",
+            "image_url": "https://images.mktw.net/im-886003/social",
+            "description": "What Morgan Stanley likes for 2024 are high-quality stocks and bonds."
+        },
+        {
+            "id": "OG-kLa5FRBXJMg6yyxv06mmGZgEQorzZ7NkqbNMG_oE",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Tesla Analyst Draws Parallel Between Model 2 And Apple's iPhone: 'Game Changer That..... Will Crush ICE Viability'",
+            "author": "Shanthi Rexaline",
+            "published_utc": "2023-11-13T11:08:18Z",
+            "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/23/11/35743624/tesla-analyst-draws-parallel-between-model-2-and-apples-iphone-game-changer-that-wi",
+            "tickers": [
+                "TSLA"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35743624",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/Brussels--Belgium--Jan-18--2019-Metallic_0.jpeg?width=1200&height=800&fit=crop",
+            "description": "As Tesla, Inc. (NASDAQ:TSLA) stock sags, a fund manager re-upped his view that the electric vehicle maker\u2019s next-gen, more affordable Model 2 vehicle could be a \u201cgame changer.\u201d\nWhat Happened: \u201cI continue to view a $25K $TSLA $25 \u201cModel 2\u2033 as the game changer that causes ICE competitors to capitulate,\u201d said Future Fund Managing Partner Gary Black. The fund manager said that although he is also confident that Level 4 autonomy could produce a similar impact, he believes the Elon Musk-led company\u2019s unique advantage to mass produce a high-quality $25K EV at a profit will crush ICE viability.\nMany companies will stop investing in EVs like how Nokia, Motorola, and Blackberry did when the Apple iPhone took over the handset business, Black said.\nDelving ...Full story available on Benzinga.com",
+            "keywords": [
+                "News",
+                "Analyst Color",
+                "Equities",
+                "Top Stories"
+            ]
+        },
+        {
+            "id": "UOomdj5MeLQU_l_xb-lmxGWcfE5cNvCbVs-SbfVCwHI",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "2 Next-Big-Thing Investment Trends That Could Face-Plant in 2024",
+            "author": "newsfeedback@fool.com (Sean Williams)",
+            "published_utc": "2023-11-13T10:21:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/13/2-next-big-thing-investment-trends-face-plant-2024/",
+            "tickers": [
+                "TSLA",
+                "F",
+                "NVDA",
+                "GM"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754474/electric-vehicle-ev-charging-solar-panel-renewable-getty.jpg",
+            "description": "Two of the hottest growth trends on Wall Street may face a perfect storm of headwinds next year.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "euipfAowk6rtWyoe2KJvUU2Fsscfqc-6biF4kOJpxjM",
+            "publisher": {
+                "name": "Investing.com",
+                "homepage_url": "https://www.investing.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+            },
+            "title": "Mega Caps to Face Challenges Despite Strong Q3 Earnings Season Performance",
+            "author": "Adam Hamilton",
+            "published_utc": "2023-11-13T05:36:00Z",
+            "article_url": "https://www.investing.com/analysis/mega-caps-to-face-challenges-despite-strong-q3-earnings-season-performance-200643520",
+            "tickers": [
+                "AAPL",
+                "MSFT",
+                "GOOGL",
+                "AMZN",
+                "NVDA",
+                "META",
+                "TSLA",
+                "COST",
+                "KVUE",
+                "JPM"
+            ],
+            "amp_url": "https://m.investing.com/analysis/mega-caps-to-face-challenges-despite-strong-q3-earnings-season-performance-200643520?ampMode=1",
+            "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg"
+        },
+        {
+            "id": "nuTAHmTm6ynYEWX6Yf2vc7u3nKQKq-FxznloakA0Ol4",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Billionaire Tesla Investor Sends Out a Surprising Message",
+            "author": "newsfeedback@fool.com (Neil Rozenbaum)",
+            "published_utc": "2023-11-12T15:30:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/12/billionaire-tesla-investor-sends-out-a-positive-me/",
+            "tickers": [
+                "TSLA",
+                "HSBC"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754812/tesla-cybertruck-on-road.png",
+            "description": "Here's everything you need to know about the electric vehicle maker's week.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "IrYIZbOxCgqipxeEeOWJbAPl2uHe758hyMRKwRQiybU",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Elon Musk Mocks Buffett Over Missed Opportunity: 'Too Bad He Didn't Invest In Tesla When It Was 0.1% Of Today's Value'",
+            "author": "Shanthi Rexaline",
+            "published_utc": "2023-11-12T15:17:57Z",
+            "article_url": "https://www.benzinga.com/23/11/35740425/elon-musk-mocks-buffett-over-missed-opportunity-too-bad-he-didnt-invest-in-tesla-when-it-was-0-1-of",
+            "tickers": [
+                "TSLA"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35740425",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/Paris--France---June-16--2023-Elon-Musk-_1.jpeg?width=1200&height=800&fit=crop",
+            "description": "Tesla, Inc. (NASDAQ:TSLA) CEO Elon Musk can\u2019t get over the fact that investment guru Warren Buffett has overlooked the electric vehicle pioneer\u2019s stock as an investment option.\nWhat Happened: On Saturday, George Mack, an X platform user, raved about Buffett\u2019s investment acumen by sharing an anecdote involving the billionaire investor. Mack noted that, during a talk in 2001, Buffett had asked students at the University of Georgia two questions that would help them better understand the character traits they should adopt and  avoid. \nMack pointed out that Buffett had asked the students which of their friends they would invest in and get 10% of their income for life. Buffett then asked them which of their friends they would pick if they could short their friends\u2019 earnings. The takeaway from those two questions, as Mack said in his post, was that the former group of friends had ...Full story available on Benzinga.com",
+            "keywords": [
+                "News",
+                "Analyst Color",
+                "Equities",
+                "Top Stories",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "UPkyNglqJd0SflB-_oeJ9p6ntNGtBO18yPh1moc1ldk",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "These 2 High-Growth Stocks Could Power the Bull Market's Next Record Run",
+            "author": "newsfeedback@fool.com (Adria Cimino)",
+            "published_utc": "2023-11-12T10:00:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/12/these-2-high-growth-stocks-could-power-bull-market/",
+            "tickers": [
+                "TSLA",
+                "AMZN"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754677/gettyimages-bull-bear.jpg",
+            "description": "A bull market is the perfect environment for these two players to thrive.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "geC15psex1Q7KtpEY2MVG6N6a4dupGnoREQ9SW3CYDw",
+            "publisher": {
+                "name": "Investing.com",
+                "homepage_url": "https://www.investing.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+            },
+            "title": "Unlock the Full Power of Fundamental Analysis for Consistent Stock Market Success",
+            "author": "Investing.com",
+            "published_utc": "2023-11-12T08:00:00Z",
+            "article_url": "https://www.investing.com/analysis/unlock-the-full-power-of-fundamental-analysis-for-consistent-stock-market-success-200643493",
+            "tickers": [
+                "TSLA"
+            ],
+            "amp_url": "https://m.investing.com/analysis/unlock-the-full-power-of-fundamental-analysis-for-consistent-stock-market-success-200643493?ampMode=1",
+            "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg"
+        },
+        {
+            "id": "-lgR4ejqH1W93f96Jgo5itSva3ecdrImGSJJbNr4xFg",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "From oil to crypto, AI chips to interest rates \u2014 these are the 13 policy makers who matter in markets",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-11T21:21:00Z",
+            "article_url": "https://www.marketwatch.com/story/from-oil-to-crypto-ai-chips-and-interest-rates-these-are-the-13-policymakers-who-matter-in-markets-09ec28e1",
+            "tickers": [
+                "INTC",
+                "MU",
+                "COIN",
+                "VIRT",
+                "UPS",
+                "GM",
+                "F",
+                "STLA",
+                "TSLA"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/from-oil-to-crypto-ai-chips-and-interest-rates-these-are-the-13-policymakers-who-matter-in-markets-09ec28e1",
+            "image_url": "https://images.mktw.net/im-871655/social"
+        },
+        {
+            "id": "ojs-_tN-XHG2vhoNpheWDBPBvsp6rmvJJYBTNKOLP8g",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Biden Backs Unionization At Tesla, Lucid's Dismal Quarter, Fisker Scouting Manufacturing Partners And More: Biggest EV Stories Of The Week",
+            "author": "Shanthi Rexaline",
+            "published_utc": "2023-11-11T15:28:41Z",
+            "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/23/11/35737958/biden-backs-unionization-at-tesla-lucids-dismal-quarter-fisker-scouting-manufacturi",
+            "tickers": [
+                "FSR",
+                "TM",
+                "TSLA",
+                "LI",
+                "WKHS",
+                "KARS",
+                "XPEV",
+                "ARVL",
+                "GOEV",
+                "LCID",
+                "HYZN",
+                "FFIE",
+                "VFS"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35737958",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/Raleigh--Nc---April-30--2018-Tesla-Sign-.jpeg?width=1200&height=800&fit=crop",
+            "description": "Electric vehicle stocks came under selling pressure in the week that ended on Nov. 11 as the broader market weakness triggered some profit-taking. Lucid Group, Inc. (NASDAQ:LCID) did not help matters any further by reporting a disappointing quarter.\nHere are the key events that happened in the EV space during the week:\nTesla India Rumors, Swedish Strike And More: The stalemate over Tesla, Inc.\u2019s (NASDAQ:TSLA) India foray continues, but reports suggested that India\u2019s Commerce Minister Piyush Goyal will likely meet Elon Musk in the U.S. next week. Goyal will reportedly discuss plans to set up a Tesla factory in India to manufacture the company\u2019s $25,000 EVs. Musk will also likely push to cut the import duty on fully-built EVs from 100% to 15%.\nTesla is additionally facing labor union issues in Sweden, one of its key European markets. As Tesla mechanics began to strike, they were joined by dock workers affiliated with four powerful unions in the country. This has reportedly disrupted the unloading of Tesla\u2019s vehicles. \nFollowing margin-squeezing price cuts, Tesla has opted to raise prices of its Model Y Long Range and refreshed Model 3 prices in China by 1,500 yuan ($206), according to its Chinese website.\nSpeaking on the sidelines of the Baron Investment Conference, billionaire investor Ron Baron said Tesla will  likely build its $25,000 EV within 18 months. \u201cWait 'til you see what's going to happen when all of a sudden they start ...Full story available on Benzinga.com",
+            "keywords": [
+                "News",
+                "Analyst Color",
+                "Equities",
+                "Asia",
+                "Top Stories",
+                "Media"
+            ]
+        },
+        {
+            "id": "qgXXThD7t4y3ZRVPXe0rSBBiyFOzgjSrkCnWFQTJcW4",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Jim Chanos Shatters Tesla 'Fans' Fantasies: 'Musk Had Been Very Successful In Selling The Image As A Futurist,' But It's Just A 'Hopes-And-Dreams' Company",
+            "author": "Ananya Gairola",
+            "published_utc": "2023-11-11T06:26:08Z",
+            "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/23/11/35736762/jim-chanos-shatters-tesla-fans-fantasies-musk-had-been-very-successful-in-selling-t",
+            "tickers": [
+                "TSLA"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35736762",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/Elon-Musk-Tesla-laughing.jpeg?width=1200&height=800&fit=crop",
+            "description": "Kynikos Associates\u00a0founder and legendary short seller\u00a0Jim Chanos\u00a0has highlighted the disparity between the public perception and actual performance of\u00a0Tesla Inc.\u00a0(NASDAQ:TSLA).\nWhat Happened:\u00a0In an interview with the Institute for New Economic Thinking, Chanos pointed out a common misbelief held by many Tesla admirers. He said the electric vehicle giant is seen as a multi-faceted entity \u2014 an AI firm, an alternative energy business, and a robotics organization.\u00a0\nThis image, Chanos argues, is a result of\u00a0Elon Musk\u2019s\u00a0compelling portrayal of Tesla as a future-focused company.\nSee Also:\u00a0Jim Chanos Says Crypto Is A \u2018Predatory Junkyard\u2019: Here\u2019s Why The Famed Short Seller Continues To Target Coinbase\nHowever, Chanos maintains that a closer look at the company\u2019s performance indicators reveals Tesla to be fundamentally an automaker with typical automotive industry returns and margins.\nHe went on to highlight the challenge of aligning the operation of a real global automobile company with the excitement generated by futuristic ventures such as Mars ...Full story available on Benzinga.com",
+            "keywords": [
+                "News",
+                "Analyst Color",
+                "Short Sellers",
+                "Markets",
+                "Tech",
+                "Media"
+            ]
+        },
+        {
+            "id": "BCXg0bNzVvRjuydZZ8Fdh-LArb-rwtyUL_CdQGovJxk",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Why Shares of Lucid Group Stock Were Sinking This Week",
+            "author": "newsfeedback@fool.com (Brett Schafer)",
+            "published_utc": "2023-11-11T03:54:22Z",
+            "article_url": "https://www.fool.com/investing/2023/11/10/why-shares-of-lucid-group-stock-were-sinking-this/",
+            "tickers": [
+                "LCID",
+                "TSLA",
+                "RIVN"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754765/electric-vehicles-2.jpg",
+            "description": "The company continues to remain subscale and lose money.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "xjihz3E4GPATSgHStSCWt6VzlIEvqYB1T73wZo8wbsw",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Tesla's Feeling the Pain of Lower Pricing, but This EV Maker Isn't. Is the Stock a Buy?",
+            "author": "newsfeedback@fool.com (Adam Levy)",
+            "published_utc": "2023-11-10T22:26:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/10/teslas-feeling-the-pain-of-lower-pricing-but-this/",
+            "tickers": [
+                "TSLA"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754180/gettyimages-electric-vehicle-charging-at-home-ev.jpeg",
+            "description": "Lower prices mean smaller margins for Tesla, but its biggest rival is expanding profit margins and growing fast.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "qZWsw36krt7ilmqpfrrfoF8uGI9VRtjg9P9GdqaVf08",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Tech Giants Lead Market Surge As Dow Blue Chips Stall; Microsoft Hits New Highs While Bitcoin Rallies: The Week In The Markets",
+            "author": "Piero Cingari",
+            "published_utc": "2023-11-10T21:23:26Z",
+            "article_url": "https://www.benzinga.com/economics/macro-economic-events/23/11/35734172/tech-giants-lead-market-surge-as-dow-blue-chips-stall-microsoft-hits-new-highs-wh",
+            "tickers": [
+                "META",
+                "XLE",
+                "AAPL",
+                "AMAT",
+                "AMZN",
+                "CSCO",
+                "GOOG",
+                "MSFT",
+                "NVDA",
+                "BLK",
+                "DIS",
+                "HD",
+                "WMT",
+                "TSLA",
+                "GOOGL"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35734172",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/wall-street-subway-shutter.jpeg?width=1200&height=800&fit=crop",
+            "description": "Wall Street\u2019s tech giants continued to extend their gains in the week following the Federal Reserve's November meeting. \nThe Nasdaq 100 has once again outperformed other major indices, driven by the Magnificent 7, which includes artificial intelligence winners and tech stocks with the highest market capitalization, such as Apple Inc. (NASDAQ:AAPL), Microsoft Corp. (NASDAQ:MSFT), Alphabet Inc. (NASDAQ:GOOG) (NASDAQ:GOOGL), Amazon Inc. (NASDAQ:AMZN), Meta Platforms Inc. (NASDAQ:META), NVIDIA Corp. (NASDAQ:NVDA) and Tesla, Inc. (NASDAQ:TSLA)\nThe Dow\u2019s blue-chip stocks stalled, while small caps plummeted, retracing more than half of the previous week\u2019s gains. Energy, as tracked by the Energy Select Sector SPDR Fund (NYSE:XLE), was again the weakest performer among sectors.\u00a0\u00a0\nMicrosoft achieves fresh all-time highs: The tech giant reached a new all-time high, surpassing $367 per share on Friday, solidifying its position as a major AI winner. Microsoft's market capitalization has now reached $2.73 trillion, trailing Apple\u2019s by just $150 billion.\nBitcoin surpasses ...Full story available on Benzinga.com",
+            "keywords": [
+                "Macro Economic Events",
+                "Broad U.S. Equity ETFs",
+                "Economics",
+                "Federal Reserve",
+                "ETFs"
+            ]
+        },
+        {
+            "id": "qO1fFhyJO7MIZ_nryARrdhP_BGdpAPYuu6k9QOlO3og",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Elon Musk biopic in development at A24. Director is 'one of the best,' Musk says.",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-10T21:19:00Z",
+            "article_url": "https://www.marketwatch.com/story/elon-musk-biopic-in-development-at-a24-director-is-one-of-the-best-musk-says-9741af7f",
+            "tickers": [
+                "AAPL",
+                "PYPL",
+                "TSLA"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/elon-musk-biopic-in-development-at-a24-director-is-one-of-the-best-musk-says-9741af7f",
+            "image_url": "https://images.mktw.net/im-885532/social",
+            "description": "The film will be based on Walter Isaacson's biography titled \"Elon Musk,\" which came out this year."
+        },
+        {
+            "id": "JjxN89OKL0I2em7pZT_8hRLc_WlXp8td9uE7JF7CMM8",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Wall Street Mechanics Bring In Stock Buyers After Sell-Off On Poor Treasury Auction",
+            "author": "The Arora Report",
+            "published_utc": "2023-11-10T19:02:58Z",
+            "article_url": "https://www.benzinga.com/markets/23/11/35732275/wall-street-mechanics-bring-in-stock-buyers-after-sell-off-on-poor-treasury-auction",
+            "tickers": [
+                "GLD",
+                "SLV",
+                "TLT",
+                "USO",
+                "AMZN",
+                "GOOG",
+                "MSFT",
+                "NVDA",
+                "AAPL",
+                "TSLA",
+                "QQQ",
+                "META"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35732275",
+            "image_url": "https://cdn.benzinga.com/files/b348b2c9-777b-4ae9-8fd0-189f0fc9fbb8.jpeg?width=1200&height=800&fit=crop",
+            "description": "To gain an edge, this is what you need to know today.\n\nWall Street Mechanics Kicking In\u00a0\nPlease\u00a0click here\u00a0for a chart of iShares 20 Plus Year Treasury Bond ETF (NASDAQ: TLT).\nNote the following:\n\nThe chart shows that\u00a0TLT\u00a0fell yesterday.\nAs we shared with you in the Afternoon Capsule, the reason for the fall in\u00a0TLT\u00a0was the poor Treasury auction. For details, see yesterday\u2019s Afternoon Capsule.\nInitially stocks fell on the poor Treasury auction, but the momo crowd bought the dip.\u00a0Then came Powell\u2019s statement that he was willing to raise rates if needed.\u00a0The poor Treasury auction and Powell\u2019s statement was a one-two punch that brought in more selling yesterday.\nThe chart shows that\u00a0TLT\u00a0is being bought this morning but still has a ways to go before reaching the lower resistance zone.\nThis morning Wall Street mechanics are kicking in, bringing in buyers in both stocks and bonds.\nUniversity of Michigan consumer confidence and inflation expectation data will be released at 10am ET.\u00a0The data may be market moving.\nThe biggest data point ahead is CPI that will be released on November 14.\nRemember that it is Friday, and short squeezes tend to occur on Fridays.\u00a0In the early trade, there are signs of a short squeeze.\nAs an actionable item, the sum total of the foregoing is in the protection band, which strikes the optimum balance between various crosscurrents. \u00a0 Please scroll down to see the protection band.\n\nMagnificent Seven Money Flows\nIn the early trade, money flows are positive in Apple Inc (NASDAQ: AAPL), ...Full story available on Benzinga.com",
+            "keywords": [
+                "Cryptocurrency",
+                "Economics",
+                "Federal Reserve",
+                "Markets"
+            ]
+        },
+        {
+            "id": "ykvSFdZk1tmnQmynWQcTV7PmM-EErJjnY58LA1pemUo",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Honda joins Toyota in raising U.S. wages for its auto workers as unionization push looms",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-10T17:52:00Z",
+            "article_url": "https://www.marketwatch.com/story/honda-joins-toyota-in-raising-u-s-wages-for-its-auto-workers-as-unionization-push-looms-a399f09c",
+            "tickers": [
+                "TSLA",
+                "F",
+                "GM",
+                "STLA"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/honda-joins-toyota-in-raising-u-s-wages-for-its-auto-workers-as-unionization-push-looms-a399f09c",
+            "image_url": "https://images.mktw.net/im-885309/social",
+            "description": "Honda gave its U.S. auto workers a raise amid a push to unionize the workforce beyond the Midwest."
+        },
+        {
+            "id": "D8cFN_8KZw5UYMOGLcVk_gO6IEoBBqGWQJN2E9-Y1ZU",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Here's how Eli Lilly might bring a game-changing Alzheimer's drug to market",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-10T17:21:00Z",
+            "article_url": "https://www.marketwatch.com/story/heres-how-eli-lilly-might-bring-a-game-changing-alzheimers-drug-to-market-6895dbc5",
+            "tickers": [
+                "LLY",
+                "NVO",
+                "WBD",
+                "T",
+                "ARM",
+                "KVYO",
+                "CART",
+                "DIS",
+                "AAPL",
+                "MSFT",
+                "GOOGL",
+                "AMZN",
+                "NVDA",
+                "META",
+                "TSLA",
+                "CRM",
+                "DJIA"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/heres-how-eli-lilly-might-bring-a-game-changing-alzheimers-drug-to-market-6895dbc5",
+            "image_url": "https://images.mktw.net/im-885144/social",
+            "description": "Also: Bad and good results this earnings season, new tax rules, stock picks and how you too can be a mortgage lender."
+        },
+        {
+            "id": "5K2l9AZBXpoi1mMKC3uNIcN8qxXZH-sF_o5Au6CRdOI",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "3 Reasons to Buy Tesla Stock Hand Over Fist",
+            "author": "newsfeedback@fool.com (Will Ebiefung)",
+            "published_utc": "2023-11-10T13:45:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/10/3-reasons-to-buy-tesla-stock-hand-over-fist/",
+            "tickers": [
+                "TSLA"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754104/gettyimages-1358049777.jpg",
+            "description": "This electric automaker is in a challenging near-term position. But its long-term future remains bright.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "SbcvKtZxgNCZ1kGQJV6IyeRuhopdq1Gobk3psNRuVP0",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Tesla Bulls Should Brace Themselves. Shares Could Take a Big Hit.",
+            "author": "newsfeedback@fool.com (Daniel Sparks)",
+            "published_utc": "2023-11-10T12:03:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/10/tesla-bulls-should-brace-themselves-shares-could-t/",
+            "tickers": [
+                "TSLA",
+                "HSBC"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754548/tesla-stock.jpg",
+            "description": "Whether Tesla stock is right for you may depend on your risk tolerance and time horizon.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "FJdiHvMFFGFwmHKzg0gmxNOWFYKxNM2EAuUjvtIUyGU",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Stocks may struggle until Thanksgiving as bond yields bounce. And one sector in particular is a turkey.",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-10T11:34:00Z",
+            "article_url": "https://www.marketwatch.com/story/stocks-may-struggle-until-thanksgiving-as-bond-yields-bounce-and-one-sector-in-particular-is-a-turkey-3d59a21e",
+            "tickers": [
+                "SPY",
+                "XLV",
+                "XLY",
+                "U",
+                "PLUG",
+                "DEO",
+                "TSLA",
+                "AMC",
+                "NVDA",
+                "AAPL",
+                "TSM",
+                "NIO",
+                "GME",
+                "AMZN",
+                "INBS"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/stocks-may-struggle-until-thanksgiving-as-bond-yields-bounce-and-one-sector-in-particular-is-a-turkey-3d59a21e",
+            "image_url": "https://images.mktw.net/im-882932/social",
+            "description": "A revival of bond yields halted the longest stock rally in two years, and now the market may struggle until Thanksgiving says Fundstrat's Newton"
+        },
+        {
+            "id": "mrVdju2v64omwtjLKOHB61xx3snlqYcss1-5KE2T_gA",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Is Invesco S&P 500 Equal Weight Consumer Discretionary ETF (RSPD) a Strong ETF Right Now?",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-10T11:20:07Z",
+            "article_url": "https://www.zacks.com/stock/news/2182109/is-invesco-sp-500-equal-weight-consumer-discretionary-etf-rspd-a-strong-etf-right-now",
+            "tickers": [
+                "RSPD",
+                "GRMN",
+                "TSLA",
+                "NCLH",
+                "XLY",
+                "VCR"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2182109/is-invesco-sp-500-equal-weight-consumer-discretionary-etf-rspd-a-strong-etf-right-now",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default7.jpg",
+            "description": "Smart Beta ETF report for RSPD"
+        },
+        {
+            "id": "MDQOSqdppDSwufgqIR_cxUaKKrcsjkjyMVoEilQFD0M",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Lucid Slashes Production. Is the Luxury EV Maker Finished?",
+            "author": "newsfeedback@fool.com (Jeremy Bowman)",
+            "published_utc": "2023-11-10T11:06:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/10/lucid-slashes-production-is-the-luxury-ev-maker-fi/",
+            "tickers": [
+                "LCID",
+                "TSLA"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754244/lcid_sankey_q32023.png",
+            "description": "The EV company expects to produce just 8,000 to 8,500 vehicles this year, down from a previous forecast of 10,000.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "hnGcvxhIgexuYA-3jx-tsgnPJ5J1riyJoATHSaRpRhU",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "A Bull Market Is Coming: 2 Cathie Wood Stocks That Could Skyrocket",
+            "author": "newsfeedback@fool.com (Adria Cimino)",
+            "published_utc": "2023-11-10T10:30:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/10/2-cathie-wood-stocks-that-may-skyrocket/",
+            "tickers": [
+                "TSLA",
+                "TDOC",
+                "ARKK"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754490/gettyimages-171351254.jpg",
+            "description": "These stocks could thrive in a market favoring growth.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "5CDA4-F3jfnKkcPIau8U-tvJLwq0W9KA1Nqtox5saR0",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Tesla Bear Slams David Sacks As 'Rich Man' Who Spits On 'Working Man' After Entrepreneur Called Biden's Unionization Comments 'Archaic View Of Past'",
+            "author": "Shanthi Rexaline",
+            "published_utc": "2023-11-10T07:13:35Z",
+            "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/23/11/35720639/tesla-bear-slams-david-sacks-as-rich-man-who-spits-on-working-man-after-entrepreneu",
+            "tickers": [
+                "F",
+                "GM",
+                "TM",
+                "TSLA"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35720639",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/Tesla-rain-damage.jpeg?width=1200&height=800&fit=crop",
+            "description": "President Joe Biden on Thursday said he supported unionization at Tesla, Inc. (NASDAQ:TSLA) and Japanese auto giant Toyota, Inc. (NYSE:TM) while addressing United Auto Workers union in Belvidere, Illinois.\nCommenting on his statement, Silicon Valley Entrepreneur David Sacks, who is also a friend of Tesla CEO Elon Musk, said the president is trying to push businesses into \u201csome archaic view of the past.\u201d\nWhat Happened: The president\u2019s comments weren\u2019t surprising, said Sacks while appearing on CNBC\u2019s Last Call. \u201cHe of course he wants Tesla and Toyota and every other company in the world to be unionized,\u201d the venture capitalist said.\n\u201cHe\u2019s probably the most union capture president we\u2019ve ever had,\u201d he added.\nSacks also recalled that the White House did not invite Tesla for the EV Summit it hosted. The snub was due to the fact that Tesla is not a union shop, he said, adding that the president chose to give credit for starting the EV revolution to companies such as General Motors Corp. (NYSE:GM). This ...Full story available on Benzinga.com",
+            "keywords": [
+                "News",
+                "Analyst Color",
+                "Equities",
+                "Top Stories"
+            ]
+        },
+        {
+            "id": "OEVk7rwh6EOaEAUUqFKXb0F1i5hiryFWhPEWfYJOMtE",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Heightened rate volatility points to these opportunities in stocks, bonds for ETF investors, says State Street\u2019s Michael Arone",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-09T22:05:00Z",
+            "article_url": "https://www.marketwatch.com/story/heightened-rate-volatility-points-to-these-opportunities-in-stocks-bonds-for-etf-investors-says-state-streets-michael-arone-61f51ea1",
+            "tickers": [
+                "SPSM",
+                "SPY",
+                "SPYG",
+                "SPYV",
+                "AAPL",
+                "MSFT",
+                "GOOGL",
+                "AMZN",
+                "NVDA",
+                "META",
+                "TSLA",
+                "BRK.B",
+                "JPM",
+                "WMT",
+                "CSCO",
+                "VGLT",
+                "BIL",
+                "SPIB",
+                "CQQQ",
+                "ARKK",
+                "ARKW",
+                "VNM",
+                "ARKF",
+                "UNG",
+                "FCG",
+                "XOP",
+                "USO",
+                "IEO",
+                "MTBA",
+                "TBG"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/heightened-rate-volatility-points-to-these-opportunities-in-stocks-bonds-for-etf-investors-says-state-streets-michael-arone-61f51ea1",
+            "image_url": "https://images.mktw.net/im-341402/social",
+            "description": "Bond-market volatility spilling into stocks in 2023 may be creating investment opportunities that could pay off in the next year, according to State Street's Michael Arone."
+        },
+        {
+            "id": "RA08EnDgAJDvPI1SYDiB1LwIr4tsCN9yCsxTHjrUMwk",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "S&P 500, Nasdaq 100 Snap Longest Winning Streak In 2 Years As Fed's Powell Chills Markets",
+            "author": "Piero Cingari",
+            "published_utc": "2023-11-09T21:59:30Z",
+            "article_url": "https://www.benzinga.com/markets/equities/23/11/35715608/s-p-500-nasdaq-100-snap-longest-winning-streak-in-two-years-as-feds-powell-chills-markets",
+            "tickers": [
+                "DIA",
+                "IWM",
+                "SPY",
+                "TLT",
+                "XLV",
+                "XLY",
+                "DIS",
+                "TSLA",
+                "QQQ"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35715608",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/NASDAQ-down-Shutterstock.jpeg?width=1200&height=800&fit=crop",
+            "description": "After eight consecutive green closes for the S&P 500 and nine for the Nasdaq 100, the U.S. stock market\u2019s impressive winning streak, the longest in two years, came to an end.\nThis setback was prompted by an unexpected hawkish intervention from Jerome Powell during a policy discussion hosted by the International Monetary Fund. The Fed Chair stated that despite progress on the inflation front, there is still a substantial distance to cover to achieve the 2% target.\nThursday\u2019s session on Wall Street session had commenced with uncertainty, following remarks by another Fed speaker, Richmond Fed\u2019s Thomas Barkin, who hinted at the necessity of an economic slowdown to win the war against inflation.\nInvestors revised rate probabilities for 2024, pushing forward the ...Full story available on Benzinga.com",
+            "keywords": [
+                "Sector ETFs",
+                "Equities",
+                "Large Cap",
+                "Broad U.S. Equity ETFs",
+                "New ETFs",
+                "Treasuries",
+                "Top Stories",
+                "Federal Reserve",
+                "ETFs"
+            ]
+        },
+        {
+            "id": "T0xxhWL_NSD2_BvQmwFhJfusm7j_QE7QKM9C4FGQXVA",
+            "publisher": {
+                "name": "Seeking Alpha",
+                "homepage_url": "https://seekingalpha.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/seekingalpha.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/seekingalpha.ico"
+            },
+            "title": "Billionaire 'Bond King' Says Sell These Charlie Munger Must-Buy Stocks: Our Approach",
+            "author": "High Yield Investor",
+            "published_utc": "2023-11-09T19:59:36Z",
+            "article_url": "https://seekingalpha.com/article/4649911-billionaire-bond-king-says-sell-these-charlie-munger-must-buy-stocks-our-approach",
+            "tickers": [
+                "AAPL",
+                "AMZN",
+                "BABA",
+                "BIP",
+                "BIPC",
+                "BND",
+                "BRK.A",
+                "BRK.B",
+                "GDX",
+                "GLD",
+                "GOOG",
+                "GOOGL",
+                "META",
+                "MSFT",
+                "NVDA",
+                "O",
+                "PLTR",
+                "SLV",
+                "TSLA",
+                "VOO",
+                "XLU"
+            ],
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/857246122/image_857246122.jpg?io=getty-c-w1536",
+            "description": "Learn about Charlie Munger's recommended stocks, Jeffrey Gundlach's warning about their performance in a recession, and our approach. Click for more of our picks."
+        },
+        {
+            "id": "c52sdYj889D6rj2hZxN14JS2AKFglxDoeyprsFoj6QI",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Tesla Stock Tumbles Again. Will the Stock Keep Falling?",
+            "author": "newsfeedback@fool.com (Jeremy Bowman)",
+            "published_utc": "2023-11-09T19:49:14Z",
+            "article_url": "https://www.fool.com/investing/2023/11/09/tesla-stock-tumbles-again-will-the-stock-keep-fall/",
+            "tickers": [
+                "TSLA"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754570/tesla-model-3.jpg",
+            "description": "An analyst downgrade sent Tesla stock spiraling. Here's why it could keep sliding.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "cXyN5fg4_-3M45-wPyXSiGqn5Vh72Ck_1fnuEilYNJ8",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Why Tesla, Rivian, and Lucid Motors Lost Their Charge Today",
+            "author": "newsfeedback@fool.com (Billy Duberstein)",
+            "published_utc": "2023-11-09T19:18:20Z",
+            "article_url": "https://www.fool.com/investing/2023/11/09/why-tesla-rivian-and-lucid-motors-lost-their-charg/",
+            "tickers": [
+                "TSLA",
+                "LCID",
+                "RIVN"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754568/tesla-ev-electric-vehicle-charging-station.jpg",
+            "description": "EV stocks plunged amid analyst downgrades and short-sellers piling on.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "AWuSNOipFegpUsPkGrhRtC8O3TWYa9KmqkwlkIlsmLw",
+            "publisher": {
+                "name": "Seeking Alpha",
+                "homepage_url": "https://seekingalpha.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/seekingalpha.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/seekingalpha.ico"
+            },
+            "title": "Tesla: Negative News Apparently Doesn't Exist",
+            "author": "Eugenio Catone",
+            "published_utc": "2023-11-09T19:00:00Z",
+            "article_url": "https://seekingalpha.com/article/4649849-tesla-negative-news-apparently-doesnt-exist",
+            "tickers": [
+                "META",
+                "RACE",
+                "TM",
+                "TSLA"
+            ],
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1411002134/image_1411002134.jpg?io=getty-c-w1536",
+            "description": "Despite issues like falling margins, competition, and a cloudy future, investors remain optimistic in Tesla, Inc. due to faith in Elon Musk. Learn more on TSLA stock here."
+        },
+        {
+            "id": "6sjxDLkuwt9I-9dFXpJspqquX5FF8js-mSTj9wu-H5o",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "These 2 Top Ranked Car Manufacturer Stocks are Insanely Cheap",
+            "author": "Ethan Feller",
+            "published_utc": "2023-11-09T17:55:00Z",
+            "article_url": "https://www.zacks.com/commentary/2181865/these-2-top-ranked-car-manufacturer-stocks-are-insanely-cheap",
+            "tickers": [
+                "TM",
+                "HMC",
+                "TSLA"
+            ],
+            "amp_url": "https://www.zacks.com/amp/commentary/2181865/these-2-top-ranked-car-manufacturer-stocks-are-insanely-cheap",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/c7/51130.jpg",
+            "description": "These stocks have depressed valuations and massive EPS growth forecasts"
+        },
+        {
+            "id": "Vu5Ieye2yS9MO-oe-clV_xObicDaYqeTj9megOg2v4M",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "There\u2019s a new Tesla bear in town: EV maker is a \u2018very expensive company,\u2019 HSBC says",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-09T16:42:00Z",
+            "article_url": "https://www.marketwatch.com/story/theres-a-new-tesla-bear-in-town-ev-maker-is-a-very-expensive-company-hsbc-says-78f21fab",
+            "tickers": [
+                "TSLA"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/theres-a-new-tesla-bear-in-town-ev-maker-is-a-very-expensive-company-hsbc-says-78f21fab",
+            "image_url": "https://images.mktw.net/im-872035/social",
+            "description": "Tesla's stock gets a sell rating from HSBC analysts, who are concerned that the timeline for some of the EV maker's projects will be \"longer than the market and valuation\" reflect."
+        },
+        {
+            "id": "MgPU0cDm3pgWf6PcGEci_XMrxbPLZkaPvm6hPKfD_SI",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Good News For Investors \u2013 American Might Temporarily Wins Against Iran Without Firing A Shot",
+            "author": "The Arora Report",
+            "published_utc": "2023-11-09T15:28:00Z",
+            "article_url": "https://www.benzinga.com/markets/23/11/35703293/good-news-for-investors-american-might-temporarily-wins-against-iran-without-firing-a-shot",
+            "tickers": [
+                "GLD",
+                "SLV",
+                "SPY",
+                "USO",
+                "AMZN",
+                "GOOG",
+                "MSFT",
+                "NVDA",
+                "AAPL",
+                "TSLA",
+                "QQQ",
+                "META"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35703293",
+            "image_url": "https://cdn.benzinga.com/files/regularguy-eth-w9codxtsfts-unsplash_14.jpg?width=1200&height=800&fit=crop",
+            "description": "To gain an edge, this is what you need to know today.\n\nGood News\nPlease\u00a0click here\u00a0for a chart of oil futures.\nNote the following:\n\nThe chart shows when Hamas attacked Israel.\nThe fear was that Iran would open a second northern front against Israel, escalating the Middle East war.\nThe\u00a0U.S. responded by sending two aircraft carrier groups to the Middle East to deter Iran and its proxies from opening a northern front against Israel.\nThe falling trendline on the chart shows that investors came to believe there was a rethink in Iran as it appeared not to directly fight the\u00a0U.S.\nThe latest drop in oil shown on the chart came after the\u00a0U.S. sent a nuclear submarine.\nThe indication from our sources is that Iran is concluding that fighting the\u00a0U.S. directly will be a losing proposition.\nRSI on the chart shows that oil is now very oversold.\nTemporarily, the\u00a0U.S. military might has won.\u00a0However, prudent investors need to keep in mind that the Middle East is very volatile and things can change very quickly.\nThe\u00a0U.S. is staying on the offensive.\u00a0The latest is that\u00a0U.S. fighters bombed a weapons depot used by Islamic Revolutionary Guard of Iran in Syria.\nOil coming down is deflationary.\nOil coming down is raising hopes that the Fed will soon start cutting rates.\nAs speculation builds of the Fed cutting rates, there is a distinct possibility of a second short squeeze leg in bonds.\u00a0If the second short squeeze leg in bonds starts, it in turn will trigger another rally in the stock market.\nFor the time being, stocks have to contend with technically overbought conditions.\nAs an actionable item, the sum total of the foregoing is in the protection band, which strikes the optimum balance between various crosscurrents. Please scroll down to see the protection band.\n\nJobless Claims\nJobless claims show that the jobs picture remains strong.\u00a0Initial jobless claims came at 217K ...Full story available on Benzinga.com",
+            "keywords": [
+                "Cryptocurrency",
+                "Futures",
+                "Economics",
+                "Markets",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "bxJGbeM_bBSWnsMFjzMJYH3q5qPRRKrbIYdSoADFBrw",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Hedge-fund founder talks flying taxis and stocks to own in a market facing a struggle",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-09T14:44:00Z",
+            "article_url": "https://www.marketwatch.com/story/a-flying-taxi-company-and-other-stock-bets-that-will-work-even-in-a-tough-market-ahead-says-this-hedge-fund-manager-4c16848b",
+            "tickers": [
+                "HY",
+                "QCOM",
+                "GS",
+                "JOBY",
+                "TDG",
+                "RCM",
+                "ENV",
+                "MCW",
+                "DJIA",
+                "COMP",
+                "DIS",
+                "SPCE",
+                "ARM",
+                "NVDA",
+                "BIRD",
+                "MODG",
+                "TSLA",
+                "AMC",
+                "AAPL",
+                "GME",
+                "NIO",
+                "AMZN",
+                "MARA",
+                "MSFT",
+                "PLTR"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/a-flying-taxi-company-and-other-stock-bets-that-will-work-even-in-a-tough-market-ahead-says-this-hedge-fund-manager-4c16848b",
+            "image_url": "https://images.mktw.net/im-884198/social",
+            "description": "Charles Lemonides, founder of the hedge fund ValueWorks, has some stock ideas for a thorny market to come."
+        },
+        {
+            "id": "zPT8x96GF6fQiQV76Kjc79wa-oM7Wrtv7X9KGyC5wHs",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Indian Commerce Minister To Meet Elon Musk To Accelerate Tesla's Entry Into Market",
+            "author": "Shomik Sen Bhattacharjee",
+            "published_utc": "2023-11-09T11:11:56Z",
+            "article_url": "https://www.benzinga.com/markets/asia/23/11/35693502/indian-commerce-minister-to-meet-elon-musk-to-accelerate-teslas-entry-into-market",
+            "tickers": [
+                "TSLA"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35693502",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/11/09/shutterstock_2318800285.jpg?width=1200&height=800&fit=crop",
+            "description": "This story was first published on the Benzinga India portal.\nIndian Commerce Minister,\u00a0Piyush Goyal, has planned a meeting with Tesla Inc's (NASDAQ: TSLA) CEO,\u00a0Elon Musk, in the United States, recent media reports have suggested. The high-level discussion is aimed at facilitating Tesla's\u00a0foray into India's massive market.\nThe forthcoming meeting, which follows Musk's interaction with Indian\u00a0Prime Minister Narendra Modi, will\u00a0delve into Tesla's plans to set up a manufacturing base in India. Key talking points will include the production of\u00a0a budget-friendly $24,000 electric vehicle,\u00a0the enhancement of local component ...",
+            "keywords": [
+                "News",
+                "Government",
+                "Asia",
+                "Markets",
+                "Tech",
+                "Media"
+            ]
+        },
+        {
+            "id": "8w7zMf1ZCUWwWEeV_3OUWB5yqpXKEpbwhCE23Nu0tOY",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Earnings Estimates Come Under Pressure",
+            "author": "Sheraz Mian",
+            "published_utc": "2023-11-08T23:22:00Z",
+            "article_url": "https://www.zacks.com/commentary/2181217/earnings-estimates-come-under-pressure",
+            "tickers": [
+                "PFE",
+                "LLY",
+                "GM",
+                "TSLA"
+            ],
+            "amp_url": "https://www.zacks.com/amp/commentary/2181217/earnings-estimates-come-under-pressure",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/3b/649.jpg",
+            "description": "While Q3 results have been better than expected, there is a notable acceleration in negative estimate revisions over the last few weeks, contrasting the largely favorable revisions trend of the preceding six months."
+        },
+        {
+            "id": "TiR4kuZ3mGlKndjgJVGNQFVHp0aEXgL0HE_eTLnYzeM",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Earnings Estimates Come Under Pressure",
+            "author": "Sheraz Mian",
+            "published_utc": "2023-11-08T23:20:00Z",
+            "article_url": "https://www.zacks.com/commentary/2181196/earnings-estimates-come-under-pressure",
+            "tickers": [
+                "PFE",
+                "LLY",
+                "GM",
+                "TSLA"
+            ],
+            "amp_url": "https://www.zacks.com/amp/commentary/2181196/earnings-estimates-come-under-pressure",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/37/20536.jpg",
+            "description": "While Q3 results have been better than expected, there is a notable acceleration in negative estimate revisions over the last few weeks, contrasting the largely favorable revisions trend of the preceding six months."
+        },
+        {
+            "id": "M39DEwS76VC8bv4mZR3hcM9R2hsCApRfNVtO1-H4e5Q",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Nobody on Wall Street wants to bet against the \u2018Magnificent Seven\u2019",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-08T21:28:00Z",
+            "article_url": "https://www.marketwatch.com/story/nobody-on-wall-street-wants-to-bet-against-the-magnificent-seven-62513e47",
+            "tickers": [
+                "AAPL",
+                "MSFT",
+                "GOOGL",
+                "AMZN",
+                "NVDA",
+                "META",
+                "TSLA",
+                "COMP"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/nobody-on-wall-street-wants-to-bet-against-the-magnificent-seven-62513e47",
+            "image_url": "https://images.mktw.net/im-840253/social",
+            "description": "Almost nobody on Wall Street has the temerity to bet against the \"Magnificent Seven\" group of tech stocks."
+        },
+        {
+            "id": "eF3zT-Py5bQAD8egTPXI0CncoS20wzGODmkr_bwVykk",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Datadog and Tesla have been highlighted as Zacks Bull and Bear of the Day",
+            "author": "Zacks Equity Research",
+            "published_utc": "2023-11-08T13:25:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2180697/datadog-and-tesla-have-been-highlighted-as-zacks-bull-and-bear-of-the-day",
+            "tickers": [
+                "GT",
+                "TSLA",
+                "TRIP",
+                "VNOM",
+                "DDOG"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2180697/datadog-and-tesla-have-been-highlighted-as-zacks-bull-and-bear-of-the-day",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/81/12600.jpg",
+            "description": "Datadog and Tesla are part of the Zacks Bull and Bear of the Day article."
+        },
+        {
+            "id": "dg4_QRHpaKF0mhkfTvRF9lsFzi6gw2AsrOWL8HNK7aM",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Is This ETF a Safer Way to Buy the Dip on Tesla and Rivian Stock?",
+            "author": "newsfeedback@fool.com (Daniel Foelber)",
+            "published_utc": "2023-11-08T13:10:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/08/etf-safer-way-to-buy-the-dip-on-tesla-rivian-stock/",
+            "tickers": [
+                "TSLA",
+                "ALB",
+                "QCLN",
+                "ON",
+                "RIVN"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/752597/a-person-waves-their-hands-with-excitement-while-sitting-at-a-table-and-looking-at-a-computer.jpg",
+            "description": "It looks like a great time to buy the Clean Edge Green Energy Fund, now at a three-year low.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "TjuR7K2lmSgvPd5fkfe5q5pK9YRjkbF9mNbisw-xINE",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Just turned 50? Here\u2019s where Howard Marks suggests investing for the next 10 years.",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-08T13:01:00Z",
+            "article_url": "https://www.marketwatch.com/story/just-turned-50-heres-where-howard-marks-suggests-investing-for-the-next-10-years-d3e489ef",
+            "tickers": [
+                "UAA",
+                "EVGO",
+                "WBD",
+                "DIS",
+                "TTWO",
+                "MGM",
+                "UPWK",
+                "RIVN",
+                "GPRO",
+                "SNBR",
+                "HOOD",
+                "TSLA",
+                "AMC",
+                "NVDA",
+                "AAPL",
+                "NIO",
+                "GME",
+                "AMZN",
+                "PLTR",
+                "MSFT"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/just-turned-50-heres-where-howard-marks-suggests-investing-for-the-next-10-years-d3e489ef",
+            "image_url": "https://images.mktw.net/im-572749/social",
+            "description": "From Hong Kong, Oaktree's Howard Marks and some other top investors discuss where a 50-year old might want to put money for the next decade."
+        },
+        {
+            "id": "yaY_TptxY6v2jpU6UVxy4v8ZrEuJSUMlWC4IeZwmQrY",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Bear of the Day: Tesla (TSLA)",
+            "author": "Kevin Cook",
+            "published_utc": "2023-11-08T11:20:00Z",
+            "article_url": "https://www.zacks.com/commentary/2180366/bear-of-the-day-tesla-tsla",
+            "tickers": [
+                "TSLA"
+            ],
+            "amp_url": "https://www.zacks.com/amp/commentary/2180366/bear-of-the-day-tesla-tsla",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/81/12600.jpg",
+            "description": "Dominating EV market by slashing prices continues to disappoint growth investors and analysts"
+        },
+        {
+            "id": "gsNFYUDHhpV7TFuLJ15glnrLHB2emfunDAZZbHpCkIs",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Proceed With Caution When Considering These 5 Ultra-Popular Stocks",
+            "author": "newsfeedback@fool.com (Ryan Downie)",
+            "published_utc": "2023-11-08T10:24:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/08/proceed-with-caution-when-considering-these-5-ultr/",
+            "tickers": [
+                "TSLA",
+                "WMT",
+                "LOW",
+                "VNO",
+                "WING"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753934/money-mouse-trap-risk.jpg",
+            "description": "These high-profile stocks might offer more risk than reward.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "elv6RD3EDgNGkGYRUoUx4Dyo_ANQpSdKgi3kp7u8P80",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Rivian Vs Lucid: Fund Manager Gary Black Dissects Divergent Tale Of 2 EV Makers After Q3 Results",
+            "author": "Shanthi Rexaline",
+            "published_utc": "2023-11-08T05:58:18Z",
+            "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/23/11/35665234/rivian-vs-lucid-fund-manager-gary-black-dissects-divergent-tale-of-2-ev-makers-afte",
+            "tickers": [
+                "TSLA",
+                "LCID",
+                "RIVN"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35665234",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/Rivian_vs_Lucid_0.jpeg?width=1200&height=800&fit=crop",
+            "description": "Rivian Automotive, Inc.\u00a0(NASDAQ:RIVN) and\u00a0Lucid Group, Inc.\u00a0(NASDAQ:LCID) reported\u00a0their quarterly results\u00a0on Tuesday after the closing bell. The two electric vehicle manufacturers had differing outcomes, leading to divergent stock performances in after-hours trading.\nWhat Happened:\u00a0Rivian upgraded its 2023 production guidance from 52,000 units to 54,000 units due to robust demand for its SUVs and pickups, as noted by\u00a0Future Fund\u2018s\u00a0Gary Black\u00a0in a recent X, formerly Twitter, post. On the flip side, Lucid reduced its guidance again, lowering it from over 10,000 units to 8,000-8,500 units due to weakened demand for its large sedans, according to Black.\nThis contrast also manifested in the management\u2019s communications. Black noted that Rivian CEO\u00a0R.J. Scaringe\u00a0exuded immense confidence in the company\u2019s future, particularly with regard to the R2 platform. In contrast, Lucid\u2019s\u00a0Peter Rawlinson\u00a0appeared ...Full story available on Benzinga.com",
+            "keywords": [
+                "News",
+                "Analyst Color",
+                "Top Stories",
+                "Tech"
+            ]
+        },
+        {
+            "id": "nRae2UZK-osaoPC3Z748jT9Vu4PZ5fR1aOoLzMG-97c",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Rivian raises production guidance for the year, narrows quarterly loss",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-07T23:02:00Z",
+            "article_url": "https://www.marketwatch.com/story/rivian-earnings-what-to-expect-from-the-ev-maker-struggling-to-become-profitable-ab8c8804",
+            "tickers": [
+                "RIVN",
+                "F",
+                "GM",
+                "AMZN",
+                "TSLA"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/rivian-earnings-what-to-expect-from-the-ev-maker-struggling-to-become-profitable-ab8c8804",
+            "image_url": "https://images.mktw.net/im-881265/social",
+            "description": "Rivian Automotive Inc. late Tuesday posted a narrower quarterly loss and surprised Wall Street by raising its production guidance for the year."
+        },
+        {
+            "id": "lXgWSrsAdNuL7ZEtlwm6srQn1ueBZz5yLhFp4nERDY0",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Massive News for Tesla Stock Investors",
+            "author": "newsfeedback@fool.com (Parkev Tatevosian, CFA)",
+            "published_utc": "2023-11-07T22:17:54Z",
+            "article_url": "https://www.fool.com/investing/2023/11/07/massive-news-for-tesla-stock-investors/",
+            "tickers": [
+                "TSLA"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/754205/tesla-sales-building-with-tesla-logo-and-teslas-parked-in-front.png",
+            "description": "Tesla is trying to convince workers to accept lower pay for the privilege of working at Tesla.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "nyVWmPv67bfqLiWLL0HHuAYfjZRCzUrShaBhWBHnQws",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "Bullish Views Power Long-Term Lithium ETF Prospects",
+            "author": "Yashwardhan Jain",
+            "published_utc": "2023-11-07T21:48:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2180362/bullish-views-power-long-term-lithium-etf-prospects",
+            "tickers": [
+                "TSLA",
+                "LIT",
+                "BATT",
+                "LTHM"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2180362/bullish-views-power-long-term-lithium-etf-prospects",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/a7/1105.jpg",
+            "description": "With the prices of lithium falling and EV makers lowering their demand projections for 2024, lithium ETFs face certain headwinds in the short term. However, the long-term outlook of the market remains optimistic."
+        },
+        {
+            "id": "THsJjF6E2VaP70NfT6fVYSp9aBNgsmJ0ONVDjsy_6uM",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Is It Time To Buy the Dow Jones' 3 Worst-Performing Stocks This Year?",
+            "author": "newsfeedback@fool.com (Anders Bylund)",
+            "published_utc": "2023-11-07T19:21:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/07/is-it-time-to-buy-potential-dogs-of-the-dow/",
+            "tickers": [
+                "WBA",
+                "CVX",
+                "MMM",
+                "DIS",
+                "TSLA",
+                "INTC",
+                "HES"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753974/tablet-thinking-office.jpg",
+            "description": "Is this the right time to invest in the Dow's laggards? Let's peel back the layers on this year's underdogs.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "rPA3KTnfwi8yGhj8k2bAR1xRWSxmTIac17M2omvw2Sk",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Stock Market Pauses After Bond Short Squeeze Triggered Epic Rally, Apple Recovers",
+            "author": "The Arora Report",
+            "published_utc": "2023-11-07T15:23:45Z",
+            "article_url": "https://www.benzinga.com/markets/23/11/35648250/stock-market-pauses-after-bond-short-squeeze-triggered-epic-rally-apple-recovers",
+            "tickers": [
+                "DDOG",
+                "AMZN",
+                "GOOG",
+                "MSFT",
+                "NVDA",
+                "WOLF",
+                "DHI",
+                "AAPL",
+                "TSLA",
+                "NXPI",
+                "QQQ",
+                "ON",
+                "SNOW",
+                "MDB",
+                "META"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35648250",
+            "image_url": "https://cdn.benzinga.com/files/finance-800x360_7.jpg?width=1200&height=800&fit=crop",
+            "description": "To gain an edge, this is what you need to know today.\n\nThe Next Trigger\nPlease\u00a0click here\u00a0for a chart of SPDR S&P 500 ETF Trust (ARCA:SPY) which represents the benchmark stock market index S&P 500 (SPX).\nNote the following:\n\nThe chart shows that the stock market has now moved above the top support zone.\nThe chart shows that the move down below the top support zone in late October has temporarily proven to be a bear trap.\nRSI on the chart shows that the stock market is overbought.\u00a0Overbought markets tend to be vulnerable to the downside.\nAs we have shared with you before, three macro events triggered a vicious short squeeze in bonds, which in turn, led to an epic rally in stocks.\nIn The Arora Report analysis, the first leg of the short squeeze in bonds is now over.\u00a0\nThere is Fed speak from Neel Kashkari and Austin Goolsbee.\u00a0Powell will be speaking later in the week.\nIt is clear from the Fed speak that there is not clarity at the Fed regarding the following:\n\nThe real reason behind the rapid rise in long term rates in October\nImplications now for future Fed policy of long term rates pulling back since Wednesday last week\n\n\nIn The Arora Report analysis, the stock market is looking for a trigger for the next move.\u00a0\nOn the positive side, Apple Inc (NASDAQ: AAPL) has recovered after a weak earnings report.\u00a0In The Arora Report analysis, it is important to pay attention to the price action in\u00a0AAPL\u00a0because it is an indication of investor sentiment.\nOn the earnings front there is positive news in three areas important to the economy.\n\nData analytics company Datadog Inc (NASDAQ: DDOG) reported good earnings.\u00a0This is bringing buying this morning in many stocks that have a positive readthrough from Datadog such as Snowflake Inc (NYSE: SNOW) and Mongodb Inc (NASDAQ: MDB).\u00a0SNOW\u00a0and\u00a0MDB\u00a0are in ...Full story available on Benzinga.com",
+            "keywords": [
+                "Cryptocurrency",
+                "Bonds",
+                "Economics",
+                "Federal Reserve",
+                "Markets",
+                "Tech"
+            ]
+        },
+        {
+            "id": "cG10JMlU0_f1BAmbKPxA31wWveH0qAFFDRE_JVMGwyA",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Earnings-season winners: 20 companies that have grown sales while improving profit margins",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-07T15:02:00Z",
+            "article_url": "https://www.marketwatch.com/story/earnings-season-winners-20-companies-that-have-grown-sales-while-improving-profit-margins-7d4f6532",
+            "tickers": [
+                "MSFT",
+                "AAPL",
+                "AMZN",
+                "NVDA",
+                "GOOGL",
+                "GOOG",
+                "META",
+                "TSLA",
+                "LVS",
+                "CCL",
+                "NCLH",
+                "LW",
+                "RCL",
+                "LLY",
+                "ANET",
+                "FSLR",
+                "PODD",
+                "DXCM",
+                "NOW",
+                "PCAR",
+                "WAB",
+                "GE",
+                "CDAY",
+                "ABNB",
+                "MDLZ",
+                "FTNT",
+                "ROP"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/earnings-season-winners-20-companies-that-have-grown-sales-while-improving-profit-margins-7d4f6532",
+            "image_url": "https://images.mktw.net/im-882559/social",
+            "description": "These 20 earnings-season winners not only grew sales, they showed pricing power for their products and services."
+        },
+        {
+            "id": "DTnVmN4EMg0HxrzbDI8eaaZg8nTh0lmU39yXtJHXEbg",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "A wall of debt rolling over: Here\u2019s what\u2019s scaring Bridgewater\u2019s co-CIO",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-07T14:36:00Z",
+            "article_url": "https://www.marketwatch.com/story/a-wall-of-debt-rolling-over-heres-whats-scaring-bridgewaters-co-cio-ea1e6852",
+            "tickers": [
+                "DJIA",
+                "COMP",
+                "PLNT",
+                "UBER",
+                "DHI",
+                "EBAY",
+                "OXY",
+                "AKAM",
+                "GILD",
+                "TRIP",
+                "SANM",
+                "UBS",
+                "WE",
+                "TSLA",
+                "AMC",
+                "NVDA",
+                "AAPL",
+                "NIO",
+                "GME",
+                "AMZN",
+                "PLTR",
+                "MULN",
+                "MSFT"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/a-wall-of-debt-rolling-over-heres-whats-scaring-bridgewaters-co-cio-ea1e6852",
+            "image_url": "https://images.mktw.net/im-882515/social",
+            "description": "Bridgewater's co chief investment officer says investors need to start thinking about a wall of U.S. debt that's coming."
+        },
+        {
+            "id": "EFugvO5GO9Ggoh8VYkGHwC3w8CXWL730cy7PFU3Hi8Q",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Better Buy Now: Tesla or a 50/50 Split of Enphase Energy and SolarEdge?",
+            "author": "newsfeedback@fool.com (Daniel Foelber)",
+            "published_utc": "2023-11-07T14:03:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/07/better-buy-now-tesla-or-enphase-solaredge/",
+            "tickers": [
+                "TSLA",
+                "ENPH",
+                "SEDG"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753909/gettyimages-1430486612.jpg",
+            "description": "These once market-darling stocks are under a lot of pressure.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "DvmdtaOvhHQVh6fIl5VOrvUfZO6K-W2I3qoVs8gCmtU",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Rivian On Path To Profit Despite Musk's Doubts? Analyst Tells Why EV Startup Can Achieve Goal By End Of Next Year",
+            "author": "Anan Ashraf",
+            "published_utc": "2023-11-07T11:03:41Z",
+            "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/23/11/35637982/rivian-on-path-to-profit-despite-musks-doubts-analyst-tells-why-ev-startup-can-achi",
+            "tickers": [
+                "TSLA",
+                "LCID",
+                "RIVN"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35637982",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/Rivian-Profit.jpeg?width=1200&height=800&fit=crop",
+            "description": "EV maker\u00a0Rivian Automotive Inc\u00a0(NASDAQ:RIVN) has unenviably gained recognition for its\u00a0ability to burn cash. Nevertheless, the company is gradually reducing losses and charting a path toward profitability.\nThe First Deliveries:\u00a0In late 2021, Rivian embarked on its journey of delivering its first vehicles. Throughout the entire year, 920 vehicles were delivered.\nHowever, in the second quarter of this year, the company reached a milestone by delivering 12,640 vehicles while incurring a gross loss per unit delivered of $32,595, down 79.3% as compared to the corresponding quarter of 2022 and down 51.6% quarter-on-quarter.\nThe R1T begins at $73,000, while the more premium R1S SUV starts at $78,000.\n\nFacing Bankruptcy or Positive Cash Flow:\u00a0Tesla Inc (NASDAQ:TSLA) CEO\u00a0Elon Musk\u00a0warned in June 2022 that both Rivian and\u00a0Lucid Group Inc\u00a0(NASDAQ:LCID)\u00a0might face bankruptcy\u00a0due to their substantial spending. However, BNP Paribas Exane\u2019s senior automotive analyst,\u00a0James Picariello, holds a different perspective.\nPicariello told Benzinga, \u201cWhile Rivian's loss per vehicle remains in the tens of thousands of dollars, over the next 12 months, it will implement LFP batteries, its internally developed Enduro drive units (using two internally developed units instead of four outsourced ones from Bosch), and by mid-next year, it will transition to a more efficient 2nd-gen architecture, resulting in a 60% reduction in the vehicle\u2019s ECUs.\u201d\u00a0\nHe also noted that Musk might have ...Full story available on Benzinga.com",
+            "keywords": [
+                "News",
+                "Analyst Color",
+                "Top Stories",
+                "Analyst Ratings",
+                "Tech"
+            ]
+        },
+        {
+            "id": "UqLkyi95YMHDgXZlIVaHgGc7dbOgjJmHsM6dprkOXlo",
+            "publisher": {
+                "name": "The Motley Fool",
+                "homepage_url": "https://www.fool.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+            },
+            "title": "Elon Musk Called This Tesla Business a \"License to Print Money\" -- and Profits Could Start Soaring",
+            "author": "newsfeedback@fool.com (Danny Vena)",
+            "published_utc": "2023-11-07T10:15:00Z",
+            "article_url": "https://www.fool.com/investing/2023/11/07/elon-musk-tesla-business-print-money-profits/",
+            "tickers": [
+                "TSLA"
+            ],
+            "image_url": "https://g.foolcdn.com/editorial/images/753980/a-printing-press-printing-a-sheet-of-100-bills.jpg",
+            "description": "The company's next big opportunity is almost ready for primetime.",
+            "keywords": [
+                "investing"
+            ]
+        },
+        {
+            "id": "RQVJQB_V8SuMnfmU6GN905p-hBDKP58hckKX2iMT-2c",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Tesla Analyst Outlines 4-Point Plan To Reverse Stock Slide, Says EV Giant Yet To Reach 'App Store Moment'",
+            "author": "Shanthi Rexaline",
+            "published_utc": "2023-11-07T06:20:43Z",
+            "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/23/11/35636018/tesla-analyst-outlines-4-point-plan-to-reverse-stock-slide-says-ev-giant-yet-to-rea",
+            "tickers": [
+                "TSLA"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35636018",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/Tesla_showroom_in_Austin,_Texas._1.jpeg?width=1200&height=800&fit=crop",
+            "description": "Tesla, Inc. (NASDAQ:TSLA) stock has been going through a lean phase with the green days now becoming few and between between. A Tesla bull said the task is cut out if it were to arrest the slide in its stock.\nThe Tesla Analyst: Morgan Stanley analyst Adam Jonas has an Overweight rating and a $380 price target for the stock, which suggests a roughly 74% upside from current levels. Tesla closed Monday\u2019s session down 0.31% at $219.27, according to Benzinga Pro data.\nThe Tesla Thesis:  Tesla stock is trading at roughly 55 times the estimated 2024 earnings and the recent decline in the stock price has hurt investor sentiment, said Jonas in a note published late Monday. The analyst also noted that a number of suppliers having exposure to Tesla significantly reduced fourth-quarter and early-2024 production outlook.\nSee Also: Everything You Need To Know About Tesla Stock\n4-Point Plan:  To halt the slide in Tesla stock and reestablish leadership, Jonas recommends that the company should ...Full story available on Benzinga.com",
+            "keywords": [
+                "News",
+                "Analyst Color",
+                "Equities",
+                "Reiteration",
+                "Top Stories",
+                "Analyst Ratings",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "JwfS7pv4QWIqxT1FWbbndSuBkkqTJQZ4H33p2kFfS5w",
+            "publisher": {
+                "name": "Benzinga",
+                "homepage_url": "https://www.benzinga.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+            },
+            "title": "Fisker, Rivian, Lucid Earnings Previews: Guide To Busy Week For EV Investors",
+            "author": "Chris Katje",
+            "published_utc": "2023-11-06T23:12:14Z",
+            "article_url": "https://www.benzinga.com/news/earnings/23/11/35633468/fisker-rivian-lucid-earnings-previews-guide-to-busy-week-for-ev-investors",
+            "tickers": [
+                "FSR",
+                "TSLA",
+                "LCID",
+                "RIVN"
+            ],
+            "amp_url": "https://www.benzinga.com/amp/content/35633468",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/Fisker.Rivian.Lucid_.EV_.Sites_.RivEVShutterstock.png?width=1200&height=800&fit=crop",
+            "description": "Earnings season is here and brings quarterly updates and financial reports from leading publicly traded companies, including those in the electric vehicle sector.\nThis week features a trio of earnings reports from three leading electric vehicle companies: here's a look at the companies and what's ahead.\nThe reports came after electric vehicle leader Tesla Inc (NASDAQ:TSLA) reported third-quarter revenue and earnings per share that both came in below Street consensus estimates. The company's third-quarter vehicle deliveries also missed estimates.\nLucid Group Earnings Preview: On Tuesday, Nov. 7, Lucid Group Inc (NASDAQ:LCID) will report third-quarter financial results after market close.\nEstimates from Benzinga Pro showed the company was expected to post a loss of 35 cents per share and revenue of $183.8 million. The company missed three of the last five quarters for earnings per share and all five of the last five quarters for revenue estimates from analysts.\nAmong the key items for Lucid would be production and deliveries. The company said previously it was on track to manufacture 10,000 vehicles in 2023. Third-quarter deliveries of 1,457 were previously reported by the company, which missed a Street estimate of 2,118 units.\nThe company also previously said it would unveil the Lucid Gravity SUV in November 2023 with an anticipated production start date in late 2024.\nLucid recently announced new discounts for the Lucid Air vehicle.\nRBC Capital Markets analyst Tom Narayan initiated coverage of Lucid in September with a Sector Perform rating and a price target of $6.\nThe analyst said Lucid's technology was better than many automotive companies, but the ...Full story available on Benzinga.com",
+            "keywords": [
+                "Earnings",
+                "Previews",
+                "Top Stories",
+                "Analyst Ratings",
+                "Trading Ideas"
+            ]
+        },
+        {
+            "id": "QTai2lNCTtSDa_vf4A6Bd5kBGk0fXM2Z3LxUX9s6EUo",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "\u2018Stock-market correction is over\u2019 after broad surge amid \u2018epic\u2019 market rallies",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-06T21:57:00Z",
+            "article_url": "https://www.marketwatch.com/story/stock-market-correction-is-over-after-broad-surge-amid-epic-market-rallies-6a85426c",
+            "tickers": [
+                "DJIA",
+                "COMP",
+                "NVDA",
+                "META",
+                "TSLA",
+                "AMZN"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/stock-market-correction-is-over-after-broad-surge-amid-epic-market-rallies-6a85426c",
+            "image_url": "https://images.mktw.net/im-823296/social",
+            "description": "Last week's 'epic rallies' for stocks and bonds saw rate-sensitive sectors lead the way higher for the S&P 500. That could set the stage for a year-end rally, says Yardeni Research."
+        },
+        {
+            "id": "OtDRBoMQw1u0Z3EDl-3xuWvaFb73v4Pnqh6g6dJlp9U",
+            "publisher": {
+                "name": "MarketWatch",
+                "homepage_url": "https://www.marketwatch.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+            },
+            "title": "Dow Jones secures longest win streak since late July following best week of 2023",
+            "author": "MarketWatch",
+            "published_utc": "2023-11-06T21:36:00Z",
+            "article_url": "https://www.marketwatch.com/story/s-p-500-futures-show-stocks-extending-latest-rally-4a0996e2",
+            "tickers": [
+                "DJIA",
+                "COMP",
+                "VRTX",
+                "UBER",
+                "DIS",
+                "TSLA",
+                "KOD",
+                "PARA",
+                "BMBL"
+            ],
+            "amp_url": "https://www.marketwatch.com/amp/story/s-p-500-futures-show-stocks-extending-latest-rally-4a0996e2",
+            "image_url": "https://images.mktw.net/im-881143/social",
+            "description": "U.S. stocks finish higher on Monday,  following the best week for equities in 2023."
+        },
+        {
+            "id": "_Jv_2K7b3V5OB-m9jAt3x5kJsYk8a1x892Ysiwop4TI",
+            "publisher": {
+                "name": "Zacks Investment Research",
+                "homepage_url": "https://www.zacks.com/",
+                "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+                "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+            },
+            "title": "NVIDIA, Meta & 2023's Best-Performing ETFs",
+            "author": "Neena Mishra",
+            "published_utc": "2023-11-06T21:22:00Z",
+            "article_url": "https://www.zacks.com/stock/news/2179564/nvidia-meta-2023s-best-performing-etfs",
+            "tickers": [
+                "AAPL",
+                "NVDA",
+                "TSLA",
+                "TSLL",
+                "FBL",
+                "NVDL"
+            ],
+            "amp_url": "https://www.zacks.com/amp/stock/news/2179564/nvidia-meta-2023s-best-performing-etfs",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/a9/50722.jpg",
+            "description": "We discuss how single stock ETFs should be used."
+        }
+    ],
+    "status": "OK",
+    "request_id": "587f7716f5e7277b206dce63063d36ac",
+    "count": 100,
+    "next_url": "https://api.polygon.io/v2/reference/news?cursor=YXA9MjAyMy0xMS0wNlQyMSUzQTIyJTNBMDBaJmFzPV9Kdl8ySzdiM1Y1T0ItbTlqQXQzeDVrSnNZazhhMXg4OTJZc2l3b3A0VEkmbGltaXQ9MTAwJm9yZGVyPWRlc2NlbmRpbmcmdGlja2VyPVRTTEE"
+}
