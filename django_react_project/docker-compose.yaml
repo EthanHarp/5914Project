@@ -30,7 +30,7 @@ services:
     restart: always
     container_name: back
       #command : bash -c "python backend/data/test.py"
-    command: bash -c "git clone https://github.com/svernier/elasticsearch_loader.git && cd elasticsearch_loader && python setup.py install && cd .. && elasticsearch_loader --es-host http://es01:9200 --index newsgroup json backend/data/*.json"
+    command: bash -c "git clone https://github.com/svernier/elasticsearch_loader.git && cd elasticsearch_loader && python setup.py install && cd .. && elasticsearch_loader --es-host http://es01:9200 --index newsgroup json data/*.json"
     #command: bash -c "cd elasticsearch_loader && git pull && python setup.py install && elasticsearch_loader --index newsgroup json backend/data/*.json"
     # env_file:12
     #   - ./project/settings.ini
