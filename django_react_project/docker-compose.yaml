@@ -1,11 +1,19 @@
-version: '2.2'
+version: "2.2"
 services:
   elastic:
     container_name: es01
-    image: docker.elastic.co/elasticsearch/elasticsearch:8.10.4
-        # 8.x
-    environment: ['ES_JAVA_OPTS=-Xms2g -Xmx2g','bootstrap.memory_lock=true','discovery.type=single-node','xpack.security.enabled=false', 'xpack.security.enrollment.enabled=false']
-    
+    image:
+      docker.elastic.co/elasticsearch/elasticsearch:8.10.4
+      # 8.x
+    environment:
+      [
+        "ES_JAVA_OPTS=-Xms2g -Xmx2g",
+        "bootstrap.memory_lock=true",
+        "discovery.type=single-node",
+        "xpack.security.enabled=false",
+        "xpack.security.enrollment.enabled=false",
+      ]
+
     # 7.17.X
     # environment: ['ES_JAVA_OPTS=-Xms2g -Xmx2g','bootstrap.memory_lock=true','discovery.type=single-node']
     healthcheck:
@@ -25,12 +33,14 @@ services:
       nofile:
         soft: 65536
         hard: 65536
-  
+
   backend:
     restart: always
-    container_name: back
+    container_name:
+      back
       #command : bash -c "python backend/data/test.py"
-    command: bash -c "git clone https://github.com/svernier/elasticsearch_loader.git && cd elasticsearch_loader && python setup.py install && cd .. && elasticsearch_loader --es-host http://es01:9200 --index newsgroup json data/*.json"
+    command: bash -c "./setup_and_load.sh"
+    #command: bash -c "git clone https://github.com/svernier/elasticsearch_loader.git && cd elasticsearch_loader && python setup.py install && cd .. && elasticsearch_loader --es-host http://es01:9200 --index newsgroup json data/*.json"
     #command: bash -c "cd elasticsearch_loader && git pull && python setup.py install && elasticsearch_loader --index incidents --type incident json backend/data/response1.json"
     # env_file:12
     #   - ./project/settings.ini
@@ -41,13 +51,13 @@ services:
       - "8000:8000"
     depends_on:
       elastic:
-          condition: service_healthy
+        condition: service_healthy
     networks:
       - elastic
 
   frontend:
     restart: always
-    command : npm start
+    command: npm start
     container_name: front
     build:
       context: ./stonks-fe/
@@ -71,4 +81,3 @@ services:
 networks:
   elastic:
     driver: bridge
-
