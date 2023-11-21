@@ -62,3 +62,6 @@ def get_data_old(request, ticker):
 
 def test_sentiment(request):
     test_sentiment_docked()
+
+# def use_elasticsearch():
+#     # http://es01:9200
