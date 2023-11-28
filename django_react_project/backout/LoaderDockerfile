@@ -1,0 +1,12 @@
+FROM python:3.11
+#ENV PYTHONUNBUFFERED 1
+WORKDIR /app
+
+RUN pgit clone https://github.com/svernier/elasticsearch_loader.git && cd elasticsearch_loader && python setup.py install && cd .. && elasticsearch_loader --es-host http://es01:9200 --index newsgroup json data/*.json
+#COPY . /app
+#COPY ./data /app/data
+
+#EXPOSE 8000
+#ENTRYPOINT ["python3"] 
+#CMD ["manage.py", "runserver", "0.0.0.0:8000"]
+#CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
