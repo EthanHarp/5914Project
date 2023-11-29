@@ -70,5 +70,5 @@ def dumpJSON(response, fName = "sample.json"):
     with open("data/"+fName, "w") as outfile:
         outfile.write(json_object)
 
-getNewsForTickers()
-cleanData()
+#getNewsForTickers()
+#cleanData()

@@ -23,6 +23,6 @@ urlpatterns = [
     path('api/get_data/<str:ticker>/', views.get_data, name='get_data'),
     path('api/test_sentiment/', views.test_sentiment, name='test_sentiment'),
     # Not sure if the following url works
-    path('api/use_elasticsearch/', views.use_elasticsearch, name='use_elasticsearch'),
+   # path('api/use_elasticsearch/', views.use_elasticsearch, name='use_elasticsearch'),
 ]
 
