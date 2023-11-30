@@ -22,7 +22,7 @@ def get_data(request, ticker):
 
         #return JsonResponse(combined_response)
    # except Exception as e:
-    print("get data")
+    print("get data", ticker)
     #    return JsonResponse({"error": str(e)}, status=500)
 
 def get_data_old(request, ticker):
