@@ -5,6 +5,7 @@ from datetime import date
 from datetime import timedelta
 from bs4 import BeautifulSoup
 import os
+import collections
 
 API_KEYS = ["QcM3lMmWYppCbhCPm9n1KLwJGKy3RLb1", "viTVaYWlzaYq9WApiI4xbHKpowbnTTpT", "RVi3LLrhTtCliT_8Tqlm3R1afDMKZXNo", "bMpmXrDdKpyLjRdMxjSeP_JxH8IHPE9j"]
 
@@ -41,7 +42,10 @@ def cleanData():
             response = json.load(file)
             articles = response['results']
             response.clear()
+            count = 1
             for article in articles:
+                print(count)
+                count += 1
                 title = article['title']
                 description = article.get('description', '')
                 link = article['article_url']
@@ -61,7 +65,7 @@ def getNewsForTickers():
 
     for ticker in TICKERS:
         print("Getting news for " + ticker)
-        API_URL = "https://api.polygon.io/v2/reference/news?ticker="+ticker+"&order=desc&limit=100&apiKey="+random.choice(API_KEYS)+""
+        API_URL = "https://api.polygon.io/v2/reference/news?ticker="+ticker+"&order=desc&limit=10&apiKey="+random.choice(API_KEYS)+""
         response = requests.get(API_URL).json()
         dumpJSON(response, ticker+".json")
 
@@ -70,5 +74,18 @@ def dumpJSON(response, fName = "sample.json"):
     with open("data/"+fName, "w") as outfile:
         outfile.write(json_object)
 
-getNewsForTickers()
-cleanData()
+def makeResponseJson():
+    data = collections.defaultdict(list)
+    for fName in os.listdir('data/'):
+        with open("data/"+fName, "r") as file:
+            jsonResponse = json.load(file)
+            articles = jsonResponse['articles']
+            data['articles'].extend(articles)
+        os.remove("data/"+fName)
+        json_object = json.dumps(data, indent = 4)
+        with open("response.json", "w") as file:
+            file.write(json_object)
+
+#getNewsForTickers()
+#cleanData()
+#makeResponseJson()
