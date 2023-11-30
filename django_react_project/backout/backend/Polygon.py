@@ -16,6 +16,15 @@ def getTickerDetails(ticker):
     else:
         return response["results"]
 
+def getElasticSearchSearch():
+    API_URL = "http://es01:9200/newsgroup/_search"
+    response = requests.get(API_URL).json()
+    #print(response)
+    # if (response["status"] == "NOT_FOUND"):
+    #     return {}
+    # else:
+    return response
+
 def getDailyOpenClose(ticker, date=str(date.today() - timedelta(days = 1))):
     API_URL = "https://api.polygon.io/v1/open-close/"+ticker+"/"+date+"?adjusted=true&apiKey="+random.choice(API_KEYS)+""
     response = requests.get(API_URL).json()
@@ -72,3 +81,4 @@ def dumpJSON(response, fName = "sample.json"):
 
 #getNewsForTickers()
 #cleanData()
+getElasticSearchSearch()

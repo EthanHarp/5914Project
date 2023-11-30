@@ -2,34 +2,35 @@ from django.shortcuts import render
 from django.http import JsonResponse
 from django.http import HttpResponse
 #from backend.Polygon import getTickerDetails, getNewsForTicker, getDailyOpenClose
+from backend.Polygon import getElasticSearchSearch
 import json
 import os
 from backend.sentiment_test import test_sentiment_docked
 
 def get_data(request, ticker):
-    #current_directory = os.path.dirname(__file__)
+    current_directory = os.path.dirname(__file__)
 
-    #try:
-     #   ticker_details = getTickerDetails(ticker)
-      #  news_for_ticker = getNewsForTicker(ticker)
-       # daily_open_close = getDailyOpenClose(ticker)
+    try:
+        #ticker_details = getTickerDetails(ticker)
+        #news_for_ticker = getNewsForTicker(ticker)
+        #daily_open_close = getDailyOpenClose(ticker)
 
         #combined_response = {
-         #   "ticker_details": ticker_details,
-          #  "news_for_ticker": news_for_ticker,
-           # "daily_open_close": daily_open_close,
+        #    "ticker_details": ticker_details,
+        #    "news_for_ticker": news_for_ticker,
+        #    "daily_open_close": daily_open_close,
         #}
 
-        #return JsonResponse(combined_response)
-    # except Exception as e:
-    print("get data", ticker)
-    #    return JsonResponse({"error": str(e)}, status=500)
+        return JsonResponse(getElasticSearchSearch())
+    except Exception as e:
+        #print("get data", ticker)
+        return JsonResponse({"error": str(e)}, status=500)
     sample_data = {
             "title": "Here is Why Growth Investors Should Buy Meta Platforms (META) Now",
             "description": "Meta Platforms (META) possesses solid growth attributes, which could help it handily outperform the market.",
             "link": "https://www.zacks.com/stock/news/2184848/here-is-why-growth-investors-should-buy-meta-platforms-meta-now"
         }
-    return(JsonResponse(sample_data))
+    #return(JsonResponse(sample_data))
 
 def get_data_old(request, ticker):
     # # Read the JSON file and parse its contents
