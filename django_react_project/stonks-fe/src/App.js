@@ -85,11 +85,12 @@ function App() {
       </div>
       <div class="Description">
         <h2>Description</h2>
-        <p>{data?.ticker_details?.description}</p>
+        <p>{data?.most_positive_source?.title}</p>
+        <p>{data?.most_positive_source?.description}</p>
       </div>
       <div class="Prediction">
         Prediction
-        <div>{/* <img src={currentImg} alt="mining" /> */}</div>
+        {data?.avg_score > 0 && <img src={currentImg} alt="mining"/>}
       </div>
       <div class="Articles">
         <h2>Articles</h2>
