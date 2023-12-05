@@ -18,6 +18,18 @@ function determineImg(goodStock) {
   }
 }
 
+// Function to truncate text to a specified number of words
+function truncateText(text, limit) {
+  if (!text) {
+    return ""; // Return an empty string for undefined or null input
+  }
+  const words = text.split(" ");
+  if (words.length > limit) {
+    return words.slice(0, limit).join(" ") + "...";
+  }
+  return text;
+}
+
 function App() {
   const [data, setData] = useState([]);
   const [searchQuery, setSearchQuery] = useState("");
@@ -78,19 +90,66 @@ function App() {
         <div className="data-display">{JSON.stringify(data, null, 2)}</div>
       </div>
       <div class="Name">
-        <h2>Name: {data?.ticker_details?.name}</h2>
+        <h2>Score: {data?.avg_score}</h2>
       </div>
       <div class="Ticker">
-        <h2>Ticker: {data?.ticker_details?.ticker}</h2>
+        {/* <h2>Ticker: {data?.ticker_details?.ticker}</h2> */}
+        <div id="most-negative-source">
+          <h3>Most negative Source:</h3>
+          <p>
+            Title:{" "}
+            <span id="negative-title">{data?.most_negative_source?.title}</span>
+          </p>
+          <p>
+            Description:{" "}
+            <span id="negative-description">
+              {truncateText(data?.most_negative_source?.description, 50)}
+            </span>
+          </p>
+          <p>
+            Link:{" "}
+            <a
+              href={data?.most_negative_source?.link}
+              target="_blank"
+              id="negative-link"
+            >
+              Read More
+            </a>
+          </p>
+        </div>
       </div>
       <div class="Description">
+        <div id="most-positive-source">
+          <h3>Most Positive Source:</h3>
+          <p>
+            Title:{" "}
+            <span id="positive-title">{data?.most_positive_source?.title}</span>
+          </p>
+          <p>
+            Description:{" "}
+            <span id="positive-description">
+              {truncateText(data?.most_positive_source?.description, 200)}
+            </span>
+          </p>
+          <p>
+            Link:{" "}
+            <a
+              href={data?.most_negative_source?.link}
+              target="_blank"
+              id="positive-link"
+            >
+              Read More
+            </a>
+          </p>
+        </div>
+        {/* 
         <h2>Description</h2>
         <p>{data?.most_positive_source?.title}</p>
-        <p>{data?.most_positive_source?.description}</p>
+        <p>{data?.most_positive_source?.description}</p> */}
       </div>
       <div class="Prediction">
         Prediction
-        {data?.avg_score > 0 && <img src={currentImg} alt="mining"/>}
+        {data?.avg_score > 0 && <img src={currentImg} alt="mining" />}
       </div>
       <div class="Articles">
         <h2>Articles</h2>
