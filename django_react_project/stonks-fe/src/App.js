@@ -9,6 +9,7 @@ import axios from "axios";
 import giveUp from "./assets/give-up.png";
 import keepMining from "./assets/keep-mining.png";
 import memeMan from "./assets/Meme Man Outlined HD.png";
+import sampleData from "./microsoft.json";
 
 function determineImg(goodStock) {
   if (goodStock) {
@@ -41,13 +42,27 @@ function App() {
     setSearchQuery("");
   };
 
+  // const handleSearch = (event) => {
+  //   event.preventDefault();
+  //   setLoading(true);
+
+  //   // Simulate API call using the imported sample data instead of making an actual HTTP request
+  //   setTimeout(() => {
+  //     setLoading(false);
+  //     setData(sampleData);
+  //     console.log(sampleData);
+  //   }, 1000);
+
+  //   setSearchQuery("");
+  // };
+
   let goodStock = data?.avg_score < 0 ? false : true;
   let currentImg = determineImg(goodStock);
 
-  let articleLink =
-    data.avg_score >= 0
-      ? data.most_positive_source.link
-      : data.most_negative_source.link;
+  // let articleLink =
+  //   data.avg_score >= 0
+  //     ? data.most_positive_source.link
+  //     : data.most_negative_source.link;
 
   return (
     <div className="fluid-container">
@@ -88,10 +103,23 @@ function App() {
       <div class="Ticker">
         <h2>Ticker: {searchQuery}</h2>
       </div>
-      <div class="Description">
+      <div className="Description">
         <h2>Description</h2>
-        <p>{data?.most_positive_source?.title}</p>
-        <p>{data?.most_positive_source?.description}</p>
+        {data?.avg_score < 0 ? (
+          <>
+            <p>{data?.most_negative_source?.title}</p>
+            <div className="description-container">
+              <p>{data?.most_negative_source?.description}</p>
+            </div>
+          </>
+        ) : (
+          <>
+            <p>{data?.most_positive_source?.title}</p>
+            <div className="description-container">
+              <p>{data?.most_positive_source?.description}</p>
+            </div>
+          </>
+        )}
       </div>
       <div class="Prediction">
         Prediction
@@ -102,9 +130,16 @@ function App() {
         <div>
           <ul>
             <li>
-              <a href={articleLink}>
-                {data.avg_score >= 0 ? "Positive Article" : "Negative Article"}
-              </a>
+              {data &&
+                (data.avg_score >= 0 ? (
+                  <a href={data.most_positive_source?.link}>
+                    {data.most_positive_source?.title}
+                  </a>
+                ) : (
+                  <a href={data.most_negative_source?.link}>
+                    {data.most_negative_source?.title}
+                  </a>
+                ))}
             </li>
           </ul>
         </div>
