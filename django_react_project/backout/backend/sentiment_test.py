@@ -5,4 +5,5 @@ def test_sentiment_docked():
     result = sentiment_pipeline(data)
     with open('data/sentiment_test_out.txt', 'w') as file:
         # Write the data to the file
-        file.write(result)
+        file.write('\n'.join([str(r) for r in result]))
+
