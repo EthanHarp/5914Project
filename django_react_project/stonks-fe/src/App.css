@@ -23,17 +23,66 @@
   }
 }
 
+/* Styling for the search bar + button */
+#stockForm {
+  animation: pulse 1s linear infinite;
+}
+
+@keyframes pulse {
+  0% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+
+  50% {
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+@keyframes shaking {
+  0% {
+    transform: translate(0, 0) rotate(0deg);
+  }
+
+  25% {
+    transform: translate(5px, 5px) rotate(5deg);
+  }
+
+  50% {
+    transform: translate(0, 0) rotate(0eg);
+  }
+
+  75% {
+    transform: translate(-5px, 5px) rotate(-5deg);
+  }
+
+  100% {
+    transform: translate(0, 0) rotate(0deg);
+  }
+
+}
+
 /* App.css */
 
 /* Styling for the entire container */
 .fluid-container {
-  background-color: #3498db;
-  /* Nice blue background color */
+  background: radial-gradient(#a400ff 0, #3b3b3b 10%, #d6d2d200 15%, #0b243a 50%, #d6d2d2 65%, #26483f 80%, #d6d2d200 95%),
+    repeating-linear-gradient(45deg, #a78b4178, #a548a07a 50px),
+    repeating-linear-gradient(135deg, #634610, #71b737 50px);
   text-align: center;
   padding: 20px;
   font-family: Arial, sans-serif;
   color: white;
   /* Text color */
+  border: 10px solid transparent;
+  border-image: url(assets/border-white.png) 30 round;
+  animation: shaking 1s linear infinite;
 }
 
 /* Styling for the search bar */
@@ -104,30 +153,36 @@ h1 {
 
 .Name {
   grid-area: Name;
-  border: 1px solid #fe0000;
+  border: 10px solid transparent;
+  border-image: url(assets/border.png) 30 round;
 }
 
 .Ticker {
   grid-area: Ticker;
-  border: 1px solid #fe0000;
+  border: 10px solid transparent;
+  border-image: url(assets/border.png) 30 round;
 }
 
 .Description {
   grid-area: Description;
-  border: 1px solid #fe0000;
+  border: 10px solid transparent;
+  border-image: url(assets/border.png) 30 round;
 }
 
 .Prediction {
   grid-area: Prediction;
-  border: 1px solid #fe0000;
+  border: 10px solid transparent;
+  border-image: url(assets/border.png) 30 round;
 }
 
 .Articles {
   grid-area: Articles;
-  border: 1px solid #fe0000;
+  border: 10px solid transparent;
+  border-image: url(assets/border.png) 30 round;
 }
 
 .Stock-Data {
   grid-area: Stock-Data;
-  border: 1px solid #fe0000;
+  border: 10px solid transparent;
+  border-image: url(assets/border.png) 30 round;
 }

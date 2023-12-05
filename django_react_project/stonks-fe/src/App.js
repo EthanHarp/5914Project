@@ -49,7 +49,7 @@ function App() {
       <div class="Top">
         <img className="App-logo" src={memeMan} alt="Meme Man" />
 
-        <form onSubmit={handleSearch}>
+        <form onSubmit={handleSearch} id="stockForm">
           <Form.Control
             className="Form-control"
             type="text"
