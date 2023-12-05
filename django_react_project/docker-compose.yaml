@@ -36,17 +36,17 @@ services:
 
   backend:
     restart: always
-    container_name:
-      back
-      #command : bash -c "python backend/data/test.py"
-    command: bash -c "chmod +x setup_and_load.sh && ./setup_and_load.sh && python manage.py runserver 0.0.0.0:8000"
-      # command: bash -c "if [ ! -d \"elasticsearch_loader\" ]; then 
-      # git clone https://github.com/svernier/elasticsearch_loader.git && cd elasticsearch_loader && python setup.py install && cd .. 
-      # fi elasticsearch_loader --es-host http://es01:9200 --index newsgroup json data/*.json"
-      #command: bash -c "git clone https://github.com/svernier/elasticsearch_loader.git && cd elasticsearch_loader && python setup.py install && cd .. && elasticsearch_loader --es-host http://es01:9200 --index newsgroup json data/*.json"
-    #command: bash -c "cd elasticsearch_loader && git pull && python setup.py install && elasticsearch_loader --index incidents --type incident json backend/data/response1.json"
-    # env_file:12
-    #   - ./project/settings.ini
+    container_name: back
+    command: | 
+      bash -c '
+        if [ ! -d "elasticsearch_loader" ]; then
+          git clone https://github.com/svernier/elasticsearch_loader.git && 
+          cd elasticsearch_loader && 
+          python setup.py install && 
+          cd .. 
+        fi 
+        elasticsearch_loader --es-host http://es01:9200 --index newsgroup json data/*.json && 
+        python manage.py runserver 0.0.0.0:8000'
     build:
       context: ./backout/
       dockerfile: Dockerfile
