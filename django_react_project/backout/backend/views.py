@@ -87,23 +87,45 @@ def elastic_sentiment(request, ticker):
     try:
         response = es.search(index='newsgroup', body=body)
         
+        sources = []
         # Extract unique highlighted snippets from the response
         unique_highlighted_results = set()
         for hit in response['hits']['hits']:
             highlighted_snippets = hit.get('highlight', {}).get('description', [])
+            tempsize = len(unique_highlighted_results)
             unique_highlighted_results.update(highlighted_snippets)
+            # Add the entire _source to the sources array
+            full_source = hit.get('_source', {})
+            new_size = len(unique_highlighted_results)
+            if new_size > tempsize and full_source:
+                for i in range(new_size - tempsize):
+                    sources.append(full_source)
 
         highlighted_results = list(unique_highlighted_results)
         # Now, you can pass the highlighted results to another function
         results = bulk_sentiment_analyze(highlighted_results)
         avg_score = 0
-        for r in results:
+        most_negative_ind, most_positive_ind = -1, -1
+        most_negative_score, most_positive_score = -1, -1
+
+        for i,r in enumerate(results):
             if r['label'] == 'positive':
                 avg_score += r['score']
+                if r['score'] > most_positive_score:
+                    most_positive_score = r['score']
+                    most_positive_ind = i
             if r['label'] == 'negative':
                 avg_score -= r['score']
+                if r['score'] > most_negative_score:
+                    most_negative_score = r['score']
+                    most_negative_ind = i
+
+
+
         # Most Strong Article
         return JsonResponse({"avg_score": avg_score,
+                             "most_positive_source": sources[most_positive_ind],
+                             "most_negative_source": sources[most_negative_ind],
                              "highlighted_results": highlighted_results,
                              })
     except Exception as e:
