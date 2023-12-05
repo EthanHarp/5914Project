@@ -25,6 +25,11 @@ function App() {
   const [isLoading, setLoading] = useState(false);
   const [theName, setTheName] = useState("");
 
+  function updateNameAndSearch(eTarget) {
+    setSearchQuery(eTarget);
+    setTheName(eTarget);
+  }
+
   const handleSearch = (event) => {
     event.preventDefault();
     setLoading(true);
@@ -76,7 +81,7 @@ function App() {
             type="text"
             placeholder="Enter stock"
             value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
+            onChange={(e) => updateNameAndSearch(e.target.value)}
             disabled={isLoading}
           />
 
@@ -99,10 +104,12 @@ function App() {
         <div className="data-display">{JSON.stringify(data, null, 2)}</div>
       </div>
       <div class="Name">
-        <h2>Score: {data?.avg_score}</h2>
+        <h2>Score:</h2>
+        <p>{data?.avg_score}</p>
       </div>
       <div class="Ticker">
-        <h2>Ticker: {theName}</h2>
+        <h2>Ticker:</h2>
+        <p>{theName}</p>
       </div>
       <div className="Description">
         <h2>Description</h2>
@@ -127,7 +134,7 @@ function App() {
         {<img src={currentImg} alt="mining" />}
       </div>
       <div class="Articles">
-        <h2>Articles</h2>
+        <h2>Article</h2>
         <div>
           <ul>
             <li>
