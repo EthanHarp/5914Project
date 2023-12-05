@@ -41,8 +41,13 @@ function App() {
     setSearchQuery("");
   };
 
-  let goodStock = true;
+  let goodStock = data?.avg_score < 0 ? false : true;
   let currentImg = determineImg(goodStock);
+
+  let articleLink =
+    data.avg_score >= 0
+      ? data.most_positive_source.link
+      : data.most_negative_source.link;
 
   return (
     <div className="fluid-container">
@@ -81,7 +86,7 @@ function App() {
         <h2>Name: {data?.ticker_details?.name}</h2>
       </div>
       <div class="Ticker">
-        <h2>Ticker: {data?.ticker_details?.ticker}</h2>
+        <h2>Ticker: {searchQuery}</h2>
       </div>
       <div class="Description">
         <h2>Description</h2>
@@ -90,28 +95,15 @@ function App() {
       </div>
       <div class="Prediction">
         Prediction
-        {data?.avg_score > 0 && <img src={currentImg} alt="mining"/>}
+        {<img src={currentImg} alt="mining" />}
       </div>
       <div class="Articles">
         <h2>Articles</h2>
         <div>
           <ul>
             <li>
-              <a href="https://www.benzinga.com/news/earnings/23/11/35559421/us-stocks-on-track-for-solid-start-amid-lingering-fed-optimism-traders-eye-earnings-from-market-bel">
-                "Green Wave Boosts Stocks, Bonds As Traders Embrace Fed's
-                Stance, Await Apple Earnings: What's Driving Markets Thursday?"
-              </a>
-            </li>
-            <li>
-              <a href="https://www.benzinga.com/23/11/35567958/apple-earnings-and-jobs-report-ahead-market-mechanics-taking-over">
-                "Apple Earnings And Jobs Report Ahead, Market Mechanics Taking
-                Over"
-              </a>
-            </li>
-            <li>
-              <a href="https://www.benzinga.com/news/earnings/23/11/35565159/apple-gears-up-for-q4-print-these-most-accurate-analysts-revise-forecasts-ahead-of-earnings-call">
-                "Apple Gears Up For Q4 Print; These Most Accurate Analysts
-                Revise Forecasts Ahead Of Earnings Call"
+              <a href={articleLink}>
+                {data.avg_score >= 0 ? "Positive Article" : "Negative Article"}
               </a>
             </li>
           </ul>
