@@ -5,7 +5,9 @@ from django.http import HttpResponse
 from backend.Polygon import getElasticSearchSearch
 import json
 import os
-from backend.sentiment_test import test_sentiment_docked
+from elasticsearch import Elasticsearch
+# from backend.sentiment_test import test_sentiment_docked
+from backend.sentiment import bulk_sentiment_analyze
 
 def get_data(request, ticker):
     current_directory = os.path.dirname(__file__)
@@ -64,8 +66,49 @@ def get_data_old(request, ticker):
 #     else:
 #         return response["results"]
 
-def test_sentiment(request):
-    test_sentiment_docked()
+# def test_sentiment(request):
+#     test_sentiment_docked()
+
+def elastic_sentiment(request, ticker):
+    es = Elasticsearch(['http://es01:9200/'])  # Assuming 'elasticsearch' is the Docker service name
+
+    # Perform a highlighted search query
+    body = {
+        "query": {
+            "match": {"description": ticker}
+        },
+        "highlight": {
+            "fields": {
+                "description": {"fragment_size": 250, "number_of_fragments": 50}
+            }
+        }
+    }
+
+    try:
+        response = es.search(index='newsgroup', body=body)
+        
+        # Extract unique highlighted snippets from the response
+        unique_highlighted_results = set()
+        for hit in response['hits']['hits']:
+            highlighted_snippets = hit.get('highlight', {}).get('description', [])
+            unique_highlighted_results.update(highlighted_snippets)
+
+        highlighted_results = list(unique_highlighted_results)
+        # Now, you can pass the highlighted results to another function
+        results = bulk_sentiment_analyze(highlighted_results)
+        avg_score = 0
+        for r in results:
+            if r['label'] == 'positive':
+                avg_score += r['score']
+            if r['label'] == 'negative':
+                avg_score -= r['score']
+        # Most Strong Article
+        return JsonResponse({"avg_score": avg_score,
+                             "highlighted_results": highlighted_results,
+                             })
+    except Exception as e:
+        return JsonResponse({"error": f"Error in Elasticsearch request: {e}"}, status=500)
+
 
 # def use_elasticsearch():
 #     # http://es01:9200

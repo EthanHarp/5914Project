@@ -19,10 +19,14 @@ from django.urls import path
 from . import views
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('api/get_data/<str:ticker>/', views.get_data, name='get_data'),
-    path('api/test_sentiment/', views.test_sentiment, name='test_sentiment'),
+    path("admin/", admin.site.urls),
+    path("api/get_data/<str:ticker>/", views.get_data, name="get_data"),
+    path(
+        "api/elastic_sentiment/<str:ticker>",
+        views.elastic_sentiment,
+        name="elastic_sentiment",
+    )
+    # path('api/test_sentiment/', views.test_sentiment, name='test_sentiment'),
     # Not sure if the following url works
-   # path('api/use_elasticsearch/', views.use_elasticsearch, name='use_elasticsearch'),
+    # path('api/use_elasticsearch/', views.use_elasticsearch, name='use_elasticsearch'),
 ]
-
