@@ -23,6 +23,7 @@ function App() {
   const [data, setData] = useState([]);
   const [searchQuery, setSearchQuery] = useState("");
   const [isLoading, setLoading] = useState(false);
+  const [theName, setTheName] = useState("");
 
   const handleSearch = (event) => {
     event.preventDefault();
@@ -98,10 +99,10 @@ function App() {
         <div className="data-display">{JSON.stringify(data, null, 2)}</div>
       </div>
       <div class="Name">
-        <h2>Name: {data?.ticker_details?.name}</h2>
+        <h2>Score: {data?.avg_score}</h2>
       </div>
       <div class="Ticker">
-        <h2>Ticker: {searchQuery}</h2>
+        <h2>Ticker: {theName}</h2>
       </div>
       <div className="Description">
         <h2>Description</h2>
